@@ -1,0 +1,37 @@
+name: "Attackers of Opportunity"
+gameType: "Dungeons & Dragons"
+categories:
+  - id: character
+    label: "Characters"
+  - id: npc
+    label: "NPCs"
+  - id: organization
+    label: "Organizations"
+  - id: species
+    label: "Species"
+  - id: location
+    label: "Locations"
+  - id: item
+    label: "Items"
+  - id: spell
+    label: "Spells & Abilities"
+  - id: religion
+    label: "Religions & Cults"
+  - id: vehicle
+    label: "Vehicles & Ships"
+  - id: event
+    label: "Events"
+  - id: lore
+    label: "Lore"
+  - id: game
+    label: "Games"
+visibility:
+  default: gm
+approvals:
+  aiDefault: unapproved
+theme:
+  preset: "fantasy"
+  accent: "#d4a957"
+  accent2: "#a075ff"
+  displayFont: "Fraunces"
+  banner: ""
