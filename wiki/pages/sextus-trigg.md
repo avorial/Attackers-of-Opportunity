@@ -1,0 +1,41 @@
+---
+name: Sextus Trigg
+category: npc
+type: npc
+summary: Type unclear from transcript
+visibility: gm
+approvalStatus: approved
+knownToPlayers: false
+keyLinks: []
+tags:
+  - generated
+  - character
+aliases: []
+importedFrom: Attackers of Opportunity wiki pipeline
+---
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Septimus Trigg -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Octavius's grandfather, predecessor to Septimus.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-124-i-ve-come-to-barter-not-battle|Episode 124: I've Come to Barter, not Battle.]]
+
+- [[episode-124-i-ve-come-to-barter-not-battle|Episode 124: I've Come to Barter, not Battle.]]

@@ -1,0 +1,41 @@
+---
+name: Neton
+category: npc
+type: npc
+summary: Type unclear from transcript
+visibility: gm
+approvalStatus: approved
+knownToPlayers: false
+keyLinks: []
+tags:
+  - generated
+  - character
+aliases: []
+importedFrom: Attackers of Opportunity wiki pipeline
+---
+
+*Type unclear from transcript*
+
+*Also known as: Neaton*
+
+## Description
+
+- A hill giant participating in the challenge to prove himself as an adult. He is defeated by Maeve and later prepares a fish in his hut.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-44-cunning|Episode 44: Cunning]]
+
+- [[episode-44-cunning|Episode 44: Cunning]]

@@ -1,0 +1,41 @@
+---
+name: Vasral Zagor
+category: npc
+type: npc
+summary: Type unclear from transcript
+visibility: gm
+approvalStatus: approved
+knownToPlayers: false
+keyLinks: []
+tags:
+  - generated
+  - character
+aliases: []
+importedFrom: Attackers of Opportunity wiki pipeline
+---
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Vazrol Zagor -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+*(none extracted)*
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-56-q-and-a|Episode 56: Q&A]]
+
+- [[episode-56-q-and-a|Episode 56: Q&A]]

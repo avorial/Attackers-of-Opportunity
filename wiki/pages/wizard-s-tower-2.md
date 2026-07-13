@@ -1,0 +1,25 @@
+---
+name: Wizard's Tower
+category: location
+type: location
+summary: Located in the foothills of the Ori Mountains. Contains protective
+  wards and arcane items. Key objective for the party.
+visibility: gm
+approvalStatus: approved
+knownToPlayers: false
+keyLinks: []
+tags:
+  - generated
+aliases: []
+importedFrom: Attackers of Opportunity wiki pipeline
+---
+
+## Description
+
+- Located in the foothills of the Ori Mountains. Contains protective wards and arcane items. Key objective for the party.
+
+## Appearances
+
+**First appearance:** [[side-quest-bloody-hand-part-1|Side Quest - Bloody Hand Part 1]]
+
+- [[side-quest-bloody-hand-part-1|Side Quest - Bloody Hand Part 1]]

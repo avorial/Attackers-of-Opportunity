@@ -1,0 +1,25 @@
+---
+name: Mountainous Valley
+category: location
+type: location
+summary: Visionary location seen by Valak during the quickening, featuring a
+  valley with floating imagery.
+visibility: gm
+approvalStatus: approved
+knownToPlayers: false
+keyLinks: []
+tags:
+  - generated
+aliases: []
+importedFrom: Attackers of Opportunity wiki pipeline
+---
+
+## Description
+
+- Visionary location seen by Valak during the quickening, featuring a valley with floating imagery.
+
+## Appearances
+
+**First appearance:** [[episode-129-facts-of-the-universe|Episode 129: Facts of the Universe]]
+
+- [[episode-129-facts-of-the-universe|Episode 129: Facts of the Universe]]

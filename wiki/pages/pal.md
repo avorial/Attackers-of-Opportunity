@@ -1,0 +1,39 @@
+---
+name: Pal
+category: npc
+type: npc
+summary: Type unclear from transcript
+visibility: gm
+approvalStatus: approved
+knownToPlayers: false
+keyLinks: []
+tags:
+  - generated
+  - character
+aliases: []
+importedFrom: Attackers of Opportunity wiki pipeline
+---
+
+*Type unclear from transcript*
+
+## Description
+
+- Sells green stones and invitations. Discussed by the party as a potential contact for tickets to the wedding.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-75-best-pal|Episode 75: Best Pal]]
+
+- [[episode-75-best-pal|Episode 75: Best Pal]]

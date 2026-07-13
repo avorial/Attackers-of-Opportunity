@@ -1,0 +1,31 @@
+---
+name: Cloak of Protection
+category: item
+type: item
+summary: "Possible duplicate of: Cloaks of Protection -- unresolved, see
+  possibleduplicatesreview.md"
+visibility: gm
+approvalStatus: approved
+knownToPlayers: false
+keyLinks: []
+tags:
+  - generated
+aliases: []
+importedFrom: Attackers of Opportunity wiki pipeline
+---
+
+> **Possible duplicate of:** Cloaks of Protection -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- An item for sale at Smelt My Heart.
+
+## Owner(s)
+
+- Smelt My Heart (armorsmith Camille)
+
+## Appearances
+
+**First appearance:** [[episode-18-who-s-dorian-s-daddy|Episode 18: Who's Dorian's Daddy]]
+
+- [[episode-18-who-s-dorian-s-daddy|Episode 18: Who's Dorian's Daddy]]

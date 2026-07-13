@@ -1,0 +1,41 @@
+---
+name: Harvey
+category: npc
+type: npc
+summary: Type unclear from transcript
+visibility: gm
+approvalStatus: approved
+knownToPlayers: false
+keyLinks: []
+tags:
+  - generated
+  - character
+aliases: []
+importedFrom: Attackers of Opportunity wiki pipeline
+---
+
+*Type unclear from transcript*
+
+*Also known as: Harvey bird person, birdman*
+
+## Description
+
+- A character referenced as a potential opponent in a fight. Likely a joke or fictional name.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-117-live-barroom-blitz|Episode 117: LIVE! Barroom Blitz!]]
+
+- [[episode-117-live-barroom-blitz|Episode 117: LIVE! Barroom Blitz!]]
