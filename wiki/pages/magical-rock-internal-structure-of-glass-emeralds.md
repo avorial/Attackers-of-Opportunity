@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A fake, enchanted rock with a unique internal structure, described as
   'rock adjacent.'
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

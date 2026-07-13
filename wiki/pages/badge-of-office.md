@@ -3,9 +3,9 @@ name: Badge of Office
 category: item
 type: item
 summary: Symbol of authority for Spring Court handlers
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A robe worn by Dorian, with red hands visible when arms are raised,
   referencing 'Mano Islam' (hands of fate).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

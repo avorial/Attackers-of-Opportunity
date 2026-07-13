@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A rapier catches children by surprise, creating a hula-hoop-like effect
   around the character, leading to a mix of fear and admiration from the kids.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

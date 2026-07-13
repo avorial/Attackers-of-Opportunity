@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical item discussed as needing replacement with a non-magical
   facsimile to avoid detection by the Spring Council.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

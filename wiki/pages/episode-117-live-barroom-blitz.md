@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A character (inferred to be a player) attempts to affect the Dragonborn
   with a con save, rolling a 19 on the die.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

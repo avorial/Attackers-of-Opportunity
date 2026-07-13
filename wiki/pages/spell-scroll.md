@@ -3,9 +3,9 @@ name: spell scroll
 category: item
 type: item
 summary: mentioned as a potential token of help
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

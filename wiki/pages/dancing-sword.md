@@ -3,9 +3,9 @@ name: Dancing Sword
 category: item
 type: item
 summary: An item for sale at Smelt My Heart.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

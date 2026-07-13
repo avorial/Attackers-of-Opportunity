@@ -4,9 +4,9 @@ category: vehicle
 type: vehicle
 summary: A ship captained by Captain Cade. Stores the party's gear and is the
   destination for the rescue mission.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

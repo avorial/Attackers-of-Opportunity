@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Valak attempts to cross a river using a rope anchored with heavy rocks
   but fails, getting swept downstream.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

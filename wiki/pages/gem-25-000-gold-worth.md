@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A gem required as a focal point for the ritual to destroy the artifact.
   It is not consumed in the ritual.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

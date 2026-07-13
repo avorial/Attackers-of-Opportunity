@@ -3,9 +3,9 @@ name: Flawless Grotto Clan
 category: location
 type: location
 summary: Ancestral home of Maeve's mother, according to Octavius Trigg.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

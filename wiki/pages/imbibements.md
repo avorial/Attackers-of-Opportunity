@@ -3,9 +3,9 @@ name: Imbibements
 category: item
 type: item
 summary: Alcoholic beverages consumed by the group, including mead.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

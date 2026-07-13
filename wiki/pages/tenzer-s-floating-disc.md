@@ -3,9 +3,9 @@ name: Tenzer's Floating Disc
 category: item
 type: item
 summary: Discussed as a potential method to cross the bridge.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

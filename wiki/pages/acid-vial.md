@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A yellow vial identified as mild acid, capable of splashing and dealing
   1d4 acid damage to multiple targets.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

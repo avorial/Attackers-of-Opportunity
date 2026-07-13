@@ -3,9 +3,9 @@ name: Pitcher
 category: item
 type: item
 summary: A blunt object used by Valak to deal damage and knock out enemies.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

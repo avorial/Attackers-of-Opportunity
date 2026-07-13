@@ -5,9 +5,9 @@ type: location
 summary: An extremely long hallway running the length of the citadel, possibly
   ending over the water at the cliff above the spring. It is 105 feet long, with
   skeletons attached to the walls every 10 feet. The hallway jogs left 80
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

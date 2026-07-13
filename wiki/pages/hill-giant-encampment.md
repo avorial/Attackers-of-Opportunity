@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Located north-northeast of the main goblin encampment, with 20 hill
   giants interacting with hobgoblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

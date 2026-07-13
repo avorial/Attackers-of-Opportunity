@@ -4,9 +4,9 @@ category: item
 type: item
 summary: "Possible duplicate of: Octagonal rod with a metal skull -- unresolved,
   see possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

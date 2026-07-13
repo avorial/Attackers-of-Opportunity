@@ -3,9 +3,9 @@ name: Flaming Orb (cantrip)
 category: item
 type: item
 summary: A fire-based cantrip used by a party member.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

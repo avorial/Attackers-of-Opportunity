@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magic item that can unlock doors. Used three times to open the
   third-floor door, causing concussive force waves.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

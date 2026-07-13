@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A spell cast by a player to heal the party, providing 13 healing points
   to each member.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Brigandine
 category: item
 type: item
 summary: Type of ship proposed for ocean travel.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

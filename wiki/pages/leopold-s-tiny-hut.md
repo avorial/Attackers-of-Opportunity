@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical hut with 10-foot radius (20x20 feet), fits 9 medium or
   smaller creatures.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

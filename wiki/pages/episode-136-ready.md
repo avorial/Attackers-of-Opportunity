@@ -5,9 +5,9 @@ type: event
 summary: Valak uses his teleportation helm to teleport to the Fires of the Vrung
   but experiences a teleportation mishap, landing on another ship before
   returning to Black Fang's ship.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

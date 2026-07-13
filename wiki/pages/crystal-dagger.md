@@ -3,9 +3,9 @@ name: Crystal Dagger
 category: item
 type: item
 summary: Found by Dirt on tree; used as signal for raft pickup.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

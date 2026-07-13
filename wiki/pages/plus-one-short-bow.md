@@ -3,9 +3,9 @@ name: Plus one short bow
 category: item
 type: item
 summary: A magical weapon found in a supply cache.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

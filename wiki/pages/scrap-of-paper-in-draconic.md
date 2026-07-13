@@ -3,9 +3,9 @@ name: Scrap of paper in Draconic
 category: item
 type: item
 summary: Describes an entity consuming something to gain power.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

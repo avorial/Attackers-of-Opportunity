@@ -3,9 +3,9 @@ name: Sixing Capital in Jasso
 category: location
 type: location
 summary: A capital city mentioned in a petition.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: East Nepomis
 category: location
 type: location
 summary: A city in the Uslisan region of Tralia, south of Tovahia.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Large sapphire
 category: item
 type: item
 summary: An artifact lent by a family for a ritual, to be destroyed by Valak.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

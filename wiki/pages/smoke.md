@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Visible smoke from a fire lit in the chimney, causing Constitution
   saving throws.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

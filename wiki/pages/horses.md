@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Four rented horses (plus a spare) costing 10 gold each, used by the
   party for travel.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A corroded brass ring belt, likely from the same set as the relic boots
   and scabbard.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

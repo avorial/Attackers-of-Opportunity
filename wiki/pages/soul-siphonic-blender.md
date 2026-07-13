@@ -3,9 +3,9 @@ name: Soul Siphonic Blender
 category: item
 type: item
 summary: A magical device used to extract and fragment souls for use in automata.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

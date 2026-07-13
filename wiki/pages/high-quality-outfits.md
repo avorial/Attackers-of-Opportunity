@@ -3,9 +3,9 @@ name: High-quality outfits
 category: item
 type: item
 summary: Six outfits found in an armoire, worth 2-3 gold each.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

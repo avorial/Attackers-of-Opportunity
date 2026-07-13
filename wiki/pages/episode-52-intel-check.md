@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Characters discuss the number and proximity of howling creatures,
   determining they are static in the distance.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

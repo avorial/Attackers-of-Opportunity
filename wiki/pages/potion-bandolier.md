@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A leather set of straps allowing easy access to potions, holding up to
   five potions. Consuming a potion requires a minor action.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A half-dome chamber at the top of the Citadel, described as calm and
   peaceful upon arrival.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Gold coin belt
 category: item
 type: item
 summary: A belt with 20 gold coins hidden in slots, found in Dorian's father's closet.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

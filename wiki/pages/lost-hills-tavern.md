@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A tavern with a spiraling staircase to a third-story open area,
   frequented by elves, half-elves, humans, and a dwarf.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Divine Smite
 category: item
 type: item
 summary: A spell that deals radiant damage as a bonus action.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

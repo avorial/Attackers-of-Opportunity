@@ -3,9 +3,9 @@ name: Pine needles
 category: item
 type: item
 summary: Used for making pine needle tea, given to the party by the cook.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

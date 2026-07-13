@@ -4,9 +4,9 @@ category: event
 type: event
 summary: The party discusses and visits various locations in town, including the
   feathered serpent tea house, Shadow Brews tavern, and the Wayfinder Inn.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

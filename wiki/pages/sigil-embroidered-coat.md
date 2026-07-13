@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A deep forest green coat with protective sigils embroidered on the
   inside edge. Likely enchanted for warding purposes.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

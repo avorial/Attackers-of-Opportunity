@@ -3,9 +3,9 @@ name: Prayer Bead of Burning Smites
 category: item
 type: item
 summary: An item used by Valak to channel divinity and smite enemies.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

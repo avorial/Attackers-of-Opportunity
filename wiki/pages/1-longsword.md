@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A polished, shiny longsword found in the dragon's loot. It thrums with
   energy and is a +1 weapon.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Mimosas
 category: item
 type: item
 summary: A type of drink served at Dorian's bar.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Salmon bagel
 category: item
 type: item
 summary: Custom breakfast item with poached egg.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A double-sized statue of a dwarf with a sword and shield, located at
   the funeral site, symbolizing the Silverthrust family's heritage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

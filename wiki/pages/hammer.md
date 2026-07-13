@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used by a player to cast light, described as having a pierced earring
   and being used for illumination.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

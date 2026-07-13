@@ -3,9 +3,9 @@ name: Relic Scabbard
 category: item
 type: item
 summary: A leather scabbard with finely embossed leaf patterns and twig-like symbols.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

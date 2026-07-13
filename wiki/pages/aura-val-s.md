@@ -3,9 +3,9 @@ name: Aura (Val's)
 category: item
 type: item
 summary: Protective magical effect granted by Val; expands to ten feet.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

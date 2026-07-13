@@ -3,9 +3,9 @@ name: Helm
 category: item
 type: item
 summary: Color not explicitly stated, but its appearance is discussed
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: the cabin
 category: location
 type: location
 summary: A location where the party is staying, with a magical hut nearby.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

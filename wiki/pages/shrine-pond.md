@@ -3,9 +3,9 @@ name: Shrine Pond
 category: location
 type: location
 summary: A location near the wedding site where Girard plans to use ducks as messengers.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -5,9 +5,9 @@ type: item
 summary: A dagger that grants +1d4 to attack and damage rolls against dragons.
   After killing a dragon, it grows slightly in size and is coated in dragon
   blood.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

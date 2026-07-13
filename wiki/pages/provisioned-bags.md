@@ -3,9 +3,9 @@ name: Provisioned Bags
 category: item
 type: item
 summary: Each horse carries food for the riders and brain cakes for the horses.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

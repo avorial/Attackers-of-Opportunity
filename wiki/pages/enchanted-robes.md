@@ -3,9 +3,9 @@ name: Enchanted Robes
 category: item
 type: item
 summary: Grant a 15-foot fly speed for one long rest when activated.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Flame grade sword
 category: item
 type: item
 summary: Used by Balak to shine light in the tunnel.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

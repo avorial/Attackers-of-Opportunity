@@ -3,9 +3,9 @@ name: Weeping Skull Circlet
 category: item
 type: item
 summary: An artifact associated with Vaz'rule, part of a set of relics.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: NPC (short tabaxi with gray fur)
 category: npc
 type: npc
 summary: Type unclear from transcript
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

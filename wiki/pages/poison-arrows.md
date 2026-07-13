@@ -3,9 +3,9 @@ name: Poison arrows
 category: item
 type: item
 summary: Prepared by Maeve for elven archers to use in the initial assault.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

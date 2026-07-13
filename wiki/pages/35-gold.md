@@ -3,9 +3,9 @@ name: 35 Gold
 category: item
 type: item
 summary: Found during looting of two goblin corpses.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

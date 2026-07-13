@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Maeve is confronted by a captured individual who claims knowledge of
   her ancestry, leading to a discussion about her possible royal lineage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

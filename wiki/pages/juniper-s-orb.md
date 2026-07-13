@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A glowing sphere that heals creatures within 30 feet with a reaction,
   granting 2 hit points (one-time use).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

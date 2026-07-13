@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A site where goblin priests congregate, part of the goblinoid army's
   operations under Vazuruzegor.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

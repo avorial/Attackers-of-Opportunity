@@ -3,9 +3,9 @@ name: Mirror Image
 category: item
 type: item
 summary: A spell cast by Dorian to create three doppelgangers that emit blinding light.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

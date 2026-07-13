@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Black leather armor that allows adding proficiency to stealth rolls.
   Worn by Maeve.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A road where Jarvik is standing, seemingly for no reason, and where the
   confrontation between Freya and Jarvik takes place.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Disguise cell phone
 category: item
 type: item
 summary: A spell used for disguise, requiring recasting as it does not last an hour.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

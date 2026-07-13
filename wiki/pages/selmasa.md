@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Another neighboring nation that would need to be involved in
   negotiations with the goblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

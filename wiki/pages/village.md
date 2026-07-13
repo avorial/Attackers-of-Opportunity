@@ -4,9 +4,9 @@ category: location
 type: location
 summary: The village where villagers reported missing people; the players are
   tasked with retrieving them.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: spell slot
 category: item
 type: item
 summary: Resource expended during Divine Smite.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

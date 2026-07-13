@@ -3,9 +3,9 @@ name: Yellow sapphire ring
 category: item
 type: item
 summary: A ring with a yellow sapphire core and a fiery red impurity, worth 1,000 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

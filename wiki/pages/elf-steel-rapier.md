@@ -3,9 +3,9 @@ name: Elf Steel Rapier
 category: item
 type: item
 summary: A magical weapon for sale at Smelt My Heart.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

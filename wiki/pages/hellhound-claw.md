@@ -3,9 +3,9 @@ name: Hellhound claw
 category: item
 type: item
 summary: A claw from the hellhound, left stuck in a tree.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

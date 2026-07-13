@@ -3,9 +3,9 @@ name: Great Forge
 category: location
 type: location
 summary: Strategic location to destroy goblin weapons; near Vazrul Zagor's headquarters
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

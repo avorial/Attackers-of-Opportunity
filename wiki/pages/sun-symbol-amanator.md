@@ -3,9 +3,9 @@ name: Sun Symbol (Amanator)
 category: item
 type: item
 summary: Embroidered on Siobhan's cloak. Represents the sun god Amanator.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

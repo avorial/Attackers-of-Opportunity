@@ -3,9 +3,9 @@ name: Port area
 category: location
 type: location
 summary: A location where the party interacts with fans and Black Fang's ship arrives.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

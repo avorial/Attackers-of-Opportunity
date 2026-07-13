@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Ancient magical runes carved into stones at watchtowers. Previously
   empowered but now dormant. Can be reactivated with energy.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

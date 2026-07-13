@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Gifted to Valak by the Spring Court. A nicer version of the guard
   uniform, likely for VIP occasions.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

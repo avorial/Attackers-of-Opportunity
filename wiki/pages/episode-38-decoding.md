@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Players interrogate goblin priest Brunt about the conclave of goblin
   priests and Vazrul Zegor's plans.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

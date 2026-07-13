@@ -3,9 +3,9 @@ name: Teaspoon
 category: item
 type: item
 summary: An object used in conjunction with the helm for teleportation.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

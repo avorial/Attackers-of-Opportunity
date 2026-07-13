@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Three-colored stone columns (black, gray, white) with names and
   carvings, representing military ranks, Rangers, and local leaders.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

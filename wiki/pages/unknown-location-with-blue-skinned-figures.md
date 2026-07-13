@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A midday scene with blue-skinned beings (two with wolf fur, one with
   webbed fingers) negotiating a deal.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

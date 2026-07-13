@@ -3,9 +3,9 @@ name: Moonbeam Spell
 category: item
 type: item
 summary: Casts a damaging beam of light, used by Moonbeam against Burster.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

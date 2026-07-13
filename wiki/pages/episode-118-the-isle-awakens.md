@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A group of adventurers discusses arranging an audience with a dragon
   named Olish, who is located on a turtle-shaped island.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

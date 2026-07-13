@@ -3,9 +3,9 @@ name: "Episode 79: Primp-off"
 category: event
 type: event
 summary: Investigation of a suspicious tent near the hotel with no visible entrance.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

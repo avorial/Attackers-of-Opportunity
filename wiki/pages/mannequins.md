@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Dressed in armor from different eras, ranger gear, and robes; some
   knocked over, others with artifacts on them.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

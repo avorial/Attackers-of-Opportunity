@@ -3,9 +3,9 @@ name: Key to the storage room
 category: item
 type: item
 summary: A key used to lock Chef Burrell out of the storage room.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

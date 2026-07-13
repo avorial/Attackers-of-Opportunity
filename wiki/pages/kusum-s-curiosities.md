@@ -3,9 +3,9 @@ name: Kusum's Curiosities
 category: location
 type: location
 summary: "First appearance: Episode 62: Building Walls"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

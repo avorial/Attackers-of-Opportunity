@@ -3,9 +3,9 @@ name: Armor Bag
 category: item
 type: item
 summary: An item providing temporary hit points.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Pearl necklace (15 pieces, each worth 1,000 gold)
 category: item
 type: item
 summary: A set of pearls with identical color and shade, extremely rare and valuable.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

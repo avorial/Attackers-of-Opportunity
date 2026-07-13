@@ -3,9 +3,9 @@ name: the woods
 category: location
 type: location
 summary: A location where Pelerinor retreated to avoid goblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

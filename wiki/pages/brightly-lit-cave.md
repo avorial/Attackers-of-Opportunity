@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A cave with vibrant colors and self-generated light, containing
   hundreds of large ants and a tunnel leading to an unknown area.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

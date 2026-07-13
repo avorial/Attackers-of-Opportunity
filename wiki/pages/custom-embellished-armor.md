@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Worn by Captain Pretnar, with filigree and swirls distinguishing it
   from standard elven armor.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

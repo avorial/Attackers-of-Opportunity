@@ -3,9 +3,9 @@ name: Plus Two Dagger
 category: item
 type: item
 summary: Finely made dagger with a pommel shaped like a turtle.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

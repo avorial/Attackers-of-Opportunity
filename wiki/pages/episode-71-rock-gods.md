@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A character discusses a Redeemer attempting to make peace between
   ancient rivals and offer redemption.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A spell cast by Moonbeam, dealing fire and radiant damage in a 10-foot
   radius, 40-foot-high cylinder.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

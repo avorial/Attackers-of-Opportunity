@@ -5,9 +5,9 @@ type: location
 summary: A location described as the 'pirate headquarters of the world' and a
   place where the group can travel quickly due to proximity to the 'turtle
   dragon'.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

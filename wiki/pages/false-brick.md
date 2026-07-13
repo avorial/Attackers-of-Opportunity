@@ -3,9 +3,9 @@ name: False Brick
 category: item
 type: item
 summary: A hidden brick in the wall that opens a secret door.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

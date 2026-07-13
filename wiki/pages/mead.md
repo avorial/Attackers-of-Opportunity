@@ -3,9 +3,9 @@ name: Mead
 category: item
 type: item
 summary: Alcoholic drink ordered by a player.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

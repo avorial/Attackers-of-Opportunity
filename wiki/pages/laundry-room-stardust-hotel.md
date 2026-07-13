@@ -3,9 +3,9 @@ name: Laundry Room (Stardust Hotel)
 category: location
 type: location
 summary: Utilitarian staff area with bedcloths, tablecloths, and napkins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: +1 Throwing Daggers (set of three)
 category: item
 type: item
 summary: Elvish-flair steel weapons with honed tips.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

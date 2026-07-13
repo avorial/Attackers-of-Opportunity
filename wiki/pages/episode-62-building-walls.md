@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Heroes cleaned out Heroes Rest, a mausoleum and museum near Saren, by
   crushing a giant ant colony and collapsing the tunnel.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

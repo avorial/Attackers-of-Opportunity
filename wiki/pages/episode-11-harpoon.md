@@ -4,9 +4,9 @@ category: event
 type: event
 summary: DM describes the setting as evening with a long rest during travel, now
   having dinner heading towards nighttime.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

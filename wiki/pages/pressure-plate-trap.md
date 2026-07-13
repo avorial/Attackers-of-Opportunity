@@ -3,9 +3,9 @@ name: Pressure plate trap
 category: item
 type: item
 summary: A trap triggered by stepping on a pressure plate, causing spikes to emerge.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

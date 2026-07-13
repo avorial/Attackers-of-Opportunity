@@ -3,9 +3,9 @@ name: Spell Scroll (Spare the Dying)
 category: item
 type: item
 summary: Thematic cantrip spell scroll found in a corpse's possession.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

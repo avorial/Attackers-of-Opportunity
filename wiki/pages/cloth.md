@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used by Maeve to present the meal to the shaman. She also has a cloth
   in her bag.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

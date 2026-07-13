@@ -3,9 +3,9 @@ name: Mage Hand
 category: item
 type: item
 summary: Spell used to feed Octavius Trigg during interrogation.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

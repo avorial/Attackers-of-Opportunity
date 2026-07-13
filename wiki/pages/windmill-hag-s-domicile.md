@@ -5,9 +5,9 @@ type: location
 summary: A structure that was once a windmill, now in disrepair. Only one blade
   remains attached, hanging almost straight down. It is the residence of the
   swamp hag.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

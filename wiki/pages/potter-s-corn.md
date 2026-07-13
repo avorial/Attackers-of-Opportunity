@@ -3,9 +3,9 @@ name: Potter's Corn
 category: item
 type: item
 summary: A ration item used by Valak as part of his offering.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

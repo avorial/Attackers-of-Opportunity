@@ -3,9 +3,9 @@ name: Quarter staff
 category: item
 type: item
 summary: Used to knock out Quiet Seer during the escape plan.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Diamond the size of a baseball, cut into near-perfect facets, valued
   for grand occasions.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

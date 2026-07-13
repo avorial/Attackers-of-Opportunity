@@ -5,9 +5,9 @@ type: location
 summary: A field where people are frozen mid-step, facing away from the party.
   The area is described as having a dome-like curvature and a temporal field
   effect.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

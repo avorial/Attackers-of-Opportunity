@@ -3,9 +3,9 @@ name: Lauraya House
 category: location
 type: location
 summary: Trading house with four warehouses and caravans
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

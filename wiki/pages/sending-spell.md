@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A level 3 spell allowing 25-word messages to familiar recipients with
   unlimited range.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

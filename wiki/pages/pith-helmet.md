@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A protective headgear worn by a character to guard against rocks thrown
   through windows
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Biscuits
 category: item
 type: item
 summary: Baked goods served with breakfast.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

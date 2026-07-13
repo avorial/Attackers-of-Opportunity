@@ -3,9 +3,9 @@ name: Iridium gold-plated pendant
 category: item
 type: item
 summary: A pendant with a meteorite-like stone, possibly a fragment of a meteorite.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

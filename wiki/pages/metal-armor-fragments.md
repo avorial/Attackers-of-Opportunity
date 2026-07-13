@@ -3,9 +3,9 @@ name: Metal armor fragments
 category: item
 type: item
 summary: Metal from armor that was not fully burned.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

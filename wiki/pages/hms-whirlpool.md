@@ -3,9 +3,9 @@ name: HMS Whirlpool
 category: item
 type: item
 summary: The ship the party is trying to reach in the town dock.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

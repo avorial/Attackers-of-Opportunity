@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Hidden items taken by heroes who defeated the Necromancer; clues left
   in multiple languages.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

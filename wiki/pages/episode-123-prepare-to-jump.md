@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Dorian and Valak discuss surveillance strategies for monitoring
   Barrios, including using mirrors and keyholes.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

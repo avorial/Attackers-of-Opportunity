@@ -3,9 +3,9 @@ name: Canos
 category: location
 type: location
 summary: A destination the group is traveling to in order to save the world.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

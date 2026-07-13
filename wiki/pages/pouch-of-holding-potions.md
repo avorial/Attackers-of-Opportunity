@@ -3,9 +3,9 @@ name: Pouch of Holding (Potions)
 category: item
 type: item
 summary: Holds potions in a demi-plane; contents remain hidden until accessed.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

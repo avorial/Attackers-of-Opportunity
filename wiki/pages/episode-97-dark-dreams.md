@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Discussion about the Shadowfell as a dark reflection of the Feywild,
   with beings making dark deals.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

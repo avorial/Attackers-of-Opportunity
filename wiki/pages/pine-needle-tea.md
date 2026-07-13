@@ -3,9 +3,9 @@ name: Pine needle tea
 category: item
 type: item
 summary: A tea flavor chosen for Dickey's birthday celebration.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Five guards are observed patrolling with varying numbers (pairs and
   triplets), wearing blue city patrol uniforms and stones.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

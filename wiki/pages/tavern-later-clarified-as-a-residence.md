@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location where the group initially believes they are, but it's
   corrected to be a private home.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

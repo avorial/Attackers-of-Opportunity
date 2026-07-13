@@ -3,9 +3,9 @@ name: 2000 Gold Chest
 category: item
 type: item
 summary: A heavy wooden box containing 2000 gold coins, carried by Cooley.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Balance of Torval
 category: item
 type: item
 summary: A magical artifact related to balance.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

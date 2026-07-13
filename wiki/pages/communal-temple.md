@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A temple housing marble busts of deities from various religions, with a
   shrine dedicated to Raoul
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

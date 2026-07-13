@@ -3,9 +3,9 @@ name: Hack
 category: item
 type: item
 summary: A vehicle equivalent to a taxi used to travel to the upper town.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

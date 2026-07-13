@@ -3,9 +3,9 @@ name: Ranger's Office
 category: location
 type: location
 summary: Location where the party was escorted after the goblin attack.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

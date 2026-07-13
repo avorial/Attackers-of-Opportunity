@@ -3,9 +3,9 @@ name: Platinum Ring
 category: location
 type: location
 summary: A group or organization that Maeve and others plan to join.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

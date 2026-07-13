@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A cloak made from dragon scales, requiring 470 gold if processed
   overnight or 450 gold if processed over three days.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

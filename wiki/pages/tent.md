@@ -3,9 +3,9 @@ name: Tent
 category: item
 type: item
 summary: Planned to be set up as part of a campsite.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

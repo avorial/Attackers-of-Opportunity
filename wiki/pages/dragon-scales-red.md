@@ -3,9 +3,9 @@ name: Dragon scales (red)
 category: item
 type: item
 summary: Five scales returned to Dickey by Rylin; possibly used for magical crafting.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

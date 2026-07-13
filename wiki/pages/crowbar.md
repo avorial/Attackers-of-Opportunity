@@ -3,9 +3,9 @@ name: Crowbar
 category: item
 type: item
 summary: Used by Maeve to open the thick, dark wooden door.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

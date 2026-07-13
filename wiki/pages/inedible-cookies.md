@@ -3,9 +3,9 @@ name: Inedible cookies
 category: item
 type: item
 summary: Cookies described as 'unedible' by Phil but enjoyed by Chef Burrell/Berle.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

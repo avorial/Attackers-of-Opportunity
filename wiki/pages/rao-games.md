@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Annual games similar to go and chess, held in temples of Rao. A draw is
   considered the closest to peace in a war game. Occurring in seven weeks.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

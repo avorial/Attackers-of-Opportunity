@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A piece of jewelry worn by Maeve, described as a 'little brooch that
   like clasps together.'
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

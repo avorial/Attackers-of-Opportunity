@@ -3,9 +3,9 @@ name: Dresses
 category: item
 type: item
 summary: Mentioned as being brought for 'Ma' (likely Mama Dickis).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

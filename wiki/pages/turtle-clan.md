@@ -3,9 +3,9 @@ name: Turtle Clan
 category: organization
 type: organization
 summary: A clan led by Demayo Ubu, accused of assassinating the Bear Clan daimyo.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

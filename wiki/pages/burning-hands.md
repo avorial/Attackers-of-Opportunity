@@ -3,9 +3,9 @@ name: Burning Hands
 category: item
 type: item
 summary: A spell dealing 10 damage in a 15-foot cone.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A character named Doryen attempts to use Eldritch Blast against Gerard,
   but the ritual circle may block or diffuse the spell's damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

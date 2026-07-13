@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used by Saito and Yumi for attacks; arrows burn away upon impact with
   the salamander.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

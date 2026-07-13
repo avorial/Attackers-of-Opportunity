@@ -3,9 +3,9 @@ name: Gold coin (non-standard)
 category: item
 type: item
 summary: A coin used in negotiation, noted to be different from standard gold coins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

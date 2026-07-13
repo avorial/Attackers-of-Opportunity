@@ -3,9 +3,9 @@ name: Ring with Hidden Magic Aura
 category: item
 type: item
 summary: A ring that appears non-magical when touched but has a magic aura when not.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Infused Platinum Quill
 category: item
 type: item
 summary: A magical writing instrument used for scribing rituals.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

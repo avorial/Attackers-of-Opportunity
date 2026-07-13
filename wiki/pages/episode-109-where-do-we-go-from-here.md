@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Necromantic elemental fades away after imparting information about
   Gerard's plane of existence.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

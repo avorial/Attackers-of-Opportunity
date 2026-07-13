@@ -3,9 +3,9 @@ name: Dimensional Door
 category: item
 type: item
 summary: A spell used to teleport to Barrios Silverthrust.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A reptilian creature being trained by a party member; has been fed Bug
   Bear flesh.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

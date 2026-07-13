@@ -3,9 +3,9 @@ name: Glass Vials
 category: item
 type: item
 summary: Four glass vials untouched by fungal growth, located near the entrance.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

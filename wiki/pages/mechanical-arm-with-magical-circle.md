@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A prosthetic arm belonging to the mechanical man, accompanied by a
   floating magical circle about an inch tall at his eye level.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

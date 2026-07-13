@@ -3,9 +3,9 @@ name: Leather Belt and Scabbard
 category: item
 type: item
 summary: Found alongside the boots, with decayed organic material.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

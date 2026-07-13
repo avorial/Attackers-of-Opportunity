@@ -3,9 +3,9 @@ name: Hand Axe
 category: item
 type: item
 summary: A melee weapon used by Sinatra for attacks.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

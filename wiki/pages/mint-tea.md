@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A tea brewed from mint leaves found by Dirt for the children at the
   Lauraya Trading House.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

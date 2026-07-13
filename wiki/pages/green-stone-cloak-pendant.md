@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical item from the Spring Court that loses enchantment properties
   when in contact with living flesh.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

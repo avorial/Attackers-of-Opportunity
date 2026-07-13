@@ -5,9 +5,9 @@ type: location
 summary: An ancient fort at the headwaters of the river. Constructed of
   sandstone. Features fallen archways, watchtowers with runes, and thick walls.
   Once used for trade but now in disrepair.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

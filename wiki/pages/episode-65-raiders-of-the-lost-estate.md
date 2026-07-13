@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Maeve attempts to hide from a guard on the second floor and rolls a
   stealth check (natural 1).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

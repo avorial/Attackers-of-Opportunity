@@ -3,9 +3,9 @@ name: Gold Hand Inn
 category: location
 type: location
 summary: A dining establishment where the party is invited for dinner.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

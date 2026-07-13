@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A purple potion with silver glints, granting the effects of the 'haste'
   spell for two minutes.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

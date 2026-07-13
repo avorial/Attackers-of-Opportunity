@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A character discusses creating arrows with acid vials that explode on
   impact, dealing 1d6 acid damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: The party retrieves Wyvern eyes from a Wyvern graveyard in Kameli after
   observing the Wyvern life cycle involving a red gem and a heart-shaped object.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

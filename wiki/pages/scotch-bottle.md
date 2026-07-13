@@ -3,9 +3,9 @@ name: Scotch bottle
 category: item
 type: item
 summary: A brown-colored bottle found in the study.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: The party takes a long rest after midnight, with a percentile dice roll
   resulting in 14% chance of an event.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

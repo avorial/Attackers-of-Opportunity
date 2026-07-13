@@ -3,9 +3,9 @@ name: Unsheathed Scabbard
 category: item
 type: item
 summary: Title/prop associated with Volk; 'second coming' referenced.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

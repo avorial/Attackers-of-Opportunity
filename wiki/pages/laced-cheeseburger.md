@@ -3,9 +3,9 @@ name: Laced cheeseburger
 category: item
 type: item
 summary: A humorous, fictional item mentioned as a potential distraction for Maeve.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

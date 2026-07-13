@@ -3,9 +3,9 @@ name: Greater Healing Potions
 category: item
 type: item
 summary: Two found during looting.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

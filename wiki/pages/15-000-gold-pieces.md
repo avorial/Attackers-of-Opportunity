@@ -3,9 +3,9 @@ name: 15,000 gold pieces
 category: item
 type: item
 summary: A large sum of money found in the dark bedroom.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

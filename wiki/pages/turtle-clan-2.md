@@ -3,9 +3,9 @@ name: Turtle Clan
 category: location
 type: location
 summary: Has an honor guard of 20 samurai and is the target of the party's mission.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

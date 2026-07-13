@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Group discusses the nature of good and evil, with 10% of the population
   inclined towards each, and the rest on a spectrum.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A small creek with mud, muck, and flowing water. Crossed by the group.
   The bridge is cut here.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

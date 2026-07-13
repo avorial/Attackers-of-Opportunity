@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Dorian's half-brother informs him that their father has been arrested
   for not prioritizing the safety of the people.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

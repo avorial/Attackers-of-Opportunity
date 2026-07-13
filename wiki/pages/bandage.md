@@ -3,9 +3,9 @@ name: Bandage
 category: item
 type: item
 summary: Covering a through-and-through harpoon wound.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

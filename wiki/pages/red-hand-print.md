@@ -3,9 +3,9 @@ name: Red hand print
 category: item
 type: item
 summary: Marker used to identify non-target allies (e.g., wargs).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

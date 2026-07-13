@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Armor that Valak offered to a dragon as part of a deal, later discussed
   as crucial for survival.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

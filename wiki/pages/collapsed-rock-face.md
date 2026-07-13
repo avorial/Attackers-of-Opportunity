@@ -3,9 +3,9 @@ name: Collapsed Rock Face
 category: location
 type: location
 summary: A collapsed entry shaft with two openings used by goblins for ambushes.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

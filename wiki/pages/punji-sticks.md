@@ -3,9 +3,9 @@ name: Punji Sticks
 category: item
 type: item
 summary: Spike traps suggested for defense
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

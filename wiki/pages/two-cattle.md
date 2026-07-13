@@ -3,9 +3,9 @@ name: Two Cattle
 category: item
 type: item
 summary: Bait for the dragon, purchased from Teardros for 20 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

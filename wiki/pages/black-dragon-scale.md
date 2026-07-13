@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A critical item needed for the Council of Sinisma's dealings with
   Archmage Gerard. It is a target for the necromancer Lord.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

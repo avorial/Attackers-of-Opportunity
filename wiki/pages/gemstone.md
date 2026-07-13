@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A gemstone being negotiated for purchase. The party plans to pay half
   the cost, with the remainder to be negotiated later.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

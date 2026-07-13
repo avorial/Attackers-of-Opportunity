@@ -3,9 +3,9 @@ name: Note signed 'Z'
 category: item
 type: item
 summary: Instructions for doppelgangers to kill military leaders of Seasons Glade.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

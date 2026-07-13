@@ -3,9 +3,9 @@ name: "Episode 36: The God's Eye"
 category: event
 type: event
 summary: Balak enters the crystalline half-dome with 'dirt' and stares at Rao's stars.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

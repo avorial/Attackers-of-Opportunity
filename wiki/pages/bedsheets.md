@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used by Clever Flame to disguise her pregnancy and by Cinder to create
   a turban disguise.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

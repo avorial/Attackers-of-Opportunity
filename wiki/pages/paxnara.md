@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A school of the arcane with a public library containing a midnight
   blue-bound book.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

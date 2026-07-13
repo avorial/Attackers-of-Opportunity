@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A piece of armor with acid resistance. The shopkeeper mentions it but
   does not provide details on its properties.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

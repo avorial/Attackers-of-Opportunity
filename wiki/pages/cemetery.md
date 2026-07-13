@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location where the party is permitted to camp, surrounded by cows
   that block their exit.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Lorne Threeping House
 category: location
 type: location
 summary: A lodging where Valak is staying. Located on the other side of the city.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

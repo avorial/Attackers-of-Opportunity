@@ -6,9 +6,9 @@ summary: The group has returned to Lauraya Trading House after previous
   adventures in Seasons Glade. Dinner has occurred, and the room is described
   with two large tables, children from the Circle K crew, and an attendant in
   the k
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

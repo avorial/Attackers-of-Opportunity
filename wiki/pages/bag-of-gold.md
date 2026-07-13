@@ -3,9 +3,9 @@ name: Bag of Gold
 category: item
 type: item
 summary: Used by Valak as an improvised weapon to break an assassin's concentration.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

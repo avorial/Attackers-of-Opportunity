@@ -3,9 +3,9 @@ name: Bear Clan
 category: organization
 type: organization
 summary: A clan whose daimyo was murdered, prompting the samurai's revenge mission.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

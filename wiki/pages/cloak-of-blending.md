@@ -3,9 +3,9 @@ name: Cloak of Blending
 category: item
 type: item
 summary: A magical cloak allowing the wearer to blend in with crowds.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

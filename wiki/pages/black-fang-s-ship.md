@@ -3,9 +3,9 @@ name: Black Fang's ship
 category: location
 type: location
 summary: A ship captained by Black Fang, visible on the horizon.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

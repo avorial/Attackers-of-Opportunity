@@ -3,9 +3,9 @@ name: Wizard goo
 category: item
 type: item
 summary: A noxious, magical residue identified as valuable to wizards.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

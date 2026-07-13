@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Party arrives at elven camp with 60 soldiers, some injured from
   patrols. Captain Pretnar is present with three squads.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

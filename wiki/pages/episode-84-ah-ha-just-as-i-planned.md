@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Dickie arrives at the estate with 14 elven guards in a flying V
   formation, demanding entry to speak with the Winter Lady about a prison break.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

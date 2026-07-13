@@ -3,9 +3,9 @@ name: plus one rapier
 category: item
 type: item
 summary: finely made, honed tips, Damascus pattern, flexible blade
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -5,9 +5,9 @@ type: location
 summary: A secured area beneath the Citadel Hotel with traps, metal doors, and
   chambers for storing goods. It is described as having a natural cave formation
   foundation.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

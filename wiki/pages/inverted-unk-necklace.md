@@ -3,9 +3,9 @@ name: Inverted unk necklace
 category: item
 type: item
 summary: A gaudy gold necklace with gems, possibly valuable or symbolic.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

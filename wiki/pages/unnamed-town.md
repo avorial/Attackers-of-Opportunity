@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A town with a history involving Zarin and a cultural tradition of
   honoring heroes.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

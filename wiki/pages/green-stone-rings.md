@@ -4,9 +4,9 @@ category: item
 type: item
 summary: "Possible duplicate of: Green Stone Ring, Dark Green Stone Ring,
   Greenstone Ring, Green stones -- unresolved, see possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Carved harp
 category: item
 type: item
 summary: An exotic wood harp with ivory inlay and zircon gemstones, worth 500 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

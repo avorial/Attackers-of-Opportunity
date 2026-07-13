@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Pauldrons shaped like skulls. Bracers with jagged, violent-looking
   runes. Linked to necromancy in the arcana check description.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

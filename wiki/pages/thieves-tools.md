@@ -3,9 +3,9 @@ name: Thieves Tools
 category: item
 type: item
 summary: Used by a player to pick the lock on the back store room.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

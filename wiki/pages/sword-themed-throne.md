@@ -3,9 +3,9 @@ name: Sword-Themed Throne
 category: item
 type: item
 summary: A massive throne in the Turtle Clan castle made from melted swords.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

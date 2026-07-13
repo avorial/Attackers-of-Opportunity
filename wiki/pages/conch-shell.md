@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical artifact said to summon water when activated with proper
   words, tied to a myth about the Maasai River and Tabahia.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A circular area where Valak and the hill giant wrestle. The hill giant
   is pushed out of the ring.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

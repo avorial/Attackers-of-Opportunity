@@ -5,9 +5,9 @@ type: location
 summary: A large, 15x15 foot magical circle with six rings of rooms. Each ring
   corresponds to different rituals (summoning angels, teleportation, etc.). The
   chamber has a massive magical circle with rooms arranged in circles arou
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

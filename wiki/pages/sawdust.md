@@ -3,9 +3,9 @@ name: Sawdust
 category: item
 type: item
 summary: Used as a binding agent in the description of a cookie's texture.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

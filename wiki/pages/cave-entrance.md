@@ -4,9 +4,9 @@ category: location
 type: location
 summary: The starting point of the adventure, with a collapsed rock face and an
   opening to the left.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

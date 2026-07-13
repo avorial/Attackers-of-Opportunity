@@ -3,9 +3,9 @@ name: Crystal rod
 category: item
 type: item
 summary: Maeve touches her crystal rod in a private moment.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

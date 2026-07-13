@@ -5,9 +5,9 @@ type: item
 summary: A large, heavy metal door 10 feet wide and 50 feet tall. Features
   arcane runes and a large spinning wheel with six pegs made of different
   metals.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

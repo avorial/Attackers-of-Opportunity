@@ -3,9 +3,9 @@ name: The Golden Circle
 category: location
 type: location
 summary: A group whose members were found hacked apart
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: map of Tavahia
 category: item
 type: item
 summary: Found in a book; includes Lake Brin and other major elements.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

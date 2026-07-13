@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A large cavern filled with colorful minerals and swarming with hundreds
   of giant ants.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

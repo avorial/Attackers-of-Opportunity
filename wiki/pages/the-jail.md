@@ -3,9 +3,9 @@ name: The Jail
 category: location
 type: location
 summary: Dorian's father is imprisoned here. The party plans to attack it.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

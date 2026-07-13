@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A half-gallon of oil found by a character, insufficient for an
   explosive but usable for small fires.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

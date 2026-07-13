@@ -3,9 +3,9 @@ name: Writ of Nobility
 category: item
 type: item
 summary: A document produced by Dorian Visandara to prove his noble status.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

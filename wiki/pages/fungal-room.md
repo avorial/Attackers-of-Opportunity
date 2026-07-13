@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A damp, dark room covered in fungal blooms, gold coins, a weapon haft,
   studded leather armor, and glass vials.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

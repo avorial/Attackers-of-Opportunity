@@ -3,9 +3,9 @@ name: Brillo Pad
 category: item
 type: item
 summary: Used by Volok to scrub a magical ward on the stone floor.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

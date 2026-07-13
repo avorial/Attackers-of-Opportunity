@@ -3,9 +3,9 @@ name: Chamelee
 category: location
 type: location
 summary: A country to the south of Tabahia, where tortle friends are heading.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

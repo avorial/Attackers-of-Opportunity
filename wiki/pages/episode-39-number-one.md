@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Brunt the goblin is assigned to night watch by the party, but he is
   suspicious of the arrangement, fearing betrayal.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: "Episode 6: Ambush!!!"
 category: event
 type: event
 summary: Characters defeated a two-headed hellhound creature in a previous adventure.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

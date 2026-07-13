@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Decorated with unique lines; each assigned to a different guard for
   identification.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

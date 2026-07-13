@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A silverwork item given by the mysterious woman. Used to power the
   fort's magical wards.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

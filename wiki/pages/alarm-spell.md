@@ -3,9 +3,9 @@ name: Alarm (spell)
 category: item
 type: item
 summary: Cast by Dorian to ward the campsite.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

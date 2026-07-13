@@ -3,9 +3,9 @@ name: Halfling Weed
 category: item
 type: item
 summary: Offered to the dwarves as a potential bribe.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

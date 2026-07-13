@@ -3,9 +3,9 @@ name: Cask of Ale
 category: item
 type: item
 summary: A cask of ale costing 5 gold, used to appease construction workers.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

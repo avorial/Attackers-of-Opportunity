@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Players attempt to sneak into Dorian's family estate using stealth,
   with Maeve targeting a bedroom for jewelry.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

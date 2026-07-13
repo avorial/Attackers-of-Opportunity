@@ -3,9 +3,9 @@ name: Rotten rope
 category: item
 type: item
 summary: A previously used rope now rotting after being soaked and stored for days.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

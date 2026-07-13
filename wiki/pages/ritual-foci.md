@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Includes candles, silver decorations, and a book used in the
   mind-control ritual.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

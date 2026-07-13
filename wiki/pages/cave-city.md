@@ -3,9 +3,9 @@ name: Cave City
 category: location
 type: location
 summary: Underground location where Octavius Trigg was held.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

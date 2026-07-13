@@ -3,9 +3,9 @@ name: Arcane Runes
 category: item
 type: item
 summary: Carved into the vault door, these runes are part of the door's mechanism.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

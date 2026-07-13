@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A dark, shadowy world where Moonbeam is transported during a stealth
   attempt; populated by shadow figures.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

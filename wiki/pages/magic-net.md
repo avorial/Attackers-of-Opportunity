@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical item that appears from the sky, restrains the ant, and deals
   20 damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

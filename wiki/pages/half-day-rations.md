@@ -3,9 +3,9 @@ name: Half-day Rations
 category: item
 type: item
 summary: Found on a body by Dickey, suggesting the soldier was on a stakeout.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Branding Spite
 category: item
 type: item
 summary: Spell cast by Valak and Durt to increase movement speed.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Players negotiate with the livery stable master for horses, offering a
   25 gold security deposit and agreeing to return them unharmed.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

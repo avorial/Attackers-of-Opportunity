@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location with a destroyed ritual circle and a teleportation circle,
   tied to the 'stone of intellect.'
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

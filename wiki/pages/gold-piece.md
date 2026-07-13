@@ -3,9 +3,9 @@ name: Gold Piece
 category: item
 type: item
 summary: Used to bribe the street urchin.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

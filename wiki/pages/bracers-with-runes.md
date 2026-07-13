@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Found on the spellcaster doppelganger; finely tooled leather with
   magical etchings.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

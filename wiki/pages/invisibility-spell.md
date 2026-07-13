@@ -5,9 +5,9 @@ type: item
 summary: A spell with the verbal component 'obscura' that can render the caster
   invisible. The book becomes invisible when placed in a pack under the spell's
   effect.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

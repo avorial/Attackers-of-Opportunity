@@ -3,9 +3,9 @@ name: Charcoal for forging weapons
 category: item
 type: item
 summary: Produced by goblins chopping down trees near the large forging area.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location where rituals are performed and where the story of the Night
   of the Empty Skipper is discussed.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

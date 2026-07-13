@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Arrival at the Golden Winter Tea House, described as a respectable
   neighborhood's front-facing establishment.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

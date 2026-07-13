@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Guards form a perimeter outside the gate, covering a 12x12 area. A
   cleared walkway is present, with onlookers watching the proclamation.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

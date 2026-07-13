@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Bland, dry cookies that are described as 'sawdust' and later used as
   weapons by Berios.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

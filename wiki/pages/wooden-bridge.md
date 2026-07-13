@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A dilapidated structure spanning 65 feet, with rotten planks and wooden
   dowels holding the rope in place.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

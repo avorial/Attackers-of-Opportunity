@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A character is held in chains by the council of four until they can
   report in person.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

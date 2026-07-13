@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A walled area in Saren, likely housing administrative buildings or the
   residences of the wealthy due to its higher walls.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

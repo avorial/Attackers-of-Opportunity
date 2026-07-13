@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Location with tasks for the party to address, including threats like
   Greek colonies, Knoll packs, and a troll near the Athea border.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

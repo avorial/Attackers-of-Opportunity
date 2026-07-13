@@ -3,9 +3,9 @@ name: Gold-Plated Furniture
 category: item
 type: item
 summary: Luxurious furnishings in the tortle official's house.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used during the short rest; Colby rolls a 17 and a 20, with ones
   granting advantage on future rolls.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

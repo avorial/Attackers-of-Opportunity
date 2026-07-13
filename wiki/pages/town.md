@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A settlement near the vineyard and barn. Edvard mentions it is two
   days' travel from Etror.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

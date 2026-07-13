@@ -3,9 +3,9 @@ name: Hellhound heads
 category: item
 type: item
 summary: Two heads of the slain two-headed hellhound, carried back to town.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Purple-and-green coat
 category: item
 type: item
 summary: Stolen from an affluent elf using a deception involving a 'fire' ruse.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

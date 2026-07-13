@@ -3,9 +3,9 @@ name: Dwarven Kingdom of Knows
 category: location
 type: location
 summary: A kingdom where the Silver Thrust Estate is located
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

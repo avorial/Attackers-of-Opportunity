@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A piece of paper posted on the bulletin board describing the two-headed
   beast and offering a reward.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

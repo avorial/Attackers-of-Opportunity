@@ -3,9 +3,9 @@ name: Citadel
 category: location
 type: location
 summary: Strategic location between elves and goblin army, site of previous exploration.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

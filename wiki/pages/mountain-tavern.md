@@ -3,9 +3,9 @@ name: Mountain Tavern
 category: location
 type: location
 summary: Tavern in a hamlet where the party spreads rumors about fire lizards.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

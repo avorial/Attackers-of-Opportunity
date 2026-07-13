@@ -3,9 +3,9 @@ name: Viognier (wine)
 category: item
 type: item
 summary: A white wine marked as more valuable due to its finer design on the label.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

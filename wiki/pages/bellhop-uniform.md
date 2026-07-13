@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Worn by Dirt, allowing him to blend in while interacting with the hotel
   and guards.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

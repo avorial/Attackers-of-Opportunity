@@ -3,9 +3,9 @@ name: Glazed Lamb Skewer
 category: item
 type: item
 summary: Dinner served at the Wayfinder Inn, described as tender and flavorful.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

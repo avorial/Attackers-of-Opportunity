@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A dog mentioned as a companion to the party, noted for snoring and
   being a reluctant pet.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

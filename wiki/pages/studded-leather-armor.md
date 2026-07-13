@@ -3,9 +3,9 @@ name: Studded Leather Armor
 category: item
 type: item
 summary: A suit of armor partially covered in fungal growth.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

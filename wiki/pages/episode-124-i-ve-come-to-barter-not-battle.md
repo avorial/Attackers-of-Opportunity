@@ -3,9 +3,9 @@ name: "Episode 124: I've Come to Barter, not Battle."
 category: event
 type: event
 summary: Discussion about using 'silent spell' and 'moonbeam' as potential strategies.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

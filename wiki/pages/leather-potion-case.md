@@ -3,9 +3,9 @@ name: Leather Potion Case
 category: item
 type: item
 summary: A leather pouch containing potions, found by Dirt.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

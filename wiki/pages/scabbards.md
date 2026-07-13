@@ -3,9 +3,9 @@ name: Scabbards
 category: item
 type: item
 summary: Specific to members of the guard; one is examined by Alamar.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

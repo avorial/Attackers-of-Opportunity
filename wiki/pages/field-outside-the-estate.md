@@ -3,9 +3,9 @@ name: Field outside the estate
 category: location
 type: location
 summary: A green field with a wall (the estate building) where combat occurs.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

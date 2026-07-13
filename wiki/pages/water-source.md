@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location where Valak is headed for a bath after the match. Maeve
   directs him there.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Gold coins with eight skulls arranged around the coin, each facing a
   different direction, and a blackened center. Found on Jarvik's body.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

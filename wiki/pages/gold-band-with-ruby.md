@@ -3,9 +3,9 @@ name: Gold band with ruby
 category: item
 type: item
 summary: "First appearance: Episode 31: Ferrets"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

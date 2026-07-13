@@ -3,9 +3,9 @@ name: Ale
 category: item
 type: item
 summary: Used as a medium for a ritual and spellcasting (detect magic on the rings).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

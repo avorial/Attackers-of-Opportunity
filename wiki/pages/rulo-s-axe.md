@@ -3,9 +3,9 @@ name: Rulo's axe
 category: item
 type: item
 summary: A weapon that smites fiends for radiant damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

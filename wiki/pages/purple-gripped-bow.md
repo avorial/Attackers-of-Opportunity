@@ -3,9 +3,9 @@ name: Purple-Gripped Bow
 category: item
 type: item
 summary: A bow with gold etchings and runes in an unknown language, possibly a relic.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

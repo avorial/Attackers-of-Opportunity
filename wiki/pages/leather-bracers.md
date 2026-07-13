@@ -3,9 +3,9 @@ name: Leather Bracers
 category: item
 type: item
 summary: Provided by Redcag to Dickey. Has shield etchings.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

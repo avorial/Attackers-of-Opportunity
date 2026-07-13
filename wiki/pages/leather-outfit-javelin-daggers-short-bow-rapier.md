@@ -3,9 +3,9 @@ name: Leather Outfit, Javelin, Daggers, Short Bow, Rapier
 category: item
 type: item
 summary: Mundane items being liquidated for 225 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

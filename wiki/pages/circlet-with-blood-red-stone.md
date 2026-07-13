@@ -4,9 +4,9 @@ category: item
 type: item
 summary: "Possible duplicate of: metal circlet with blood-red stone, Circlet
   with a red stone -- unresolved, see possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

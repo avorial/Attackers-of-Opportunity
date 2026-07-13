@@ -3,9 +3,9 @@ name: raw meat
 category: item
 type: item
 summary: found in the mass tent for Azure
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

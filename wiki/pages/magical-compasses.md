@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Compasses that always point to Turtle Dragon Isles, though the party
   has not investigated their use.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

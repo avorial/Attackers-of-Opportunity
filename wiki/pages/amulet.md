@@ -3,9 +3,9 @@ name: Amulet
 category: item
 type: item
 summary: Mentioned in the context of Valak's sword strike.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

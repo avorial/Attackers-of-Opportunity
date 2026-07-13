@@ -3,9 +3,9 @@ name: Crystal Flask
 category: item
 type: item
 summary: Contains a strong spirit; Yumi drinks from it during the battle.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

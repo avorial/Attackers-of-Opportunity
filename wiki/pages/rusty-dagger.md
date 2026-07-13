@@ -3,9 +3,9 @@ name: Rusty Dagger
 category: item
 type: item
 summary: A weapon obtained from a goblin, used by Pelrenor in combat.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

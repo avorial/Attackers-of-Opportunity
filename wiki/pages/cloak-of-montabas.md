@@ -3,9 +3,9 @@ name: Cloak of Montabas
 category: item
 type: item
 summary: Provides a once-per-day teleport within 30-50 feet.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

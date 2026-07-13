@@ -3,9 +3,9 @@ name: Skull-Shaped Pauldrons with Runes
 category: item
 type: item
 summary: Worn by Bazrul Segur, glowing with eldritch lights
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

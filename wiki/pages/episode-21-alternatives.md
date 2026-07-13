@@ -3,9 +3,9 @@ name: "Episode 21: Alternatives"
 category: event
 type: event
 summary: Party attacked by owl bear; Valak is unhappy about the encounter.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

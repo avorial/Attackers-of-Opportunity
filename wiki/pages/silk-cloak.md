@@ -3,9 +3,9 @@ name: Silk Cloak
 category: item
 type: item
 summary: A soaked, stained cloak worn by the large green frogman.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

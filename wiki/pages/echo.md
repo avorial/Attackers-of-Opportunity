@@ -3,9 +3,9 @@ name: Echo
 category: item
 type: item
 summary: An associated object that guarantees return to a specific location (the tower).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

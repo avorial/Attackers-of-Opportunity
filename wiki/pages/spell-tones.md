@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used by Dorian to transcribe and internalize knowledge from a
   necromancy thesis, later aiding in ritual component modifications.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

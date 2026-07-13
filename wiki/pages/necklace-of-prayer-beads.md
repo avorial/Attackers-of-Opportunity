@@ -5,9 +5,9 @@ type: item
 summary: Contains three beads (silver, jade, bone) allowing the casting of
   bless, greater restoration, and branding smite as bonus actions. Found at the
   wedding site.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

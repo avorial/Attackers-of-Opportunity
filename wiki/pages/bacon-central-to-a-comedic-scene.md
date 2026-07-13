@@ -3,9 +3,9 @@ name: Bacon (central to a comedic scene)
 category: item
 type: item
 summary: "First appearance: Episode 112: Life's Dawning"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

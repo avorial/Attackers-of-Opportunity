@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A culinary idea discussed by Grunnitz, combining ingredients for a
   specialty meal.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

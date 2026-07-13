@@ -3,9 +3,9 @@ name: Charcoal and parchment
 category: item
 type: item
 summary: Art supplies used by a dwarf fan to draw Dicky.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

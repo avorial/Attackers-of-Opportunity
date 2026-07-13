@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location where the group's characters previously knew each other
   before their journey.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

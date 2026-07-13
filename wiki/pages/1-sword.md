@@ -3,9 +3,9 @@ name: +1 Sword
 category: item
 type: item
 summary: Equipped by party members as part of their supplies.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

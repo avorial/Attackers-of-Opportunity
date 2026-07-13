@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A large window with runes and embedded sapphire specks, tied to a seal
   against a creature.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

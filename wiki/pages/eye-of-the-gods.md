@@ -3,9 +3,9 @@ name: Eye of the Gods
 category: item
 type: item
 summary: A magical device used to locate the Warg Pens.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

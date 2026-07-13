@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Counselors deliberate with the party after their initial confrontation,
   discussing logistics and sending a messenger to the Wayfinder Inn.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

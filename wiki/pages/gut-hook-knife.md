@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A tool used by Neton to fillet the fish. Maeve dodges an attack with
   this knife.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

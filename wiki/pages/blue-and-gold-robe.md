@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Worn by the goblin high priest, possibly maintained via magical ability
   (e.g., Mending).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

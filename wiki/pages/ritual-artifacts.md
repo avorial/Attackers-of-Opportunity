@@ -3,9 +3,9 @@ name: Ritual Artifacts
 category: item
 type: item
 summary: Objects in the chamber that the elemental attempts to absorb for power.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

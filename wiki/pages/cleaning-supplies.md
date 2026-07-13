@@ -3,9 +3,9 @@ name: Cleaning Supplies
 category: item
 type: item
 summary: Used by Barrios to create a slippery floor as part of a distraction plan.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

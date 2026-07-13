@@ -3,9 +3,9 @@ name: Darkness (spell)
 category: item
 type: item
 summary: A spell that creates darkness, with discussion about visibility through it.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

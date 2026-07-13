@@ -4,9 +4,9 @@ category: vehicle
 type: vehicle
 summary: The group's ship, described as similar to the Whirlpool. It is their
   home and the destination after escaping the town.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

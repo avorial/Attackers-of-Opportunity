@@ -5,9 +5,9 @@ type: event
 summary: Dinner at Chef Burl's facility. The food is described as bland, with
   the bread being the best part. Staff eat separately, with Dr. Aratus and Nurse
   Fisher chatting, and Director Madsen being stern with his assistant Oliv
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

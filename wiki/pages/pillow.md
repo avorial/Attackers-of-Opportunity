@@ -3,9 +3,9 @@ name: Pillow
 category: item
 type: item
 summary: Used in a comedic confrontation between Valak and Dorian.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

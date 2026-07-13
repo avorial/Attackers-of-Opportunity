@@ -5,9 +5,9 @@ type: event
 summary: Dickey agrees to meet others at the hotel while Valak remains to catch
   up, with the group planning to gear up and take a short rest before proceeding
   to the estate.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

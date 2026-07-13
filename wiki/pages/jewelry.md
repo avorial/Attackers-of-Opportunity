@@ -3,9 +3,9 @@ name: Jewelry
 category: item
 type: item
 summary: Targeted by Maeve in a bedroom for theft.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

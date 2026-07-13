@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A character flips over an opponent using their calf as a springboard,
   disarms them with a dagger, and causes injury.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

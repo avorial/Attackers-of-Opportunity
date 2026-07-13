@@ -3,9 +3,9 @@ name: Bow and two short swords
 category: item
 type: item
 summary: Carried by one of the hobgoblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

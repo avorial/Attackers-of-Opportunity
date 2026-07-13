@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A rare material used for crafting. It is part of the party's loot and
   used to create adamantine armor.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

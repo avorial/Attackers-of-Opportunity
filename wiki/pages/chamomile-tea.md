@@ -3,9 +3,9 @@ name: Chamomile tea
 category: item
 type: item
 summary: A tea requested for purchase in the spring quadrant.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

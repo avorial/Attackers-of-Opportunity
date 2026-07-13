@@ -3,9 +3,9 @@ name: Ever-Smoking Pipe
 category: item
 type: item
 summary: A pipe that can shape smoke into forms (e.g., smoke dragons)
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

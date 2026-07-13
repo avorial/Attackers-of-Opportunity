@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A powerful artifact with a mind of its own, protected by a magical
   circle. It vibrates slightly when touched but does not harm the wielder.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

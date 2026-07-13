@@ -3,9 +3,9 @@ name: Blade
 category: item
 type: item
 summary: Mentioned as an item in range of the party upon exiting the tunnel.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

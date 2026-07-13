@@ -5,9 +5,9 @@ type: item
 summary: Magical items that erode free will, worn by specific individuals in
   power to suppress others. Their power is theorized to be refreshed during
   festivals or gatherings.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

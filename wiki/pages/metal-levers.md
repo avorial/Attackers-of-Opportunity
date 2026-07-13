@@ -3,9 +3,9 @@ name: Metal Levers
 category: item
 type: item
 summary: Three metal levers found at the end of a hallway, used to open the portcullis.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

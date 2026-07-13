@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A tattoo on a server's body, featuring a serpent that wraps around her
   neck and body.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A dark metal rod with a skull carving, found near a mannequin in the
   central chamber.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

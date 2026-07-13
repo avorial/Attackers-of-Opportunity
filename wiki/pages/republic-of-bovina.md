@@ -3,9 +3,9 @@ name: Republic of Bovina
 category: location
 type: location
 summary: A proposed nation led by Edvard, consisting of cows and other converted humans.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

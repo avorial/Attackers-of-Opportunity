@@ -3,9 +3,9 @@ name: Two-Handed Staff
 category: item
 type: item
 summary: A weapon that deals 1d8 damage, with critical hits rolling two dice.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Heat Metal
 category: item
 type: item
 summary: A spell that causes heat damage, with a failed concentration check.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

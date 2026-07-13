@@ -3,9 +3,9 @@ name: raw iron key
 category: item
 type: item
 summary: Found tied to the bugbear's belt. No apparent lock to match it.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

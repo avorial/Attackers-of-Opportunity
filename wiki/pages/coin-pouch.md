@@ -3,9 +3,9 @@ name: Coin Pouch
 category: item
 type: item
 summary: Contains 350 silver pieces and 75 gold pieces (total 110 gold equivalent).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

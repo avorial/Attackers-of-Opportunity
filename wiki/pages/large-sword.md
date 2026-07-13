@@ -3,9 +3,9 @@ name: Large sword
 category: item
 type: item
 summary: Strapped to the back of an elven character with heavy armor.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

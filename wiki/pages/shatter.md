@@ -3,9 +3,9 @@ name: Shatter
 category: item
 type: item
 summary: A spell cast by Dickie, causing damage to a bodyguard.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: "Episode 112: Life's Dawning"
 category: event
 type: event
 summary: Moonbeam transforms into Wyvern form to communicate with other Wyverns.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

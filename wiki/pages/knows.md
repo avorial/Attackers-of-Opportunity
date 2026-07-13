@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A destination the group is traveling to; mentioned as a place where the
   necromancer Darragh is active.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

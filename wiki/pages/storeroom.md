@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A room accessible via a left-hand turn in the hallway, containing items
   or possibly a vault.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

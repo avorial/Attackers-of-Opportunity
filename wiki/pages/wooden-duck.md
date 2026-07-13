@@ -3,9 +3,9 @@ name: Wooden duck
 category: item
 type: item
 summary: A childhood item of Dorian, placed on his mother's grave.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

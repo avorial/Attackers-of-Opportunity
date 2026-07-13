@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location the group originally intended to travel to, but later
   changed their plan.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

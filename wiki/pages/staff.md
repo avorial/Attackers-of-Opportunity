@@ -3,9 +3,9 @@ name: Staff
 category: item
 type: item
 summary: Used by Dirt for attacks; described as causing non-lethal damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

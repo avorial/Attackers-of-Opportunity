@@ -3,9 +3,9 @@ name: Wooden rollers
 category: item
 type: item
 summary: Used by a tortle monk to roll his forearms during meditation.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

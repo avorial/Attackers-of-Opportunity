@@ -3,9 +3,9 @@ name: Moon-Touched Blade
 category: item
 type: item
 summary: A weapon used by Tatsu; glows blue during combat.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

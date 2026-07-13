@@ -3,9 +3,9 @@ name: Heat Metal Spell
 category: item
 type: item
 summary: Casts fire damage on metal armor, forcing removal or causing ongoing damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

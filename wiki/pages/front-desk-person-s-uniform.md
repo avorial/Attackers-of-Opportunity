@@ -3,9 +3,9 @@ name: front desk person's uniform
 category: item
 type: item
 summary: Another outfit mentioned as being in possession of the characters.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

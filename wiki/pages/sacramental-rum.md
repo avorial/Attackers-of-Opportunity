@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A potent alcoholic beverage used in an attempt to cure a disease,
   causing severe hangover effects.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

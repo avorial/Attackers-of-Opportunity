@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Artifacts dedicated to the sun god Amanator, found on Siobhan's body;
   require a cleric or worshipper to use.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

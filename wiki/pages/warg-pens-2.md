@@ -3,9 +3,9 @@ name: Warg Pens
 category: location
 type: location
 summary: A facility housing wargs for the goblinoid army's cavalry.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Arrow (Tabaxi's)
 category: item
 type: item
 summary: An arrow that pierces a snake's head, killing it during the boat ambush.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

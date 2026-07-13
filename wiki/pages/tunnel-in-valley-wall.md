@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A dark tunnel discovered in the valley wall, possibly leading deeper
   underground.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

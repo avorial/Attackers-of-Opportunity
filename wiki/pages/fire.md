@@ -3,9 +3,9 @@ name: Fire
 category: item
 type: item
 summary: Lit by Maeve to smoke out enemies, originating from the chimney.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

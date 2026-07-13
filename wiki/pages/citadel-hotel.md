@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A 'very nice and very exclusive' hotel where 'visiting dignitaries
   stay' and 'the rich when they want to staycation.'
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

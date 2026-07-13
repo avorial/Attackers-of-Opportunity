@@ -3,9 +3,9 @@ name: Phosphorescent Lichen
 category: item
 type: item
 summary: A glowing lichen in a small air pocket, providing light and possibly a clue.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

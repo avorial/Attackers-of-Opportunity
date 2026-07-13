@@ -3,9 +3,9 @@ name: Dirk
 category: item
 type: item
 summary: A weapon found in the ribcage of one of the dead goblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

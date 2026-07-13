@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A badge of authority given to Valak by Lady Solana, containing a
   gauntlet with cloak attachments.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

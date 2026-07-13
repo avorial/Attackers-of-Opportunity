@@ -4,9 +4,9 @@ category: location
 type: location
 summary: The primary location of the combat, where the Baron is knocked off the
   edge and Sailors engage in battle.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

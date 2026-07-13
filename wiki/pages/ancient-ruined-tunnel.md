@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Visionary location with octagonal room, columns, and carvings of a
   six-legged, tentacled creature.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

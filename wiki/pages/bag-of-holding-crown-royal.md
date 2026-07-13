@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A purple bag with a lion's head motif. Tested by placing a short sword
   inside, which disappears and can be retrieved. Costs 1000 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

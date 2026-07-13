@@ -3,9 +3,9 @@ name: Astral Arms
 category: item
 type: item
 summary: Spell cast by Dirt to summon glowing arms for attacking.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

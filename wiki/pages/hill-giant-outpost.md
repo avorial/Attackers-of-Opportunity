@@ -3,9 +3,9 @@ name: Hill Giant Outpost
 category: location
 type: location
 summary: Potential ally location; previously hostile to goblins
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

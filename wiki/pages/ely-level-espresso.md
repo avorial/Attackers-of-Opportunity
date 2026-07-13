@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A fancy Italian espresso with proper foam, requested by Maeve as a
   bribe for Pal.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A three-sided object with glyphs corresponding to elemental planes
   (fire, water, earth, air).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

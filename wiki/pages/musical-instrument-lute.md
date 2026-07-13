@@ -3,9 +3,9 @@ name: Musical Instrument (Lute)
 category: item
 type: item
 summary: A non-magical lute found in a small chest. Could be sold for 50-60 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

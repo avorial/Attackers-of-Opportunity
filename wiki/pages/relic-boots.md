@@ -3,9 +3,9 @@ name: Relic Boots
 category: item
 type: item
 summary: Elven-sized boots that are too small for Valak's Goliath feet.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

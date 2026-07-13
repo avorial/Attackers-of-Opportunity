@@ -3,9 +3,9 @@ name: Truncheon
 category: item
 type: item
 summary: Carried by elven guards for non-lethal bludgeoning.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

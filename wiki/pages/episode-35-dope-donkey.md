@@ -4,9 +4,9 @@ category: event
 type: event
 summary: The party is on the second floor of a citadel, having completed a short
   rest in a room marked as room one on the map.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

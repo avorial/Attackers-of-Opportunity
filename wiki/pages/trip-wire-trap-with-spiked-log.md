@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A trap consisting of a trip line attached to a four-foot log with
   multiple spikes, designed to impale intruders.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

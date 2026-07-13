@@ -3,9 +3,9 @@ name: White Stone Entry
 category: item
 type: item
 summary: A white marble structure framing an entry into the hill's hero's rest.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

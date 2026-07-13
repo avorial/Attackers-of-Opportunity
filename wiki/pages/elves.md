@@ -3,9 +3,9 @@ name: Elves
 category: organization
 type: organization
 summary: Faction in conflict with goblins; potential for retaliation if goblins attack.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

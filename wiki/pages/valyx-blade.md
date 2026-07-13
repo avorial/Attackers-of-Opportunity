@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A great sword recovered by Adiana after Valak's capture, described as
   'draggy on one end'.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

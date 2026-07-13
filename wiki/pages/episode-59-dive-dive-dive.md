@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Maeve's attack on orange ant 20 deals 20 damage but the ant does not
   react to the pain.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

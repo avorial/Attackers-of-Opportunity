@@ -3,9 +3,9 @@ name: Bone fragments
 category: item
 type: item
 summary: Fragments of bone from the burned body.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

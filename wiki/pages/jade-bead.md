@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Allows the caster to cast the Greater Restoration spell once per day as
   a bonus action if properly attuned.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Cloud of Daggers
 category: item
 type: item
 summary: Concentration spell (15 ft cube, 10 damage) cast by Karavi.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

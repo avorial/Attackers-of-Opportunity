@@ -4,9 +4,9 @@ category: event
 type: event
 summary: The heroes discovered two previously unknown lower levels of the
   Citadel, including a cathedral/graveyard and a necromantic ritual circle.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A powerful artifact possessed by Dorian. It is discussed as a target
   for destruction using a ritual.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

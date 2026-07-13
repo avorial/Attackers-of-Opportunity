@@ -3,9 +3,9 @@ name: Goblin map
 category: item
 type: item
 summary: A crude map found by the group, used to navigate to Seasons Glade.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

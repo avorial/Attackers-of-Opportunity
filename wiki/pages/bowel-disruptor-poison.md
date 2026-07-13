@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A non-fatal poison that causes diarrhea. Mentioned as one of Ink Blot's
   favorites.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A fine herb with two leaves, green on top and silver on the bottom,
   prescribed to alleviate flatulence.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

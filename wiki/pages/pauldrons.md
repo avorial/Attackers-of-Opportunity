@@ -3,9 +3,9 @@ name: Pauldrons
 category: item
 type: item
 summary: One of three artifacts secured by Dorian.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

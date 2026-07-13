@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Described as a substance beneath creatures that spawn 'baby titanic
   motorblades'.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

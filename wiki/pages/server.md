@@ -3,9 +3,9 @@ name: Server
 category: item
 type: item
 summary: One of three artifacts secured by Dorian (possibly a typo for 'scepter').
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

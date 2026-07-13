@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A tower with a 240-mile viewing range, serene and separate from
   necrotic forces. It was originally set up by a necromancer.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

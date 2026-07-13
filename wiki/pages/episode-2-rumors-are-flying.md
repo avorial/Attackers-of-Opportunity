@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A group of adventurers loot the body of an Emperor, finding two gold
   worth of small coins (coppers and silvers).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

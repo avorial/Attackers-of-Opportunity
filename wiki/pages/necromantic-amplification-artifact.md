@@ -3,9 +3,9 @@ name: Necromantic Amplification Artifact
 category: item
 type: item
 summary: Amplifies necromantic spells by one level, increasing their potency.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

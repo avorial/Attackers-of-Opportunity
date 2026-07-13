@@ -4,9 +4,9 @@ category: event
 type: event
 summary: The spring court hatched a plot to take over Seasons Glade by enslaving
   people's minds.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

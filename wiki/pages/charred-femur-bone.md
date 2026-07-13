@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A charred bone found near the left turn of the hallway, possibly
   indicating a magical ward.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

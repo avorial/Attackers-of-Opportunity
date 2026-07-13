@@ -3,9 +3,9 @@ name: blue sparkles
 category: item
 type: item
 summary: Magical effects that accompany the 'six demon bag' and affect the listener.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

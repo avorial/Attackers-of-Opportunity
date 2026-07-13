@@ -3,9 +3,9 @@ name: Barrel
 category: item
 type: item
 summary: A barrel used for stowing away on the boat.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

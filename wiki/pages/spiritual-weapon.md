@@ -3,9 +3,9 @@ name: Spiritual Weapon
 category: item
 type: item
 summary: A spellcasting effect that manifests as a weapon to attack enemies.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

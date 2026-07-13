@@ -3,9 +3,9 @@ name: Stream
 category: location
 type: location
 summary: A nearby water source containing fish.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

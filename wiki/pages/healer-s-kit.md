@@ -3,9 +3,9 @@ name: Healer's Kit
 category: item
 type: item
 summary: Attempted to use on Dickey but failed with a medicine check of 6.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

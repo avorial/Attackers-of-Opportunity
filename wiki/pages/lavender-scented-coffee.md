@@ -3,9 +3,9 @@ name: Lavender-scented coffee
 category: item
 type: item
 summary: A unique blend offered at the tavern in Saren.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

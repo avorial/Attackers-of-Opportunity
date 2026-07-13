@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used by Jack to attempt to attract a cow's attention. It hits the cow's
   shoulder but causes no damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Trail of Blood
 category: item
 type: item
 summary: Another method proposed to mark their path.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Gem flight
 category: item
 type: item
 summary: A magic item allowing Yumi to hover 20 feet above the ground.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

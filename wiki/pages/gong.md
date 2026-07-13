@@ -3,9 +3,9 @@ name: Gong
 category: item
 type: item
 summary: A magical item used by Dickey to deal damage and knock out enemies.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A room with a crude throne made of crates and barrels, containing
   supplies and a healer's kit.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

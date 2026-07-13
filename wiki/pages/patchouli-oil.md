@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used by a character with the Alchemist background to mask the
   overwhelming odor of cows during the journey.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

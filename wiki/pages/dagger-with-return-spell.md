@@ -3,9 +3,9 @@ name: Dagger with Return Spell
 category: item
 type: item
 summary: A dagger that returns to the user's hand when tossed.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

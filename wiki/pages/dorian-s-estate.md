@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A grand house with two staircases leading to a grand hall, where the
   Winter Lady resides.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

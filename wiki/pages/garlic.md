@@ -3,9 +3,9 @@ name: Garlic
 category: item
 type: item
 summary: Stolen from a hill giant warrior's bag during a pickpocketing attempt.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Diamond or high-quality gem
 category: item
 type: item
 summary: Needed as a focus for a ritual to destroy a magical artifact.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Blue Crystal
 category: item
 type: item
 summary: A control mechanism for the wall of flame illusion, located on a pedestal.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

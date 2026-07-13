@@ -3,9 +3,9 @@ name: End table
 category: item
 type: item
 summary: A worn table in an alcove with smoothed edges from repeated use.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

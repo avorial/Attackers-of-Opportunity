@@ -3,9 +3,9 @@ name: Bag
 category: item
 type: item
 summary: A bag carried by Valak on his head.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

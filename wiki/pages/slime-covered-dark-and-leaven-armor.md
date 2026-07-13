@@ -3,9 +3,9 @@ name: Slime-covered dark and leaven armor
 category: item
 type: item
 summary: "First appearance: Episode 1: And the Adventure Begins..."
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

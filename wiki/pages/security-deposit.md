@@ -4,9 +4,9 @@ category: item
 type: item
 summary: 25 gold paid by players to the livery stable master to guarantee return
   of horses.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

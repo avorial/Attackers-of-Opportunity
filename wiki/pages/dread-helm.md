@@ -3,9 +3,9 @@ name: Dread Helm
 category: item
 type: item
 summary: A special samurai mask that makes the eyes glow red. It is a common magic item.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

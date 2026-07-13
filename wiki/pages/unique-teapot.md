@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A contraption with a spigot system that cools tea before serving,
   crafted by Kenave.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

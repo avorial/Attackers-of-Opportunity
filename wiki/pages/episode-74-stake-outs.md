@@ -5,9 +5,9 @@ type: event
 summary: Dorian observes the local jail's structure, noting holding cells on the
   ground floor, longer-term prisoners on the second floor, VIP prisoners in
   towers, and a supermax on the third floor with strong magical wards.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

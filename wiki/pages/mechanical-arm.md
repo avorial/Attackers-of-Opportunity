@@ -3,9 +3,9 @@ name: Mechanical Arm
 category: item
 type: item
 summary: An artifice arm belonging to Adar, used to fire a cannon barrel.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

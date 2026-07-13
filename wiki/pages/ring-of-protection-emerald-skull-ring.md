@@ -3,9 +3,9 @@ name: Ring of Protection (Emerald Skull Ring)
 category: item
 type: item
 summary: Gives +1 AC, works in beast shape.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Broken stone and debris found near the metal door, used to weight down
   a pressure plate.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

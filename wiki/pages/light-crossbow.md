@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used by Chutzpah, which fired a critical hit that slowed a bolt in the
   temporal field.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

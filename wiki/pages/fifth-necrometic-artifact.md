@@ -3,9 +3,9 @@ name: Fifth Necrometic Artifact
 category: item
 type: item
 summary: Artifact sought by party in southern dwarven lands.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Tiny Hut
 category: item
 type: item
 summary: A 3rd-level spell creating a magical barrier for protection.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

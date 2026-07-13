@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used in an attempt to blind the hill giant with sunlight. Rolled a 14
   perception check to align it with the sun.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

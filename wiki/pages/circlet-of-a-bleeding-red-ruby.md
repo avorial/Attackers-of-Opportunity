@@ -3,9 +3,9 @@ name: Circlet of a bleeding red ruby
 category: item
 type: item
 summary: A necromantic artifact stolen by Gerard
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

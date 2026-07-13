@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A crude idol made of twigs and string with a feather, found in a
   cobalt's pocket.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

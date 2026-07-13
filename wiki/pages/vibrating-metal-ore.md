@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A dense, mysterious ore that tingles when touched, potentially infused
   with special energy.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

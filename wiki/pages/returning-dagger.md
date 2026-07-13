@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A psionic dagger that returns to the wielder after being thrown,
   capable of dealing 56 damage with a critical hit.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

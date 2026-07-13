@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A braid gifted by Chutzpah's mother, symbolizing her mother's permanent
   sacrifice of a braid as a talisman.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

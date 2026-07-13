@@ -3,9 +3,9 @@ name: Skillet Fry
 category: item
 type: item
 summary: Fried food dish containing sausage, egg, bacon, ham, and fat.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

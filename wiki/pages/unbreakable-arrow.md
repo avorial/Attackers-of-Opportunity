@@ -3,9 +3,9 @@ name: Unbreakable arrow
 category: item
 type: item
 summary: Found in a quiver with only one arrow; appears indestructible.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

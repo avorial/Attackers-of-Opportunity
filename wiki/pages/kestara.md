@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Known as the Garden City, with a history of landscape competitions and
   houses built into trees. The town has a festival called Rao day.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Furniture in the director's office potentially containing a magical
   focal point.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: "Episode 9: Spelunking"
 category: event
 type: event
 summary: Michael (type uncertain)
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

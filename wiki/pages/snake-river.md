@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A major river crossed by the party, previously the site of Dorian's
   ambush by a giant snake.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

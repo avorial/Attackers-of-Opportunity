@@ -5,9 +5,9 @@ type: location
 summary: A richly appointed bedroom, pristine despite being unoccupied for
   centuries. Contains a small notebook describing teleportation aspects of the
   circle.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

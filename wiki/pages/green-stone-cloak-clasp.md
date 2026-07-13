@@ -3,9 +3,9 @@ name: Green Stone (Cloak Clasp)
 category: item
 type: item
 summary: Used by Valak to avoid suspicion from guards.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

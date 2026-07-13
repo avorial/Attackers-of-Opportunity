@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Dorian performs a detect magic ritual on the wall, which takes 10
   minutes but fails to detect magic due to the stone blocking it.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

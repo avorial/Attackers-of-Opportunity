@@ -3,9 +3,9 @@ name: Sinus Ma
 category: location
 type: location
 summary: "Possible duplicate of: Sinusma -- unresolved, see possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

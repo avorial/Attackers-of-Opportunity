@@ -3,9 +3,9 @@ name: Tunnel under the river
 category: location
 type: location
 summary: Previously dug tunnel referenced as a potential route for a surprise attack.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

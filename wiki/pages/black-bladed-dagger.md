@@ -3,9 +3,9 @@ name: Black-bladed dagger
 category: item
 type: item
 summary: Completely pitch black blade; found in a crate with herbs and gold coins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

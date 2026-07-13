@@ -4,9 +4,9 @@ category: item
 type: item
 summary: An Azure bird and fairy spirit that appears on Dorian's arm. Can be
   ridden and communicates with Dorian telepathically.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

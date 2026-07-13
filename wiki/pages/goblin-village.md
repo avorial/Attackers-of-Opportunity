@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A village with corrals of wargs and drakes, used as war material by
   Vazrul's army.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

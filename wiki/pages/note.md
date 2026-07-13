@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Found by Maeve, indicating a contract to kill military members of
   Season's Glade's army.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

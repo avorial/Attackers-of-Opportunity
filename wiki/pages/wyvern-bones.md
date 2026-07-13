@@ -3,9 +3,9 @@ name: Wyvern Bones
 category: item
 type: item
 summary: Bones of deceased Wyverns found in the graveyard, possibly poached.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

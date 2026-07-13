@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A structure where the hill giant is carried back after being frozen.
   The hill giant woman takes him there.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

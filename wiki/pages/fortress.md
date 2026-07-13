@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location that may be refurbished and used as a forward base of
   operations. Engineers will be sent to improve it.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

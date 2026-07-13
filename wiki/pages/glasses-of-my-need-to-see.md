@@ -3,9 +3,9 @@ name: Glasses of My Need to See
 category: item
 type: item
 summary: Magical glasses that grant advantage on perception checks relying on sight.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

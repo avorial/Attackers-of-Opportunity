@@ -4,9 +4,9 @@ category: item
 type: item
 summary: "Marked with labels: strawberry, chocolate, and peanut butter. The
   chocolate container contains a black, liquidy substance."
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

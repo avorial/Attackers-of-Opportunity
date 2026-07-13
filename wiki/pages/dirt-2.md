@@ -3,9 +3,9 @@ name: Dirt
 category: item
 type: item
 summary: Used to extinguish fire during the magical experiment.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

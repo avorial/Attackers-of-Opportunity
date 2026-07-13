@@ -3,9 +3,9 @@ name: 3,000 Gold Coins
 category: item
 type: item
 summary: Deposited on the counter during Valak's transaction.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

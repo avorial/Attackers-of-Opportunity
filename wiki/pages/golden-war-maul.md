@@ -3,9 +3,9 @@ name: Golden war maul
 category: item
 type: item
 summary: Used by Vimac to defeat the massive crocodile.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

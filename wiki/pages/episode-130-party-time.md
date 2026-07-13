@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Valak uses Athletics to lift a stone, which tingles and emits energy,
   causing the cavern to shake.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

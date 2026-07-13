@@ -3,9 +3,9 @@ name: den
 category: location
 type: location
 summary: "First appearance: Episode 91: Fathers and Sons"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

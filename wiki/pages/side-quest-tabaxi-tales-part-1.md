@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A stealth check is conducted by the party as they move through the
   castle, with several characters achieving high stealth scores.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

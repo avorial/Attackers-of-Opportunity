@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A tree-like structure with a communal hot spring, featuring a
   restaurant, tavern, and lodging. The inn has a large suite with a magical tub.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

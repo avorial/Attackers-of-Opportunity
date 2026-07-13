@@ -3,9 +3,9 @@ name: Boots of Increased Speed
 category: item
 type: item
 summary: Magical boots with a faint green aura that increase walking speed by 5 feet.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

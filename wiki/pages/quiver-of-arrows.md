@@ -3,9 +3,9 @@ name: Quiver of Arrows
 category: item
 type: item
 summary: A 20-shot quiver of acid arrows, priced at 250 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Leather Bracers with Shield Etchings
 category: item
 type: item
 summary: "First appearance: Episode 53: Save the Puppies!"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

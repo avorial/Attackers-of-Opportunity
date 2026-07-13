@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A red gemstone that can be implanted into an object to increase its
   potency by +1.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

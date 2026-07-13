@@ -3,9 +3,9 @@ name: Vellium
 category: item
 type: item
 summary: High-grade paper required for rituals; Valak needs two pieces, Dorian needs 12.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

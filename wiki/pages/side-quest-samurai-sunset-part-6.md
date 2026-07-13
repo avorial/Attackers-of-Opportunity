@@ -3,9 +3,9 @@ name: Side Quest_ Samurai Sunset Part 6
 category: event
 type: event
 summary: A character discusses resistances to damage from an attack.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

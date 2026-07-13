@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical ivory goat figurine that transforms into a horse-sized goat.
   It allows the user to ride it around town. Priced at 80 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

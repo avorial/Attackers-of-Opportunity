@@ -3,9 +3,9 @@ name: Egg Scramble with Ham and Veggies
 category: item
 type: item
 summary: A breakfast meal served at the Lauraya Trading House.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: rubbings
 category: item
 type: item
 summary: Etchings taken from a stone, studied by the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

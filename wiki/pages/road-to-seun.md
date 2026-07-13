@@ -3,9 +3,9 @@ name: Road to Seun
 category: location
 type: location
 summary: Area near which red dragon eggs have hatched, as per the quest notice.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

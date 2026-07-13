@@ -3,9 +3,9 @@ name: Trade Goods
 category: item
 type: item
 summary: Materials worth several gold, including rations and supplies.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

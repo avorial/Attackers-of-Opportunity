@@ -3,9 +3,9 @@ name: Sash
 category: item
 type: item
 summary: Targeted by Dorian's darkness spell (though the high priest lacks one).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

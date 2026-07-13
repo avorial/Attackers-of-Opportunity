@@ -3,9 +3,9 @@ name: Intricately carved plate mail
 category: item
 type: item
 summary: Gold, silver, and platinum bands running through it, likely magical.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

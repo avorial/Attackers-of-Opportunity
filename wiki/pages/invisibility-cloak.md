@@ -3,9 +3,9 @@ name: Invisibility Cloak
 category: item
 type: item
 summary: Dorian's cloak that makes him invisible in low light
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

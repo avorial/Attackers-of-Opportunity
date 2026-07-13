@@ -4,9 +4,9 @@ category: location
 type: location
 summary: House where Dorian discovered his mother's death, with a mirror covered
   in a black sheet.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

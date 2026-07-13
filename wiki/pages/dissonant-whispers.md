@@ -3,9 +3,9 @@ name: Dissonant Whispers
 category: item
 type: item
 summary: A concentration spell cast by Gizan to force a salamander to flee.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

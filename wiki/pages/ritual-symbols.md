@@ -3,9 +3,9 @@ name: Ritual symbols
 category: item
 type: item
 summary: Drawn on the floor as part of the mind-control ritual.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

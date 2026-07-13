@@ -3,9 +3,9 @@ name: Fish
 category: item
 type: item
 summary: Another requested item by the party during the council meeting.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

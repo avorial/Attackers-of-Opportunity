@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Adjacent to the Stardust Hotel and Spa. Hosts the wedding of a Spring
   Court daughter and an Autumn Court son.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Long Staff of Wood
 category: item
 type: item
 summary: A weapon used in a contest of preparation.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

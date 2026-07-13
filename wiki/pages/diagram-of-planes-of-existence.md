@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A detailed drawing by Sir Valak depicting the prime material plane,
   celestial planes, abyssal planes, and the placement of gods.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Crossbow
 category: item
 type: item
 summary: Possessed by Maeve, described as 'magnificent'.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

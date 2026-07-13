@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A burning feather in a bowl, identified as a rare Feywild item with
   magical potential.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

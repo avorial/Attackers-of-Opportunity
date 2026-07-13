@@ -4,9 +4,9 @@ category: event
 type: event
 summary: The party arrives at the city of Jasso, noting two large castles, a
   harbor, and a constitutional monarchy with a House of Lords.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

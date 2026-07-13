@@ -5,9 +5,9 @@ type: location
 summary: A valley marked on the crude goblin map with a skull symbol. It is
   described as being filled with goblin, bugbear, orc, and other tribal forces.
   The valley is located within a triangle of rivers.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

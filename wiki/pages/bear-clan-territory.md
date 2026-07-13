@@ -4,9 +4,9 @@ category: location
 type: location
 summary: The northernmost section of Heng, with coastal territories. The players
   are allied with or serve the bear clan.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

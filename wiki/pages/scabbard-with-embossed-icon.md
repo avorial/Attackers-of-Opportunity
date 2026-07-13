@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical item found by the party, matching scabbards worn by elite
   guards. The icon is similar to the 'hero's rest' scabbard.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

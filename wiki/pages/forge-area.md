@@ -3,9 +3,9 @@ name: Forge Area
 category: location
 type: location
 summary: A blacksmith area producing armor and weapons for the goblinoid army.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

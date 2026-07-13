@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Arrows capable of inflicting significant damage on a specific type of
   dragon, obtained by Maeve.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

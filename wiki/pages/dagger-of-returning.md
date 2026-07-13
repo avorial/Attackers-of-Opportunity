@@ -3,9 +3,9 @@ name: Dagger of Returning
 category: item
 type: item
 summary: Returns to the user's hand after being thrown when a specific word is spoken.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

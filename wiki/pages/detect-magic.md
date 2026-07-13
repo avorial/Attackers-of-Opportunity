@@ -3,9 +3,9 @@ name: Detect Magic
 category: item
 type: item
 summary: A level 1 spell used to check for magical dampening fields.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

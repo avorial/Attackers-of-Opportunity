@@ -5,9 +5,9 @@ type: event
 summary: A spectral elven woman is encountered on the shore of Lake Bryn during
   a watch sequence. She is described as radiating silvery blue light, with
   silver hair, and is waiting for her lover Zarin, an elven wizard who fell in
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

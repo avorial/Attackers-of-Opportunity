@@ -3,9 +3,9 @@ name: Wand
 category: item
 type: item
 summary: Suggested as a magical item for the gnome wizard Rojo to construct.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

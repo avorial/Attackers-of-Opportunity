@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used by Light to create a foul smell, causing guards to flee and
   allowing the group to bypass the dock gate.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

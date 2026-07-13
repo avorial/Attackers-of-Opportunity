@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A player unleashes a fury of blows with two unarmed attacks, including
   a sweeping attack using a superiority die (D6) for additional damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

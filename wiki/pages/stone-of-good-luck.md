@@ -3,9 +3,9 @@ name: Stone of Good Luck
 category: item
 type: item
 summary: Polished agate that grants +1 to ability checks and saving throws.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

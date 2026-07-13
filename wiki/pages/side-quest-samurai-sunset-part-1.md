@@ -3,9 +3,9 @@ name: Side Quest_ Samurai Sunset Part 1
 category: event
 type: event
 summary: A samurai is given the title of samurai rather than a standard 5e build.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

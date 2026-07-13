@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Dorian and Valak discuss a ritual requiring 63 ingredients, including
   gem, wyvern/dragon eyes, and vellium.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

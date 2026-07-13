@@ -3,9 +3,9 @@ name: shimmering silk jacket
 category: item
 type: item
 summary: Custom-fitted garment worn by the elf guard at the front desk.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

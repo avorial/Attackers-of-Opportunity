@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A dagger given to Maeve, used to kill dragons and refused in exchange
   for scales by Valak.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

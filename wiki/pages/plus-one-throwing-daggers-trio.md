@@ -3,9 +3,9 @@ name: plus one throwing daggers (trio)
 category: item
 type: item
 summary: finely made, honed tips
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

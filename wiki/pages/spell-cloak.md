@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical item that absorbs damaging energies and can return the wearer
   to youth when worn, but causes aging when removed.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

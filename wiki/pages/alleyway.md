@@ -3,9 +3,9 @@ name: Alleyway
 category: location
 type: location
 summary: A location where Yumi and others confront Georg, leading to a combat scene.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

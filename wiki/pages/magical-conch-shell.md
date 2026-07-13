@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Replica of a legendary conch shell; not explicitly magical but
   historically significant.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

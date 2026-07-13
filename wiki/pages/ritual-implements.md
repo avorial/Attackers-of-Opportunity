@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Artifacts like knives, axes, candles, and crystals used in the
   necromancer's rituals.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

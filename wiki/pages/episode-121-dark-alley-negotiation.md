@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Players discuss where to stay after realizing the 25 gold was an entry
   fee, not for lodging. They consider staying with Thordit or finding an inn.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

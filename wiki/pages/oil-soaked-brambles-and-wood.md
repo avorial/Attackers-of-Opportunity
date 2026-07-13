@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A trap on the east battlefield edge soaked in oil to ignite and destroy
   invaders.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

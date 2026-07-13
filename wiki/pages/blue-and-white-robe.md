@@ -5,9 +5,9 @@ type: item
 summary: A robe with sleeves that dramatically drop, allowing for increased
   movement. Features a symbol of overlapping blue triangles. The shopkeeper
   claims it was originally intended for a warrior who never returned.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

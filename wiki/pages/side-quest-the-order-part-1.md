@@ -3,9 +3,9 @@ name: Side Quest_ The Order - Part 1
 category: event
 type: event
 summary: Gorbin Ward (type uncertain)
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: scrolls (raised dead, banish)
 category: item
 type: item
 summary: Magical scrolls containing the spells 'Raise Dead' and 'Banish'.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

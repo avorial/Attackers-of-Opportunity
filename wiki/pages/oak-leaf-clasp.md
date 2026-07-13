@@ -3,9 +3,9 @@ name: Oak Leaf Clasp
 category: item
 type: item
 summary: Metal pin shaped like an oak leaf found in Dorian's mother's room.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

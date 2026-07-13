@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Party crosses a partially collapsed bridge while avoiding two giants,
   using a rope and a dexterity saving throw (DC 15) with inspiration.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

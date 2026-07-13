@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical item that allows the user to know things within a
   quarter-mile radius after a ritual, but requires resetting the focus point.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Unseen Servant
 category: item
 type: item
 summary: A spell used to cook food for the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

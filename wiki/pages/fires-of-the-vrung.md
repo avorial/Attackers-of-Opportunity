@@ -4,9 +4,9 @@ category: vehicle
 type: vehicle
 summary: "Possible duplicate of: Files of the Vrong -- unresolved, see
   possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

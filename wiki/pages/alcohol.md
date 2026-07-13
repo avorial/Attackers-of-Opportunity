@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Consumed by Maeve Markov during the conversation; she is later asked to
   pay six gold for wines and alcohols purchased.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

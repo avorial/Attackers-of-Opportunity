@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A retirement home for heroes, described as an 'old folks' home' with a
   sunroom that has a greenhouse effect due to its southern orientation.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

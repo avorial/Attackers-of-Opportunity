@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A spell cast by the shaman that produces a wave of sound and force,
   requiring a strength saving throw.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

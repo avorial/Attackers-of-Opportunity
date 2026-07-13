@@ -3,9 +3,9 @@ name: Bagpipes and gong
 category: item
 type: item
 summary: Carried by the bard for oratory performances.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

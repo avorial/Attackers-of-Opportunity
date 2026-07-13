@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A creature resembling a cross between a bat and a featherless pigeon,
   with a stinger capable of inflicting damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

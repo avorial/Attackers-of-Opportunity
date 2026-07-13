@@ -3,9 +3,9 @@ name: Disguise Self
 category: item
 type: item
 summary: A spell that allows the caster to alter their appearance, lasting 1 hour.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

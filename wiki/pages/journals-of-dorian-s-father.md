@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Contain logs of meetings and events leading up to his removal from the
   Winter Court.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

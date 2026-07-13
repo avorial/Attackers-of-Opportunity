@@ -3,9 +3,9 @@ name: Spell mantle (necromancer lord's artifact)
 category: item
 type: item
 summary: Burns with purple runes, rejuvenates Barrios at the cost of others' life force.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

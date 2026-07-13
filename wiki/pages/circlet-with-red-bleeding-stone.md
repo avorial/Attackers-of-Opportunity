@@ -3,9 +3,9 @@ name: Circlet with Red Bleeding Stone
 category: item
 type: item
 summary: Artifact of power worn by Vass Rule, granting strength and intelligence.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

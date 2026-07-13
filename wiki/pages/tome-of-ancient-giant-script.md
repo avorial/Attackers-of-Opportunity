@@ -5,9 +5,9 @@ type: item
 summary: Three-foot-tall book bound in dark brown aged leather with seashell
   inlays; cover contains indecipherable ancient Giant script suggesting
   mind/soul warping.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

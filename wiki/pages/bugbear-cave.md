@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Previously visited cave with a secret chamber holding an artifact; key
   to the quest.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

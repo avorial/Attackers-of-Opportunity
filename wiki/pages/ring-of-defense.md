@@ -3,9 +3,9 @@ name: Ring of Defense
 category: item
 type: item
 summary: A magical ring granting +1 to AC, offered as a trade option.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

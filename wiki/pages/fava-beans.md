@@ -3,9 +3,9 @@ name: Fava beans
 category: item
 type: item
 summary: A food item joked about during the meal.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

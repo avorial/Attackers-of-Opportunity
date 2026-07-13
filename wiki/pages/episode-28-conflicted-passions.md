@@ -5,9 +5,9 @@ type: event
 summary: A character recounts a past encounter with a two-headed dog that set
   them on fire, leading to a near-death experience and a voice telling them to
   'patience, peace, innocence, and wisdom' to overcome darkness.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

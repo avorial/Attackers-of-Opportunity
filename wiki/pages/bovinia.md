@@ -3,9 +3,9 @@ name: Bovinia
 category: location
 type: location
 summary: A nation of sentient cows led by Edvard.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

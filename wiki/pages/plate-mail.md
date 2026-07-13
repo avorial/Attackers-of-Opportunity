@@ -3,9 +3,9 @@ name: Plate mail
 category: item
 type: item
 summary: Worn by Daryl and other goblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

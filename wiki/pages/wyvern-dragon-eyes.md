@@ -3,9 +3,9 @@ name: Wyvern/Dragon Eyes
 category: item
 type: item
 summary: Rare ingredient for the ritual.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

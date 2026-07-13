@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Group encounters a large treasure chest in a clearing, with no visible
   inscriptions or glyphs.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Animated Ballistas
 category: item
 type: item
 summary: Animated objects controlled by Maeve.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

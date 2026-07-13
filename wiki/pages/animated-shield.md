@@ -3,9 +3,9 @@ name: Animated Shield
 category: item
 type: item
 summary: Thrums with energy, speaks in Japanese (e.g., 'Shinne!')
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

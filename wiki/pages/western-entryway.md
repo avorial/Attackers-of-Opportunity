@@ -3,9 +3,9 @@ name: Western entryway
 category: location
 type: location
 summary: Path where most of Viserals' troops are positioned.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

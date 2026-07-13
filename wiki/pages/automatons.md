@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Lack life force or soul; controlled by their creator or authorized
   commanders, demonstrated in combat stances.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

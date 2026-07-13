@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A platter shaped like a snake, covered in thick dark sauce; served at
   breakfast.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

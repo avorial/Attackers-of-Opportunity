@@ -3,9 +3,9 @@ name: Boomerang
 category: item
 type: item
 summary: Used by Dickey against Owlbear.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

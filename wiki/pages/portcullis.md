@@ -3,9 +3,9 @@ name: Portcullis
 category: item
 type: item
 summary: A wooden portcullis over a doorway, requiring strength to lift.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

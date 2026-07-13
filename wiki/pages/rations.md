@@ -3,9 +3,9 @@ name: Rations
 category: item
 type: item
 summary: Sufficient for a small army
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

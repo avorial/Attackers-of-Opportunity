@@ -3,9 +3,9 @@ name: Urai Mountains
 category: location
 type: location
 summary: The destination mountain range affected by a temporal field.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

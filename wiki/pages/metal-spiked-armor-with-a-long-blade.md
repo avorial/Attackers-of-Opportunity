@@ -3,9 +3,9 @@ name: Metal spiked armor with a long blade
 category: item
 type: item
 summary: Worn by a hobgoblin on the first floor.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

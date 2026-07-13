@@ -4,9 +4,9 @@ category: event
 type: event
 summary: DM outlines the plan for the caper, noting Chef Burrell's presence in
   the kitchen and the difficulty of entering during the day versus after hours.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Opulent beds
 category: item
 type: item
 summary: Found in some of the 13 rooms in the back chambers.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

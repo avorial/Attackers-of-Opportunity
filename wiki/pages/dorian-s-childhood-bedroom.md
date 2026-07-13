@@ -3,9 +3,9 @@ name: Dorian's Childhood Bedroom
 category: location
 type: location
 summary: A room raided by Maeve. Contains a sleeping guard (Dickey) and a safe.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

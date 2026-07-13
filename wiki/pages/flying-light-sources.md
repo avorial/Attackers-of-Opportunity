@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Light sources used by Dickey to illuminate dark areas, with a 20-foot
   range per light.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

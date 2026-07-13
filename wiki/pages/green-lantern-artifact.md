@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A large lantern with green glass or crystal that emits green light;
   found in the prison.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

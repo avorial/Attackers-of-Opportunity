@@ -5,9 +5,9 @@ type: event
 summary: A character identifies a yellow liquid as acid based on its color and
   smell, noting it could function similarly to Maeve's acid arrows with splash
   damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

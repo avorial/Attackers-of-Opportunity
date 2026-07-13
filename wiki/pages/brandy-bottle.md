@@ -3,9 +3,9 @@ name: Brandy Bottle
 category: item
 type: item
 summary: A large bottle of brandy on a table in the lounge room created by the portal.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Pocket rock (magic stone)
 category: item
 type: item
 summary: Used in rituals to retrieve information about the Citadel.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

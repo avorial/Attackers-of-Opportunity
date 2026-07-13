@@ -3,9 +3,9 @@ name: Frolia
 category: location
 type: location
 summary: A location mentioned as being familiar to a character.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: The group is on the swift ship of Captain Black Fang after completing
   the Dragon Task, sailing west and north toward the coastal port of Knows.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

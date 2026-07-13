@@ -4,9 +4,9 @@ category: location
 type: location
 summary: An area where waiters whisper about a 'special operations team' and
   where the protagonist later investigates.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

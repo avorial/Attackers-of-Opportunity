@@ -3,9 +3,9 @@ name: Raiding ship
 category: vehicle
 type: vehicle
 summary: Damaged during a storm, requiring repairs.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

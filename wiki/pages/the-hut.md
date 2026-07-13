@@ -3,9 +3,9 @@ name: The Hut
 category: location
 type: location
 summary: A structure that blocks magical forces
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

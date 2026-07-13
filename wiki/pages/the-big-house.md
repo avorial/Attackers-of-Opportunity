@@ -3,9 +3,9 @@ name: the big house
 category: location
 type: location
 summary: A location where the Zorn has three arms
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

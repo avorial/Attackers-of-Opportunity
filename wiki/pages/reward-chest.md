@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Contains 15,000 gold, gems, and a note from Theramar Girath; divided
   among party members.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

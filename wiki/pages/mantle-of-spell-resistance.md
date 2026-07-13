@@ -3,9 +3,9 @@ name: Mantle of Spell Resistance
 category: item
 type: item
 summary: Enhances resistance to spells.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

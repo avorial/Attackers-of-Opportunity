@@ -3,9 +3,9 @@ name: Bagpipes
 category: item
 type: item
 summary: Used by Sondor to release stored energy in a Thunderwave attack.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

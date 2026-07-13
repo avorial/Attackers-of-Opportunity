@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Characters discuss keeping Gerard's undead nature a secret and planning
   intervention.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

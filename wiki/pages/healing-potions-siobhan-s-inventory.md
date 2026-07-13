@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Three regular healing potions, two greater healing potions, and one
   superior healing potion found in Siobhan's bag.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

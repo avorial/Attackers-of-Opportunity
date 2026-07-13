@@ -3,9 +3,9 @@ name: Throwing Hammer
 category: item
 type: item
 summary: A flaming weapon used to attack rats.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

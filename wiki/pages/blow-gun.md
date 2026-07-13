@@ -3,9 +3,9 @@ name: Blow Gun
 category: item
 type: item
 summary: Possessed by Saito as an alternative weapon.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Five finely crafted arrow heads found in goblin shrines, including 3
   dragon slang, 1 goblin slang, and 1 beholder slang.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

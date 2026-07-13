@@ -3,9 +3,9 @@ name: Club
 category: item
 type: item
 summary: Taken by a character.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

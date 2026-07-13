@@ -3,9 +3,9 @@ name: Stardust Hotel and Spa
 category: location
 type: location
 summary: A location offered as a place for Dorian to stay by a party member.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Steel dart
 category: item
 type: item
 summary: A weapon used by Karavi to attack salamanders.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

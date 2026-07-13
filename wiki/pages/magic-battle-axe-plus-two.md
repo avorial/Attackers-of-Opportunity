@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A finely made, magical weapon found on a fallen enemy by Tatsu. It
   pulses with magical energy.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

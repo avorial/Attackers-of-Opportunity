@@ -3,9 +3,9 @@ name: Tea
 category: item
 type: item
 summary: Gift brought for Mama Dickis.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: vehicle
 type: vehicle
 summary: A ship mentioned as being seen sailing around, possibly searching for
   something.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

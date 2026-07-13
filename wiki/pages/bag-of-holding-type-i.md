@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A wondrous uncommon item costing 2,500 gold. Maeve negotiates a reduced
   price of 2,340 gold using Persuasion (26).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

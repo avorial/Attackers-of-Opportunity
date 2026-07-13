@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location guarded by members of all four courts, with magical
   restrictions preventing teleportation or spell-based escapes.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

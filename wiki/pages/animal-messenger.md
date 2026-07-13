@@ -3,9 +3,9 @@ name: Animal messenger
 category: item
 type: item
 summary: Proposed method to send battle plans to the elven company.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

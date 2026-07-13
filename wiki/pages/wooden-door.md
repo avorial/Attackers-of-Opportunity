@@ -3,9 +3,9 @@ name: Wooden door
 category: item
 type: item
 summary: A locked, simple wooden door with a handle mechanism.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -5,9 +5,9 @@ type: event
 summary: A goblin patrol consisting of three hub goblins, two bug bears, and two
   regular goblins is encountered at a crossroads. The hub goblins are directing
   the patrol, while the regular goblins are skirmishers.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

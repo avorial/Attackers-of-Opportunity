@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Players arrive at a secret passage with Elven soldiers' bodies smeared
   with blood, and a dark hallway leading to lower levels.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

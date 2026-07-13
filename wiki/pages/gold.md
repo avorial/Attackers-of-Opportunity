@@ -3,9 +3,9 @@ name: Gold
 category: item
 type: item
 summary: Hundreds of gold pieces found in cave
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Torch
 category: item
 type: item
 summary: A light source used by the party, which can interfere with darkvision.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

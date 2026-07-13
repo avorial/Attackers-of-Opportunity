@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Research on swamp areas in the eastern continent identifies Reikos as
   the most likely location with significant swamps and rainforests.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

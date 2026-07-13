@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location where stone giants betrayed their village to join Vazrul
   Zegor's forces.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

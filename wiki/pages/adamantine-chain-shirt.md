@@ -4,9 +4,9 @@ category: item
 type: item
 summary: An alternative armor option that grants immunity to critical hits but
   does not increase AC; costs 500 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

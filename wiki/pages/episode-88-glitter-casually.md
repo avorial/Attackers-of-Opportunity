@@ -5,9 +5,9 @@ type: event
 summary: Heroes eliminated the Spring Counselor of Seasons Glade and made a deal
   with Fulmin Kelric, allowing him to retire in exchange for revealing her lab's
   location.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

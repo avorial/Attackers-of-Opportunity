@@ -5,9 +5,9 @@ type: event
 summary: Maeve searches the bodies and finds a note indicating someone hired
   goblins to kill military members of Season's Glade's army, along with 500
   gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

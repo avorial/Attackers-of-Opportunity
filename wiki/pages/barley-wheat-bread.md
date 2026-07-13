@@ -3,9 +3,9 @@ name: Barley wheat bread
 category: item
 type: item
 summary: Baked by a goblin cook and consumed by Valak, it temporarily reduces stress.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

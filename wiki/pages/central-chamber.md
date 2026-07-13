@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A larger chamber with four standing columns and a broken statue of a
   multi-headed creature (later identified as a hydra).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: 30-35ft wide and 50ft long with a thatched roof. Part of the plan to
   ambush a cow.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

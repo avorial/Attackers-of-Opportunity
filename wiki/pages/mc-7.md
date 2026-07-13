@@ -3,9 +3,9 @@ name: MC-7
 category: item
 type: item
 summary: "First appearance: Episode 9: Spelunking"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

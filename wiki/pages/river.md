@@ -3,9 +3,9 @@ name: River
 category: location
 type: location
 summary: Meeting point of two rivers; location of sawmill
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

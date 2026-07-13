@@ -3,9 +3,9 @@ name: Artifact (unspecified)
 category: item
 type: item
 summary: Octavius Trigg's failed mission was to retrieve this from Gerard.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

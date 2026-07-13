@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A character discusses the sparsely populated mountains and the
   possibility of making a mountain lair in the future.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

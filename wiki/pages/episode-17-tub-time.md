@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Party arrives at the Wayfinder Inn and interacts with the elf
   receptionist Shalia.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

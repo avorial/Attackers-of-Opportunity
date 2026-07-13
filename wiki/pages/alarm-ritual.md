@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical ritual to detect intruders, discussed by Dorian and another
   character.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

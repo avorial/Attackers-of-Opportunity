@@ -3,9 +3,9 @@ name: Stress toy
 category: item
 type: item
 summary: A reverse stress ball that squeaks and causes noise, attributed to Valak.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

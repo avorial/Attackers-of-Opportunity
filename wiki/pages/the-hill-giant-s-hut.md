@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Neton's residence where he prepares his fish after the challenge. Maeve
   sneaks into the hut later.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

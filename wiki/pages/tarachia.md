@@ -3,9 +3,9 @@ name: Tarachia
 category: location
 type: location
 summary: Home of the Elf Wizard Zarin and a Necromancer artifact.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

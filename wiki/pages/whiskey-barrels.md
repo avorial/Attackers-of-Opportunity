@@ -5,9 +5,9 @@ type: item
 summary: Three keg-sized barrels. One has a tap, another is sealed, and the
   third has been emptied. The tapped barrel contains 15-year-old smoked oaken
   barrel whiskey.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A ruined structure located approximately 175 miles north, with angular
   stone features and footprints leading in/out.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

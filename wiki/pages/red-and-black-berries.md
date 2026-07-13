@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Toxic berries found by Dirt during a survival check, causing stomach
   issues for the group.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

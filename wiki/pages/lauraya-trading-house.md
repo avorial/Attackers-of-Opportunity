@@ -4,9 +4,9 @@ category: location
 type: location
 summary: "Possible duplicate of: La Riah Trading House, La Raya Trade House,
   LaRia trading house -- unresolved, see possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

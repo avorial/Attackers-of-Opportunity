@@ -4,9 +4,9 @@ category: location
 type: location
 summary: The area where fiery lizards are reported to be burning crops and
   fields. The mission's destination.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

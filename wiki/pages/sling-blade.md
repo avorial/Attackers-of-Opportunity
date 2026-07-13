@@ -3,9 +3,9 @@ name: Sling blade
 category: item
 type: item
 summary: A weapon used by Rosas during a rage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

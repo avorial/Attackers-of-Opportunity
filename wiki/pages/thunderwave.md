@@ -3,9 +3,9 @@ name: Thunderwave
 category: item
 type: item
 summary: Casts a shockwave by Vazrul, used to push enemies back.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

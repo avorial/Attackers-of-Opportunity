@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A shooting star streaks through the night sky, interpreted as a sign
   from Raoul indicating they are on the right track.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: platinum chalice
 category: item
 type: item
 summary: A ritual item with a spike and dried blood, likely used for blood rituals.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

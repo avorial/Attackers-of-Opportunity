@@ -3,9 +3,9 @@ name: Ant Colony Dix
 category: location
 type: location
 summary: A subterranean ant colony with tunnels and a large cavern.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

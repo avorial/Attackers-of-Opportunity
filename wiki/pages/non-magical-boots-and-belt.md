@@ -3,9 +3,9 @@ name: Non-magical boots and belt
 category: item
 type: item
 summary: Items retrieved from a cave of a lake during a previous mission.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

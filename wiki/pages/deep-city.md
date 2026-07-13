@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A city where the party is located. They discuss finding lodging and
   encountering attackers in a dark alley.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

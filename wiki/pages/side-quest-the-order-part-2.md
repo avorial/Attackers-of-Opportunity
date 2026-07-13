@@ -5,9 +5,9 @@ type: event
 summary: Party members use light sources (including a black light) to illuminate
   the environment, revealing glowing remnants of war paint on Grim's face and
   body.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Hooped dress with bow
 category: item
 type: item
 summary: Maeve's outfit, containing a hidden bow for combat.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

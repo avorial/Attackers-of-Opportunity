@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A small clearing with rough stone structures where goblin priests
   worship an unidentified god.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

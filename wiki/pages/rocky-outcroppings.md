@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A destination 4 miles south-east from the farms, where the party tracks
   goblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

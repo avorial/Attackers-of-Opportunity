@@ -3,9 +3,9 @@ name: Mint Leaves
 category: item
 type: item
 summary: Wrapped in parchment, intended for feeding a pet (possibly a snake).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

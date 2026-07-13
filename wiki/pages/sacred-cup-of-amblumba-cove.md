@@ -3,9 +3,9 @@ name: Sacred cup of Amblumba Cove
 category: item
 type: item
 summary: A title claimed by Emperor King Clark.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

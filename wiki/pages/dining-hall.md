@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Part of the hotel where the main event occurs. Described as having a
   general hubbub, with tables and a Maitre D present.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

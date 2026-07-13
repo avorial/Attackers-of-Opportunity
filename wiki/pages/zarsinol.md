@@ -3,9 +3,9 @@ name: Zarsinol
 category: item
 type: item
 summary: A magical item or substance referenced in Dalek's attunement process.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

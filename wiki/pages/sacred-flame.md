@@ -3,9 +3,9 @@ name: Sacred Flame
 category: item
 type: item
 summary: Cantrip dealing radiant damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

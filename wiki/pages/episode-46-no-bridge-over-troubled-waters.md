@@ -5,9 +5,9 @@ type: event
 summary: The party is advised to cross the river either from the current
   location or from the opposite side of the goblin-controlled territories to
   avoid conflict with goblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

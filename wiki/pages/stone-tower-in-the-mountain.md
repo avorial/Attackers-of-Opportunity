@@ -5,9 +5,9 @@ type: location
 summary: A finely crafted stone structure within a mountain, three stories tall.
   The first floor has no windows, the second has narrow slitted windows, and the
   third has partial flooring with normal-looking windows. The tower has
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

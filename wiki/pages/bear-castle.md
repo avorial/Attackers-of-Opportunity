@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Located in the Bear Clan land, near the border with the Turtle Clan
   territories, two days of horseback travel from Suzita.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

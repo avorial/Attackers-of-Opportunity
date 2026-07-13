@@ -3,9 +3,9 @@ name: Gold Ring with Green Leaf-Shaped Stones
 category: item
 type: item
 summary: Worn by the Major, distinct from other rings seen
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

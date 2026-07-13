@@ -3,9 +3,9 @@ name: Blood Red Candles
 category: item
 type: item
 summary: Ceremonial items in the shrine to Megalith.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

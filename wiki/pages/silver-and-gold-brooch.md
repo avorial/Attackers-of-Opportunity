@@ -3,9 +3,9 @@ name: Silver and gold brooch
 category: item
 type: item
 summary: A brooch with swirling gold and silver patterns, worth 750 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

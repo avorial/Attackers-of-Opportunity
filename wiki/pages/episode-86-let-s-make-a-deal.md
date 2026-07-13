@@ -5,9 +5,9 @@ type: event
 summary: A glowing door with glyphs at 3 o'clock and 9 o'clock positions lights
   up in a clockwise pattern, forming a full circle before disappearing into a
   blue glowing doorway.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

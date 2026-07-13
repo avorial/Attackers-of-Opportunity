@@ -3,9 +3,9 @@ name: Eye of Blood
 category: item
 type: item
 summary: Artifact referenced in the fellowship of the eye of blood message boards.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

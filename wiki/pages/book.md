@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A book with magical theory similar to Eldritch Blast, allowing for
   additional spellcasting options.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

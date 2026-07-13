@@ -3,9 +3,9 @@ name: Gold ring with emerald
 category: item
 type: item
 summary: Worn by Captain Pretnar on his left hand, not a wedding ring.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

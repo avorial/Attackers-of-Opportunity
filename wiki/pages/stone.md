@@ -3,9 +3,9 @@ name: stone
 category: item
 type: item
 summary: A magical stone that emits energy and reacts negatively with a bag of holding.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

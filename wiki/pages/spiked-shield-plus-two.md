@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A heavy shield with spikes, +2 modifier, +4 to armor class, and can
   deal extra damage when swung.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

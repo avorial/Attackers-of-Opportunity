@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Allows the wearer to breathe in any environment (underwater, high
   altitude, extreme temperatures).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

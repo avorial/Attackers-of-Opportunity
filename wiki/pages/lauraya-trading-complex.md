@@ -5,9 +5,9 @@ type: location
 summary: A location with a garden outside, featuring a stone path, two stone
   benches, and a river. The garden is described as tranquil with ambient light
   from candles and a waning moon.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -5,9 +5,9 @@ type: item
 summary: A wondrous item requiring attunement. It has three charges, allowing
   the wearer to cast a teleport spell (up to 10 creatures) per charge. Charges
   replenish daily. Priced at 7,000 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

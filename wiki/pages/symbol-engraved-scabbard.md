@@ -5,9 +5,9 @@ type: item
 summary: A scabbard with a symbol from the Winter Court's high-level guards. It
   is split and requires mending. Possession of this symbol by non-guards is
   punishable by death.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

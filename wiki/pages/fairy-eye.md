@@ -3,9 +3,9 @@ name: Fairy Eye
 category: item
 type: item
 summary: Mentioned as a possible transformation of a Wyvern eye via fairy magic.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

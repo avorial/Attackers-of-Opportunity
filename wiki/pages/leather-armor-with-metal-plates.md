@@ -3,9 +3,9 @@ name: Leather Armor with Metal Plates
 category: item
 type: item
 summary: Resembles Brigadine but with a leather outer coat.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

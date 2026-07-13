@@ -3,9 +3,9 @@ name: Spike trap
 category: item
 type: item
 summary: Hidden in a hallway with nine holes in the wall, releasing 15-foot spikes.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

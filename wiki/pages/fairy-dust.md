@@ -3,9 +3,9 @@ name: Fairy dust
 category: item
 type: item
 summary: A magical item used in conjunction with 'produce flame' for fireworks.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

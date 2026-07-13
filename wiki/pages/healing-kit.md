@@ -3,9 +3,9 @@ name: healing kit
 category: item
 type: item
 summary: Provides advantage on death saving throws when used.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A drink ordered by the group. The waitress initially brings sparkling
   water with a lemon wedge instead.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

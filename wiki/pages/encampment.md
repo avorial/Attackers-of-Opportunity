@@ -3,9 +3,9 @@ name: encampment
 category: location
 type: location
 summary: where the group is staying and where patrols are conducted
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

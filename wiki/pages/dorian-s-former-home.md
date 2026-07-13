@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A three-story mansion with gardens, service areas, and house guards.
   The gate is closed but not locked.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

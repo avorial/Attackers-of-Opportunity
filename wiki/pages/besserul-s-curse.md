@@ -3,9 +3,9 @@ name: Besserul's Curse
 category: item
 type: item
 summary: Necromantic curse granting a d4 bonus to necromancy attacks.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

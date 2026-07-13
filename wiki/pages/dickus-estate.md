@@ -3,9 +3,9 @@ name: Dickus Estate
 category: location
 type: location
 summary: The family estate of the Dickus family, visited by the group.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

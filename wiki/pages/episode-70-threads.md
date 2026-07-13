@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Dorian and Dickey visit Theronall at the Crafty Ring to discuss
   researching a magical rod and stopping Vazrul Zagor's goblin army.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

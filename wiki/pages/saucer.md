@@ -3,9 +3,9 @@ name: saucer
 category: item
 type: item
 summary: Dorian's saucer sank in the river during the ambush.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

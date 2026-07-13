@@ -5,9 +5,9 @@ type: event
 summary: Party finds the carcass of an owl bear killed by a hobgoblin bug bear
   goblin patrol, indicating the creature that previously killed goblins is now
   dead.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

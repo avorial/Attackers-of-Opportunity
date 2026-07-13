@@ -3,9 +3,9 @@ name: "Episode 68: Close Call"
 category: event
 type: event
 summary: Arrival at Stardust Spa and Hotel with guards escorting them.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

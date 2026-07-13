@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Mechanical constructs powered by soul fragments siphoned from sentient
   beings, often used as laborers or enforcers.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

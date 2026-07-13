@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A tunnel referenced as a previous location with no creature, later
   blocked by a cave-in.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Hamlet
 category: location
 type: location
 summary: A small hamlet near the farm, where the party met Teardros and Adiana.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

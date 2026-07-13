@@ -3,9 +3,9 @@ name: Diamond Vein
 category: item
 type: item
 summary: Precious material vein found in the cavern, surrounded by kimberlite ore.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Contains clear red liquid with tiny bubbles. Cures diseases and removes
   blinded, deafened, paralyzed, and poisoned conditions.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

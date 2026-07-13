@@ -3,9 +3,9 @@ name: Necromantic Elemental
 category: item
 type: item
 summary: A summoned entity partially absorbed by the necromancer lord.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

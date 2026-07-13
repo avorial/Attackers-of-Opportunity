@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Maeve uses the stone of intellectus to gather information about the
   automatons and Atlantean friend Mr. Trig.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

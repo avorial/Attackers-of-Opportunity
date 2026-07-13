@@ -3,9 +3,9 @@ name: Wineskins
 category: item
 type: item
 summary: Contain 'very nice wine' brought by Captain Milgar for the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

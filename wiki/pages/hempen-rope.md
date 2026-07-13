@@ -3,9 +3,9 @@ name: Hempen rope
 category: item
 type: item
 summary: Material of the magic net, which fades into goo after 30 seconds.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

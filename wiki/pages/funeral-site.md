@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Location of Berios Silverthrust's funeral, attacked by three-armed,
   three-legged creatures.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

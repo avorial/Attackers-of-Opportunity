@@ -3,9 +3,9 @@ name: Message Spell
 category: item
 type: item
 summary: Used by the party to communicate with the dameo, which initially failed.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

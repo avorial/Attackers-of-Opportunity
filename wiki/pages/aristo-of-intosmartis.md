@@ -5,9 +5,9 @@ type: item
 summary: A multifaceted onyx stone that, when touched, allows the user to know
   details about their surroundings within a quarter-mile radius. The knowledge
   is temporary and based on what the user thinks about.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Leather armor with tunics and pauldrons, in earthy tones, worn by
   wooden statues.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Black Light
 category: item
 type: item
 summary: A light source that reveals glowing war paint remnants on characters.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

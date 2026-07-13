@@ -3,9 +3,9 @@ name: Lawn Darts
 category: item
 type: item
 summary: Metal darts with a 4-inch-wide head, used by guards against Solana.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Smoky Wet Dog Incense
 category: item
 type: item
 summary: A delicacy in the hill giant village, twice as expensive as lavender incense.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

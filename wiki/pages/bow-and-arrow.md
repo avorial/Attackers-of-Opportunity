@@ -3,9 +3,9 @@ name: bow and arrow
 category: item
 type: item
 summary: Possessed by goblin boss
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

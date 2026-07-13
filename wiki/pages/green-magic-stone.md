@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical artifact used by the Spring Court to control people,
   appearing as rings, cloak pendants, etc.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

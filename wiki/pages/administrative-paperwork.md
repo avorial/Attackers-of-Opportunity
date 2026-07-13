@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Files detailing land transactions, staff records, and director
   signatures (Madsen, Ernst Weil).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

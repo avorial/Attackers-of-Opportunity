@@ -3,9 +3,9 @@ name: Crit Failure Table
 category: item
 type: item
 summary: Effects for critical failures on attacks (mentioned but not detailed).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

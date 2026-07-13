@@ -3,9 +3,9 @@ name: Campfire
 category: item
 type: item
 summary: Located in the graveyard, where Edvard invites the group to sit.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

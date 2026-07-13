@@ -3,9 +3,9 @@ name: Harp
 category: item
 type: item
 summary: Sold by Maeve for 325 gold; similar to one sold by Alicia years prior.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

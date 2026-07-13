@@ -3,9 +3,9 @@ name: Scroll
 category: item
 type: item
 summary: "Possible duplicate of: Scrolls -- unresolved, see possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

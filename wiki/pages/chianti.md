@@ -3,9 +3,9 @@ name: Chianti
 category: item
 type: item
 summary: A wine mentioned during a meal discussion.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

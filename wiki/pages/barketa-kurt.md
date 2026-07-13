@@ -3,9 +3,9 @@ name: Barketa Kurt
 category: location
 type: location
 summary: Capital of Samasa, home to a wizard's tower.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

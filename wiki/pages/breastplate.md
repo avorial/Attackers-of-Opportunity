@@ -3,9 +3,9 @@ name: Breastplate
 category: item
 type: item
 summary: Item potentially found at Lake Bryn as part of a warrior's outfit.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

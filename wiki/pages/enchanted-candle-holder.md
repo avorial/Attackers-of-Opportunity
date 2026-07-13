@@ -3,9 +3,9 @@ name: Enchanted Candle Holder
 category: item
 type: item
 summary: Provides advantage on Intelligence checks during research.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

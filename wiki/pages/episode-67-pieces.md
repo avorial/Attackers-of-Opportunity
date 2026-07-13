@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Discussion about magical restrictions in the prison blocking
   teleportation and large effect spells.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

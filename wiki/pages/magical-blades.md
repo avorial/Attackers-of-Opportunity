@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Two blades with fire properties and a 'biting' magical effect; carried
   by Balik.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

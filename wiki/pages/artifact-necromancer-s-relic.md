@@ -5,9 +5,9 @@ type: item
 summary: A powerful artifact carried by Lord Darragh, which the Silverthrusts
   believe needs to be destroyed to prevent his return. It is part of a set of
   artifacts, with one remaining to be located.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

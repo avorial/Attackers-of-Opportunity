@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Mentioned by Ink Blot as needing to be 'strong'. Likely a humorous or
   metaphorical reference.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

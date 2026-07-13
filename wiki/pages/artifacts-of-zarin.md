@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Magical items belonging to Zarin, the elven wizard. No specific names
   are given, but they were noted in the library's tales.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

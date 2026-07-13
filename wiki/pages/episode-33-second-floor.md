@@ -3,9 +3,9 @@ name: "Episode 33: Second Floor"
 category: event
 type: event
 summary: Players conclude battle with three zombie troglodytes and address wounds.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

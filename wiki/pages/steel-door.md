@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A solid steel door with two handles (one at normal height, one six
   inches above), polished and recently maintained.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

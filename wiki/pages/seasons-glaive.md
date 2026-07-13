@@ -3,9 +3,9 @@ name: Seasons Glaive
 category: item
 type: item
 summary: A pole axe weapon, likely named after the seasons.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

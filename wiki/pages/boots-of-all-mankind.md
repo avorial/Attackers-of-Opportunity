@@ -3,9 +3,9 @@ name: Boots of all mankind
 category: item
 type: item
 summary: Item retrieved from a body.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

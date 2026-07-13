@@ -3,9 +3,9 @@ name: Fancy Staff
 category: item
 type: item
 summary: A notable staff found on Siobhan's body, likely magical.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

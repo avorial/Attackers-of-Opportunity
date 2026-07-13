@@ -3,9 +3,9 @@ name: Jay-Zon's sword
 category: item
 type: item
 summary: Fancy, fancy sword retrieved by the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

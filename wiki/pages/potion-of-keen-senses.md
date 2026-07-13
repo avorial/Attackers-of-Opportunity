@@ -3,9 +3,9 @@ name: Potion of keen senses
 category: item
 type: item
 summary: Provides advantage on perception checks for one hour.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

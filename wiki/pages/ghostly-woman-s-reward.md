@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A 450 gold reward posted by Rahalith of the Winter Court for
   information about a spectral woman at Lake Bryn.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

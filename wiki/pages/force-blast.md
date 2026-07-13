@@ -3,9 +3,9 @@ name: Force Blast
 category: item
 type: item
 summary: An ability used by a player character, dealing 14 damage per attack.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

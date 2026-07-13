@@ -3,9 +3,9 @@ name: Shield
 category: item
 type: item
 summary: Spell cast by Mykon to block Eldritch Blast.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

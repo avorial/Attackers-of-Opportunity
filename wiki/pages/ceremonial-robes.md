@@ -3,9 +3,9 @@ name: Ceremonial Robes
 category: item
 type: item
 summary: Black robe with red hands worn by Dorian to signify the Redeemer's avatar.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

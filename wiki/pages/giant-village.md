@@ -3,9 +3,9 @@ name: Giant Village
 category: location
 type: location
 summary: Previously allied village now under attack by Vazrul.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

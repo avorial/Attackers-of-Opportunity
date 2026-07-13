@@ -3,9 +3,9 @@ name: Pass Without a Trace
 category: item
 type: item
 summary: Spell granting +10 to stealth.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

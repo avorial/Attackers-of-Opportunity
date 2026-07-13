@@ -3,9 +3,9 @@ name: 113 gold
 category: item
 type: item
 summary: Found in a supply cache by Aubrey.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

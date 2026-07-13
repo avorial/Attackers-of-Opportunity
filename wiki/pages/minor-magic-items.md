@@ -3,9 +3,9 @@ name: Minor Magic Items
 category: item
 type: item
 summary: Looted from the dragon's hoard at the temple.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

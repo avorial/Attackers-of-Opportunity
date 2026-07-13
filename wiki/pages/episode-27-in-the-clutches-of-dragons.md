@@ -3,9 +3,9 @@ name: "Episode 27: In the Clutches of Dragons"
 category: event
 type: event
 summary: Two dragons focus on a calf, initiating a surprise round.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

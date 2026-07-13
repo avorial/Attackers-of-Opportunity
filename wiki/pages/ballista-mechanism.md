@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Includes a gimbal for stability, a manual trigger mechanism, and a
   four-person reload system.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

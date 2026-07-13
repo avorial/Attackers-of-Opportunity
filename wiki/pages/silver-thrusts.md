@@ -3,9 +3,9 @@ name: Silver thrusts
 category: item
 type: item
 summary: A family in the city below associated with the granite block tavern.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

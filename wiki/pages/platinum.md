@@ -3,9 +3,9 @@ name: Platinum
 category: item
 type: item
 summary: A coin exchanged between characters as a gesture.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

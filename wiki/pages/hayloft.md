@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A hiding spot inside the barn where the group takes shelter after
   stabilizing Dale. Later, they are led to a graveyard.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

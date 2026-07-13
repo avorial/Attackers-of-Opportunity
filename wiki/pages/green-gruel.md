@@ -3,9 +3,9 @@ name: Green gruel
 category: item
 type: item
 summary: A dish brought by the goblin cook, placed near the fireplace.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

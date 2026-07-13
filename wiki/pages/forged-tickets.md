@@ -3,9 +3,9 @@ name: forged tickets
 category: item
 type: item
 summary: Tickets to the wedding that can be forged for 75 gold each.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

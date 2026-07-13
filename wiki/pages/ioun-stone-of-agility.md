@@ -3,9 +3,9 @@ name: Ioun Stone of Agility
 category: item
 type: item
 summary: Deep red sphere that increases Dexterity by 2 (max 20) when activated.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

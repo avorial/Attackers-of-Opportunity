@@ -3,9 +3,9 @@ name: Rhubarb cobbler
 category: item
 type: item
 summary: A sweet treat prepared for Dickey's birthday.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

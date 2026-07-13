@@ -3,9 +3,9 @@ name: Ram horn
 category: item
 type: item
 summary: Blown by the sentry to summon the shaman and warriors.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

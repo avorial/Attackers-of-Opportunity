@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Delicate scroll discussing raising bodies and enslaving ghosts;
   requires protection to avoid decay.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

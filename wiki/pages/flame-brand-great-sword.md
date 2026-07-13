@@ -3,9 +3,9 @@ name: Flame Brand Great Sword
 category: item
 type: item
 summary: A +1 great sword that deals 1d6 fire damage. Looted by Valak.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

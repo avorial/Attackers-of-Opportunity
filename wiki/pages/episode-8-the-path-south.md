@@ -5,9 +5,9 @@ type: event
 summary: A cobra ambush causes a party member (Dorian) to be knocked off a boat,
   requiring rescue by allies. A tabaxi kills the snake with an arrow through its
   head.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

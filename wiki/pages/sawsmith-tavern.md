@@ -5,9 +5,9 @@ type: location
 summary: A boisterous tavern in Saren with a bard performing songs, including a
   ballad about the heroes of Sarin. The name 'Sawsmith' is noted as a misnomer,
   as it is not a smithy.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

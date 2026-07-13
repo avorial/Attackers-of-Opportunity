@@ -3,9 +3,9 @@ name: Healing spell
 category: item
 type: item
 summary: Cast by Siobhan to heal Jason after the sparring match.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

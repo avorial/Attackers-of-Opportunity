@@ -4,9 +4,9 @@ category: location
 type: location
 summary: The hag's domicile; part of a windmill in disrepair; one blade remains
   attached; three stories tall; has a flower garden out front.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

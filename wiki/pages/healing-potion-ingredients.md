@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Silver leaf herbs gathered from hedges; usable for poultices or half a
   healing potion.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Pack (Pelrenor/Gerard)
 category: item
 type: item
 summary: Carried by Pelrenor and Gerard; contains weapons and supplies.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Dark metal circlet
 category: item
 type: item
 summary: Worn by Vazrul, has a blood red stone that appears to drip blood
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

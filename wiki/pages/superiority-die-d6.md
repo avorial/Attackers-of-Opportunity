@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A monk's ability to expend a superiority die to deal damage to another
   creature within 5 feet.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

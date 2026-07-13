@@ -3,9 +3,9 @@ name: Carrots
 category: item
 type: item
 summary: Used by Jack as psychic damage weapons against cows.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Audrey is suffocating, and players attempt to help her by examining her
   and determining she needs water, as she is a fish-like murder dragon.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

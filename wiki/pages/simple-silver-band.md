@@ -3,9 +3,9 @@ name: Simple Silver Band
 category: item
 type: item
 summary: A ring used to replace the greenstone ring on Dickey's finger during the raid.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Neoskogar
 category: location
 type: location
 summary: A forest or tree-related location referenced in the diagram of planes.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

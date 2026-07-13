@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A viscous, excrement-like substance covering the tunnel and chamber,
   potentially acidic.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: vehicle
 type: vehicle
 summary: A boat with a 25x25 foot central space, cabins, and crates. Travels
   north along the river.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

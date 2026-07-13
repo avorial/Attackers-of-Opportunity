@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A weapon with the 'vicious' trait that deals an additional 7 damage on
   critical hits.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

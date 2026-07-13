@@ -4,9 +4,9 @@ category: event
 type: event
 summary: The Spring Court has taken over Seasons Glade using a green magic stone
   that compels people to submit to its will.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

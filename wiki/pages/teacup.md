@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Floats in the river; Dorian attempts to retrieve it but fails. It
   contains river water.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

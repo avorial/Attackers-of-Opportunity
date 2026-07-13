@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A long hallway with skeleton chains attached to the walls, described as
   winding and disorienting.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

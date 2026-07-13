@@ -3,9 +3,9 @@ name: two great swords
 category: item
 type: item
 summary: Swords offered for sale at 3100 gold collectively or 1500 individually.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

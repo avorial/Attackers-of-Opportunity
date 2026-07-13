@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A mechanism on the vault door with six pegs of different metals that
   spins in some way.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Visionary location with a partially destroyed wall and a frog-like
   creature resembling a Goliath with a dead body at its base.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

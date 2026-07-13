@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A custom spell with a strobe effect and colored balls flying around the
   caster's head, described as a 'mini rave.'
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

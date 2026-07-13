@@ -3,9 +3,9 @@ name: Jossa
 category: location
 type: location
 summary: The capital city of Zixa, where the group landed after arriving via Wyverns.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

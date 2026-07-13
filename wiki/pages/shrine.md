@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A small shrine that half-golems tear down periodically, used as a
   potential preaching site.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Hobgoblin Dirk
 category: item
 type: item
 summary: 18-inch long blade gifted to Grafon as a replacement for his broken weapon.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

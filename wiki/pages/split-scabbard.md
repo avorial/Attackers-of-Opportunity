@@ -3,9 +3,9 @@ name: Split Scabbard
 category: item
 type: item
 summary: A damaged scabbard that will be mended via spell.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

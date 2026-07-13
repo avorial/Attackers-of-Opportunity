@@ -3,9 +3,9 @@ name: "Episode 51: Meetings and Secrets"
 category: event
 type: event
 summary: Dirt uses monk insight to sense the weave of nature's energy.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

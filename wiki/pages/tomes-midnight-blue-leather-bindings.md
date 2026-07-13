@@ -3,9 +3,9 @@ name: Tomes (Midnight Blue Leather Bindings)
 category: item
 type: item
 summary: Two tomes with golden lettering, used for ritual casting.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Additional effects for critical attacks, including advantage on attacks
   until the end of the next turn.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

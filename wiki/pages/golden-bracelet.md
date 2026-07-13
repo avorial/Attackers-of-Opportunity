@@ -3,9 +3,9 @@ name: Golden bracelet
 category: item
 type: item
 summary: A solid, weighty piece of gold, 750 gold in value, worn by Dorian's father.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A key used by Chef Burrell to unlock the storage unit, attached to a
   string for easy access.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

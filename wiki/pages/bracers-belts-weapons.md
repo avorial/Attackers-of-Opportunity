@@ -3,9 +3,9 @@ name: Bracers, Belts, Weapons
 category: item
 type: item
 summary: Stripped from Daimyo Ubu's body as trophies.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

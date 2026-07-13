@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A structure with multiple floors, spiral staircases, and a layout
   mirrored on different levels.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

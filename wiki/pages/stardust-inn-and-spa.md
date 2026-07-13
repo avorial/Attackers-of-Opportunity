@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location where the maître d' is an agent of Wenera, providing a
   potential avenue for information gathering.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

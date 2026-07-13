@@ -3,9 +3,9 @@ name: Two-handed spear
 category: item
 type: item
 summary: Wielded by Redcag, an orc berserker.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

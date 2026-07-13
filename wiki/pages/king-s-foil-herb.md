@@ -3,9 +3,9 @@ name: King's Foil Herb
 category: item
 type: item
 summary: A herb with green and silver leaves, prescribed to Valak for indigestion.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

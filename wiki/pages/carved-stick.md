@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A stick carved with symbols that glows red and blue when magical energy
   is channeled through it.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

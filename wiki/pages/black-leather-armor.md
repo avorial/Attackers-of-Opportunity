@@ -3,9 +3,9 @@ name: Black leather armor
 category: item
 type: item
 summary: Worn by another hobgoblin on the first floor.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

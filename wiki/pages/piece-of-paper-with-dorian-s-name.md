@@ -3,9 +3,9 @@ name: Piece of Paper with Dorian's Name
 category: item
 type: item
 summary: Folded receipt from the loan repayment transaction.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

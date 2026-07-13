@@ -3,9 +3,9 @@ name: Metal Store
 category: location
 type: location
 summary: A store made of metal, possibly a portal to sales or vaults.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

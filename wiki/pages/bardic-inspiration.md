@@ -3,9 +3,9 @@ name: Bardic Inspiration
 category: item
 type: item
 summary: A feature that grants a d6 bonus to attack rolls or saving throws.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Wyverns
 category: item
 type: item
 summary: Five wyverns, two larger than the others; used as mounts by Falco.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

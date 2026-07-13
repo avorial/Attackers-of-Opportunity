@@ -3,9 +3,9 @@ name: Pack
 category: item
 type: item
 summary: Carried by Aubrey and left on the west side for retrieval.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

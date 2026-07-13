@@ -3,9 +3,9 @@ name: "Episode 56: Q&A"
 category: event
 type: event
 summary: Party liberates a wargpen camp from hobgoblins and chats with goblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

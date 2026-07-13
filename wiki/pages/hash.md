@@ -3,9 +3,9 @@ name: hash
 category: item
 type: item
 summary: Part of the breakfast meal.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

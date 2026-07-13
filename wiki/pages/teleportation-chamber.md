@@ -3,9 +3,9 @@ name: Teleportation Chamber
 category: location
 type: location
 summary: A location where the Winter Lady offers to teleport the group to the prison.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

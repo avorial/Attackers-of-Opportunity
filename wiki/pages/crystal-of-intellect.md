@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A black diamond-shaped stone that grants the holder instantaneous
   knowledge of everything within a mile radius.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

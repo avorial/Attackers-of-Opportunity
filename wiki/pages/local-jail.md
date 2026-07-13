@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Holding cells on ground floor, longer-term prisoners on second floor,
   VIP prisoners in towers, and a supermax on third floor with magical wards.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

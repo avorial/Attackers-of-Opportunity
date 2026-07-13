@@ -3,9 +3,9 @@ name: Cloak of Spider Climb
 category: item
 type: item
 summary: A cloak allowing the wearer to climb walls or trees via command.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: elemental plane pyramid
 category: item
 type: item
 summary: A magical object that can be banished to another plane.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Required components for a ritual to destroy an artifact. The party has
   not yet obtained either.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

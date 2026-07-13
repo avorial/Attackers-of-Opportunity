@@ -4,9 +4,9 @@ category: location
 type: location
 summary: "Possible duplicate of: Silver Thrust Estate, Silvertho State Estate --
   unresolved, see possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Knoss
 category: location
 type: location
 summary: A location the group plans to journey to for an artifact.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A knitted glove from Benjen's mother, used to pull treats from an oven
   as a childhood memento.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

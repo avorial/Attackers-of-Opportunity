@@ -3,9 +3,9 @@ name: ancient artifacts of power
 category: item
 type: item
 summary: Linked to the necromantic king and the mission to save the ants.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

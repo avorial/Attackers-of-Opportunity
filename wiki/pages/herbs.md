@@ -3,9 +3,9 @@ name: Herbs
 category: item
 type: item
 summary: Stored in printed bags with unusual herb names.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

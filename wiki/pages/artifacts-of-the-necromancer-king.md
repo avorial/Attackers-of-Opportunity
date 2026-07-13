@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Scattered across the world after the Necro Lord's defeat; Vazrul Zagor
   is suspected of possessing some.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

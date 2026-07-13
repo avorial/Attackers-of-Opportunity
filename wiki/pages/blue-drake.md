@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A pet of Valak that tried to kill him; it was left behind when a dragon
   carried him off.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

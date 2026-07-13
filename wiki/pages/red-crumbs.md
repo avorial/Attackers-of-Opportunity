@@ -3,9 +3,9 @@ name: Red Crumbs
 category: item
 type: item
 summary: A trail marker left by the party for future retrieval.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

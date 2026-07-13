@@ -3,9 +3,9 @@ name: Dancing Lights
 category: item
 type: item
 summary: A spell cast by Dickie, negated by darkness.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

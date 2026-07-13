@@ -3,9 +3,9 @@ name: Valakila
 category: location
 type: location
 summary: Home village of Valak, recreated in a vision
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

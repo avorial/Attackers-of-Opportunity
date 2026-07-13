@@ -3,9 +3,9 @@ name: toadstool ring
 category: location
 type: location
 summary: a natural formation near the camp
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Eastern wooden barricade
 category: location
 type: location
 summary: Barricade with brambles and oil, used for potential fire traps.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

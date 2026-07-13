@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Heroes are in an underground chamber near Sarin, Devahia, dealing with
   giant ants that invaded a museum/mausoleum.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Leather Quiver
 category: item
 type: item
 summary: A mottled black and green leather quiver containing 20 acid-tipped arrows.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

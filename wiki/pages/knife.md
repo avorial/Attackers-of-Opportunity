@@ -3,9 +3,9 @@ name: Knife
 category: item
 type: item
 summary: Serviceable knife found on the bugbear.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

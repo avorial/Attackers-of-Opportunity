@@ -3,9 +3,9 @@ name: Green cloak pin
 category: item
 type: item
 summary: A symbol of allegiance to the Spring Court, worn by Valak.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

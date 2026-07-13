@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Located in the large suite, with dials to control hot and cold water
   flow. Restores hit points when used in the communal hot spring.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

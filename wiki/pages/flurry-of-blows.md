@@ -3,9 +3,9 @@ name: Flurry of Blows
 category: item
 type: item
 summary: A bonus action that grants two additional attacks.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

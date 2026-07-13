@@ -3,9 +3,9 @@ name: Side Quest_ Samurai Sunset Part 7
 category: event
 type: event
 summary: Tatsu is 15 feet away from the speaker.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

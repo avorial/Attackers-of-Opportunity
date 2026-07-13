@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A symbol proposed to mark goblins not fighting for Vazrul, to
   distinguish allies.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

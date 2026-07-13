@@ -3,9 +3,9 @@ name: Circlet of Skulls
 category: item
 type: item
 summary: An artifact associated with the necromancer king, now in possession of Vaz.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

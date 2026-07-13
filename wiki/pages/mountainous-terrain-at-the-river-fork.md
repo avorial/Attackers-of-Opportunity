@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A mountainous area at the fork of the river, near the boundary of three
   countries.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A vial identified as a poison that adds 1d8 poison damage to a weapon
   for one minute.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

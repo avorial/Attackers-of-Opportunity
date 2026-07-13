@@ -3,9 +3,9 @@ name: Throne
 category: item
 type: item
 summary: A crude structure made of crates, barrels, and low crates, resembling a throne.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

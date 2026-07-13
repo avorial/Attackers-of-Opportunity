@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A book detailing the history of Zixa before the founding of Jossup.
   Includes information about the region's pre-Jossup era and its ruler.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

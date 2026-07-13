@@ -3,9 +3,9 @@ name: Loincloth of Protection
 category: item
 type: item
 summary: A +1 magic loincloth provided to a barbarian character.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

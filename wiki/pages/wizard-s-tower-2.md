@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Located in the foothills of the Ori Mountains. Contains protective
   wards and arcane items. Key objective for the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

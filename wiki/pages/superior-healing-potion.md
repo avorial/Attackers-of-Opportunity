@@ -3,9 +3,9 @@ name: Superior Healing Potion
 category: item
 type: item
 summary: Heals 100 HP (superior to regular/greater healing).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

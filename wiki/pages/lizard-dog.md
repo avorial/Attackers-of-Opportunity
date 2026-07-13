@@ -3,9 +3,9 @@ name: Lizard dog
 category: item
 type: item
 summary: A creature accompanying the goblins, attacking Pelrin.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

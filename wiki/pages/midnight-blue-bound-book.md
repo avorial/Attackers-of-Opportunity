@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical book found in the Paxnara library, written in multiple
   languages including Elvish, Draconic, and containing spells.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

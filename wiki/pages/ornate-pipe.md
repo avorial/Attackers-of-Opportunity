@@ -3,9 +3,9 @@ name: Ornate pipe
 category: item
 type: item
 summary: Found on the spear-wielding doppelganger (28% loot).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

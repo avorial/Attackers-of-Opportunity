@@ -3,9 +3,9 @@ name: Bear Clan
 category: location
 type: location
 summary: Northernmost territory of Heng, with reports coming from the easternmost end.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

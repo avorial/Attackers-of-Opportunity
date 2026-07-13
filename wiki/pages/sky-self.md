@@ -3,9 +3,9 @@ name: Sky Self
 category: item
 type: item
 summary: Spell used by Coleman to disguise himself as an elven scout.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

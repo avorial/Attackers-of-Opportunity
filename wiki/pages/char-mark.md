@@ -3,9 +3,9 @@ name: Char mark
 category: item
 type: item
 summary: A greasy char mark on the middle of the road, remnants of a burned body.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

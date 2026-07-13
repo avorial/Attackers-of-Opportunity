@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Boots found in the lake that fit perfectly. Likely from the Summer
   Court, as the Winter Court symbol was on the scabbard.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

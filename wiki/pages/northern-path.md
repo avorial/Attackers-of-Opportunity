@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A path where the kobold attempts to lure the priest. Part of the plan
   to split the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

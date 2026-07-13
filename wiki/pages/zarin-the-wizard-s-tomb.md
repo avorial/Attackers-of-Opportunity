@@ -3,9 +3,9 @@ name: Zarin the Wizard's Tomb
 category: location
 type: location
 summary: Hypothetical location of another artifact linked to Zarin's family.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

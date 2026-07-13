@@ -3,9 +3,9 @@ name: Larger Room
 category: location
 type: location
 summary: A distant chamber 90 feet away, containing a bugbear and other goblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

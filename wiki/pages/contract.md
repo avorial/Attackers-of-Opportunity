@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A written agreement between Maeve and Ed Shearer for information and
   bounty on green stones.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

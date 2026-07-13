@@ -5,9 +5,9 @@ type: item
 summary: An item of significant magical power that Octavius Trigg is attempting
   to acquire from the party. It is described as a key component for the
   necromancer lord.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

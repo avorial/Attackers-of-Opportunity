@@ -3,9 +3,9 @@ name: Flame Spirit
 category: item
 type: item
 summary: A magical entity targeted by attacks and critted.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

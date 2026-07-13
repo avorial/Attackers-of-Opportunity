@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Visionary location seen by Valak during the quickening, featuring a
   valley with floating imagery.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Camp
 category: location
 type: location
 summary: A location where the party is based. Dorian plans to relax here.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

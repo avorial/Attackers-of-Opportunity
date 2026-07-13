@@ -3,9 +3,9 @@ name: Teleportation circle
 category: item
 type: item
 summary: Proposed magical item to bypass travel.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

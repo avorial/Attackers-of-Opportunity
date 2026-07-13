@@ -3,9 +3,9 @@ name: Bridge
 category: item
 type: item
 summary: Partially mended, with 30 feet repaired; later collapses partially.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

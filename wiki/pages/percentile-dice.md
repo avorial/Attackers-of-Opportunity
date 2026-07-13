@@ -3,9 +3,9 @@ name: Percentile Dice
 category: item
 type: item
 summary: Used for random events
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

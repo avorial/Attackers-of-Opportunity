@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used as alternatives to the 'stone of intellect'; provide knowledge of
   the area but not thoughts.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

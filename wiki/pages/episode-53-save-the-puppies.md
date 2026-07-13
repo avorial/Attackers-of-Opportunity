@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Dicky uses Persuasion with advantage to shout at warg master and other
   wargs, successfully corralling them away from the building.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

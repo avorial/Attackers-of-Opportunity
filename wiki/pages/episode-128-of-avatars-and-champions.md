@@ -5,9 +5,9 @@ type: event
 summary: A large magical beast (30 feet tall, 25 feet wide, three legs, three
   arms, and a gaping maw) is encountered in a cavern. It is described as having
   thick hide, magical energy radiating from it, and a heartbeat-like thrumm
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

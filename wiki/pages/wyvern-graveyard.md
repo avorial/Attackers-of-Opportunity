@@ -3,9 +3,9 @@ name: Wyvern graveyard
 category: location
 type: location
 summary: A place where wyverns go to die at the end of their natural lives.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

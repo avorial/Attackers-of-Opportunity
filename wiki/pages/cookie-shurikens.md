@@ -3,9 +3,9 @@ name: Cookie Shurikens
 category: item
 type: item
 summary: Crafted weapons made from cookies, mentioned as a potential tool for the heist.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

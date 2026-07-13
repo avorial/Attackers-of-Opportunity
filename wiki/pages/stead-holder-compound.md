@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A two-story compound with burned fields and a torched house, discovered
   by the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

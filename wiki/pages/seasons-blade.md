@@ -4,9 +4,9 @@ category: location
 type: location
 summary: "Possible duplicate of: Seasons Glade, Season's Glade, Seasons Lake,
   Season Slade -- unresolved, see possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

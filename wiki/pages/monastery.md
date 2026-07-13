@@ -3,9 +3,9 @@ name: Monastery
 category: location
 type: location
 summary: A destination mentioned by monks as a potential next step for the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

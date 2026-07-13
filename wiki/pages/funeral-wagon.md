@@ -3,9 +3,9 @@ name: Funeral Wagon
 category: item
 type: item
 summary: A wagon carrying Berio Silverthress's body during the procession.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

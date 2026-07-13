@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Repulsed Jelendal physically; associated with the Necromancer Lord's
   dark history.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

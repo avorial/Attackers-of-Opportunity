@@ -3,9 +3,9 @@ name: Leather Boots
 category: item
 type: item
 summary: Found at the edge of the dancing lights, partially decayed.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

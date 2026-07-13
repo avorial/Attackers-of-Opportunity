@@ -4,9 +4,9 @@ category: item
 type: item
 summary: "Possible duplicate of: Portrait of Dorian's mother -- unresolved, see
   possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

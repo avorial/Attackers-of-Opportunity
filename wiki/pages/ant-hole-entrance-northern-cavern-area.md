@@ -3,9 +3,9 @@ name: Ant Hole Entrance (Northern Cavern Area)
 category: location
 type: location
 summary: The entrance to the ant colony, leading downward into tunnels.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

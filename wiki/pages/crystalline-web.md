@@ -3,9 +3,9 @@ name: Crystalline Web
 category: item
 type: item
 summary: Webbing enhanced by mist, freezing the environment.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

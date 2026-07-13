@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical item used by Valak to ward against attacks, though it was
   ineffective against divine magic.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

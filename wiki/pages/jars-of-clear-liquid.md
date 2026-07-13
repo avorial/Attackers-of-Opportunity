@@ -3,9 +3,9 @@ name: Jars of Clear Liquid
 category: item
 type: item
 summary: Four jars untouched by fungus, containing holy water with Rao's symbol.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

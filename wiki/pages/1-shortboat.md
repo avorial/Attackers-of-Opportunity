@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A finely crafted shortboat with rubies, found in the dragon's loot. It
   is a +1 weapon.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

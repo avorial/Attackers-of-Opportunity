@@ -3,9 +3,9 @@ name: Oil of Sharpness
 category: item
 type: item
 summary: Clear gelatinous oil with silver shards; +3 damage bonus for 1 hour.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

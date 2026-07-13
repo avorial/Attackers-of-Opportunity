@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Located on the presence table, used for guests to leave gold if they
   couldn't bring a gift.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

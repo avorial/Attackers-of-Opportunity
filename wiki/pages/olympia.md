@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A collection of city-states resembling ancient Greece. The story begins
   in the Zuria city-state within Olympia.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

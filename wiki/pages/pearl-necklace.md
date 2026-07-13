@@ -4,9 +4,9 @@ category: item
 type: item
 summary: An item dropped by Maeve in front of Dorian, discussed as a potential
   item to steal and sell.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

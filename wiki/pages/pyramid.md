@@ -3,9 +3,9 @@ name: Pyramid
 category: item
 type: item
 summary: A three-sided object with glyphs tied to elemental planes.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

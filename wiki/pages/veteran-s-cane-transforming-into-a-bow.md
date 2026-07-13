@@ -3,9 +3,9 @@ name: Veteran's Cane (transforming into a bow)
 category: item
 type: item
 summary: A walking stick that transforms into a bow when a command word is spoken.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

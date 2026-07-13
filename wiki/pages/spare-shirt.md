@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A green shirt found in the captain's quarters, described as a 'low cut'
   and paired with a 'brown leather vest'.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

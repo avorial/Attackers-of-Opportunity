@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Small room (15ft x 7ft) with a cot under the window. Located on the
   second floor of the manor house.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

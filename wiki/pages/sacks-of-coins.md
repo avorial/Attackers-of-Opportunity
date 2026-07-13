@@ -3,9 +3,9 @@ name: Sacks of Coins
 category: item
 type: item
 summary: "First appearance: Episode 10: Is there tea"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

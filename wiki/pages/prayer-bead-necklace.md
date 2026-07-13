@@ -3,9 +3,9 @@ name: Prayer Bead Necklace
 category: item
 type: item
 summary: Used by Valak to cast the Planar Ally spell as a bonus action.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

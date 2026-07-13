@@ -3,9 +3,9 @@ name: Cloak of silk
 category: item
 type: item
 summary: Worn by Emperor King Clark, soaked and stained with mud.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Janitor's Costume
 category: item
 type: item
 summary: A disguise obtained for infiltrating the wedding. Does not fit the recipient.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

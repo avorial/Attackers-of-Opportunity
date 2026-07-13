@@ -3,9 +3,9 @@ name: War Pick
 category: item
 type: item
 summary: A weapon used by attackers in the dark alley.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

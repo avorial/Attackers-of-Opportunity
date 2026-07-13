@@ -3,9 +3,9 @@ name: Cave
 category: location
 type: location
 summary: Looted for gold and rations
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Circlet
 category: item
 type: item
 summary: A magical headpiece being secured by the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

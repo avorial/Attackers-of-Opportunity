@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Possessed by Dickey, containing notes in multiple languages about
   necromancer artifacts.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

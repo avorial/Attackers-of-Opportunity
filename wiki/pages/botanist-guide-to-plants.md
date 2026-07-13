@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A book useful for potion-making and healing poultices. Described as a
   practical resource for herbalists.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

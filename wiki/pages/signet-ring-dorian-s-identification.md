@@ -3,9 +3,9 @@ name: Signet Ring (Dorian's identification)
 category: item
 type: item
 summary: A ring used as proof of identity for accessing Seasons Glade.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A +1 great sword that deals 1d6 lightning damage. Looted by Valak as an
   alternative to the flame sword.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

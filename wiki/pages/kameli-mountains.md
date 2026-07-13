@@ -3,9 +3,9 @@ name: Kameli Mountains
 category: location
 type: location
 summary: A destination mentioned as a five-day flight from the current location.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Rows of 12 mechanized armor suits arranged in two groups of six, with a
   blue-skinned figure at the center.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

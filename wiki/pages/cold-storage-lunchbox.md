@@ -3,9 +3,9 @@ name: Cold-storage lunchbox
 category: item
 type: item
 summary: A magical item that keeps contents cold, used by a monk.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

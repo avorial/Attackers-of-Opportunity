@@ -3,9 +3,9 @@ name: Water
 category: location
 type: location
 summary: The location where the Baron falls into after being knocked off the ship.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

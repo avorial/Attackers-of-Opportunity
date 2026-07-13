@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A valuable gemstone found in the stone, causing the bag of holding to
   emit sparks.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

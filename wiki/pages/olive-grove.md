@@ -3,9 +3,9 @@ name: Olive Grove
 category: location
 type: location
 summary: Site of a past water rights dispute between Jarman and Gerard's grandfather.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

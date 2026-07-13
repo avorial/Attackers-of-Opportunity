@@ -3,9 +3,9 @@ name: Three metal levers
 category: item
 type: item
 summary: Located at the end of a short hallway, used to trigger mechanisms.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

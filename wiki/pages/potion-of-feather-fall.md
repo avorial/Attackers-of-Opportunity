@@ -3,9 +3,9 @@ name: Potion of feather fall
 category: item
 type: item
 summary: Reduces the impact of falls.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

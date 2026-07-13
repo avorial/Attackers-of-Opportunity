@@ -3,9 +3,9 @@ name: Stable
 category: item
 type: item
 summary: Located near the chandlery for horse rest.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

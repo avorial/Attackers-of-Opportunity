@@ -4,9 +4,9 @@ category: event
 type: event
 summary: After defeating an entity, the hillsides of Tvahia burned for weeks,
   transforming forests and plains into jagged stones and burned trees.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

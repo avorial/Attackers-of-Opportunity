@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical trinket attached to a leather thong that helps keep a ship's
   course straight when piloting by the stars.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

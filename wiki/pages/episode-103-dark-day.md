@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Assault on Viserals' army begins with elven and giant allies, war
   writers, and other adventurers.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Mace
 category: item
 type: item
 summary: Carried by Siobhan. Religion check related to Amanator.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

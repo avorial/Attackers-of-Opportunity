@@ -3,9 +3,9 @@ name: Cook Pit
 category: location
 type: location
 summary: A communal fire pit where the shaman burns the banner post and cloth.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

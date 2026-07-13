@@ -5,9 +5,9 @@ type: event
 summary: The party arrives at the Granite Slab, a luxurious restaurant in the
   deep city, described as having enchanted crystals, fine dining, and a
   prestigious reputation.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

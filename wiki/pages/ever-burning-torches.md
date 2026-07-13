@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Magical torches that automatically light when the party enters the
   hallway, indicating the presence of magic.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

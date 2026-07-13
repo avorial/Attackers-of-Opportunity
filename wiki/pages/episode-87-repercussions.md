@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Players search a laboratory with tables, a magical circle, and inlaid
   metal strands of copper, silver, and platinum.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Unknown potion
 category: item
 type: item
 summary: A silvery, metal-looking liquid of unknown effects.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

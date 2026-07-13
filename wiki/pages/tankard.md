@@ -3,9 +3,9 @@ name: Tankard
 category: item
 type: item
 summary: Large drinking vessel used by the Goliath.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

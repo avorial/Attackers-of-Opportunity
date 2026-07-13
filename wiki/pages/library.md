@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Located within the Citadel, containing information that needs to be
   studied, possibly tied to a crystal.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

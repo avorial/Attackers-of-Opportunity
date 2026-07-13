@@ -3,9 +3,9 @@ name: Heroes Rest by Saren
 category: location
 type: location
 summary: "First appearance: Episode 94: Rock Hard"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

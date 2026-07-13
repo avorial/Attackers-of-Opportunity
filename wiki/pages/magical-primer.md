@@ -5,9 +5,9 @@ type: item
 summary: A book containing notes in multiple languages (Elvin, Draconic), spell
   words, and warnings about repercussions. It is implied to be a dangerous,
   intentionally hidden object.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

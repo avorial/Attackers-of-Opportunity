@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A detailed drawing of the Prime Material plane and its connection to
   celestial and L planes, recreated by Valak.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

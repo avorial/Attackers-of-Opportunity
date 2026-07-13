@@ -3,9 +3,9 @@ name: "Episode 82: Trust me, I have a Plan!"
 category: event
 type: event
 summary: A ritual is performed by members of the Spring Court to enchant wedding guests.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

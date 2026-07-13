@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A cleared forest area with multiple blacksmiths producing weapons for
   Vazrul's army.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

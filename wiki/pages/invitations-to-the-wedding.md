@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Two invitations obtained by Maeve. One is legitimate with a magical
   aura; the other is a fake.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

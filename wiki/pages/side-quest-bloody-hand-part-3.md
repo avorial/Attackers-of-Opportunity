@@ -3,9 +3,9 @@ name: Side Quest - Bloody Hand Part 3
 category: event
 type: event
 summary: Party decides to camp for the evening instead of continuing forward.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

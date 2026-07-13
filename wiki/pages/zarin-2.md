@@ -3,9 +3,9 @@ name: Zarin
 category: location
 type: location
 summary: A destination requested by Barrios to be taken to before a ritual occurs.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

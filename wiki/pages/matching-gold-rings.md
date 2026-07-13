@@ -3,9 +3,9 @@ name: Matching gold rings
 category: item
 type: item
 summary: Two rings with emerald gemstones shaped like eagle wings.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

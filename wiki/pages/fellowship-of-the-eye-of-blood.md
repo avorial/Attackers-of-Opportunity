@@ -3,9 +3,9 @@ name: Fellowship of the Eye of Blood
 category: location
 type: location
 summary: A group associated with a bulletin board in the tavern.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

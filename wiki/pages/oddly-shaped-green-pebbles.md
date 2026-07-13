@@ -3,9 +3,9 @@ name: Oddly Shaped Green Pebbles
 category: item
 type: item
 summary: Provided by Lariah. Could pass as green gemstones under certain conditions.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

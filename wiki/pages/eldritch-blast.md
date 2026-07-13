@@ -3,9 +3,9 @@ name: Eldritch Blast
 category: item
 type: item
 summary: A spell that deals force damage and can push enemies back.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

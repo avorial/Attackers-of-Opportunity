@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Mentioned as a feature in the Daimyo's estate; unclear if it's a
   crafting tool for potions.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

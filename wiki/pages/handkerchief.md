@@ -3,9 +3,9 @@ name: Handkerchief
 category: item
 type: item
 summary: Given by a dryad to Maeve to clean up the mural.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

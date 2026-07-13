@@ -3,9 +3,9 @@ name: Dark Metal Blade
 category: item
 type: item
 summary: A weapon used by Dark Valak, described as 'dark metal'
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

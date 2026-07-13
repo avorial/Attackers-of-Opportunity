@@ -3,9 +3,9 @@ name: Glaive
 category: item
 type: item
 summary: A weapon embedded in Gerard's body, later retrieved by the Planar Ally.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

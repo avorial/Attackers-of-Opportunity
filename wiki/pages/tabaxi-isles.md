@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A distant location southeast of the main setting, known for magical
   sheep and wool trade.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

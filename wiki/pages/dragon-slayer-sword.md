@@ -3,9 +3,9 @@ name: Dragon Slayer Sword
 category: item
 type: item
 summary: A legendary sword said to be housed in the Temple of Heroes.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Wedding Area
 category: location
 type: location
 summary: A location adjacent to the hotel where the event is taking place.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

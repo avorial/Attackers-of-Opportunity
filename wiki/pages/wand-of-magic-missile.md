@@ -3,9 +3,9 @@ name: Wand of Magic Missile
 category: item
 type: item
 summary: Casts Magic Missile as a spell, not a weapon.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

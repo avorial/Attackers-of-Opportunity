@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A weapon capable of penetrating the Necro Lord's defenses and piercing
   his heart.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

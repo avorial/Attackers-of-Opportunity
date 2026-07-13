@@ -3,9 +3,9 @@ name: Eastern Lands of Fire Lizards
 category: location
 type: location
 summary: Area under attack, protruding past Turtle Clan territory.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

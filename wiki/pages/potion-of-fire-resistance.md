@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A rare item being sought to combat the fire effects of the lizard-like
   creatures.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

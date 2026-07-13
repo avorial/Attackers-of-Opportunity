@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Spirit guardians move 15 feet from their origin and engage enemies
   after the player moves 25 feet toward them.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: toilet water
 category: item
 type: item
 summary: used as a reflective surface for scrying
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

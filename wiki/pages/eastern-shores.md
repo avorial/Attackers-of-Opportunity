@@ -3,9 +3,9 @@ name: Eastern Shores
 category: location
 type: location
 summary: Region where the party has been battling flame salamanders for weeks.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

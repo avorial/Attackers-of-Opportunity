@@ -3,9 +3,9 @@ name: Rainbow Flag with Smiley Faces
 category: item
 type: item
 summary: A proposed flag symbolizing unity, featuring a rainbow and smiley faces.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

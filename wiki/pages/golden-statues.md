@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Three statues depicting a wizard, warrior, and dwarf. Individually
   worth 150 gold, collectively up to 600 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

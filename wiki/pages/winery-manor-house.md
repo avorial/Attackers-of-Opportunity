@@ -5,9 +5,9 @@ type: location
 summary: Front door is heavily damaged; ground floor windows are boarded up. The
   building has two stories, with a small hallway on the first floor leading to
   stairs descending to the first floor and other rooms.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

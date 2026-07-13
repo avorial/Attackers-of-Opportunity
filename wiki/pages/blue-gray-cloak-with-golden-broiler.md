@@ -4,9 +4,9 @@ category: item
 type: item
 summary: "Adorned with a heart-shaped mask on the back and embroidered words:
   'peace through weight of words and strength of reason'."
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

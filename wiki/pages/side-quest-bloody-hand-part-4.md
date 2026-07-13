@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Rulo's axe deals extra damage by smashing blood back into the
   creature's face (2-8 damage).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

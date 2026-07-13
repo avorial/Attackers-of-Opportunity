@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Charred and later on fire. Vazrul retreats into it during combat, and
   it is the site of necromantic energy effects.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

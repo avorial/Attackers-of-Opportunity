@@ -3,9 +3,9 @@ name: Sword given to Gerard by Josso
 category: item
 type: item
 summary: A finely honed, magically infused blade, not explicitly necromantic.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

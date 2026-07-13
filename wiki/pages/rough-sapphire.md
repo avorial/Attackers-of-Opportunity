@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A rough sapphire found in a giant centipede's nest, worth approximately
   50 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -5,9 +5,9 @@ type: location
 summary: A large trading hub and agricultural center on the shore of Lake Bryn,
   serving as a stopover point for northern towns and located on a major road
   leading into Seasons Glade. It is a walled city and the administrative and
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

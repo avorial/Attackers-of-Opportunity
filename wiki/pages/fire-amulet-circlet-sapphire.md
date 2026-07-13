@@ -5,9 +5,9 @@ type: item
 summary: A magical artifact granting resistance to fire and lightning, and the
   ability to cast Scorching Ray once per day. The sapphire was offered for
   15,000 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

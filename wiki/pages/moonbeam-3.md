@@ -6,9 +6,9 @@ summary: A ship mentioned as being involved in the story; its name is not
   explicitly stated as belonging to the enemy fleet but is referenced in
   dialogue as a vessel that could be observed from outside (though this is noted
   as no
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

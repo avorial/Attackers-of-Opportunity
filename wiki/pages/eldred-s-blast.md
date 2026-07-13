@@ -3,9 +3,9 @@ name: Eldred's Blast
 category: item
 type: item
 summary: Ranged spell used by Dorian; attack rolls modified by +1 per bolt.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Cloak of the Ancient Necromancer Lord
 category: item
 type: item
 summary: An artifact central to the ritual, draped over a gem
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

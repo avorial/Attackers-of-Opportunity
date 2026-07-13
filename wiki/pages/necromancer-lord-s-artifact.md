@@ -5,9 +5,9 @@ type: item
 summary: "Possible duplicate of: Ancient Necromancer Lords' Artifacts,
   Necromancer Lords' Artifact, Necromancer Artifact, Necromancer artifacts --
   unresolved, see possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

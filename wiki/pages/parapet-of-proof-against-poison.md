@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Delicate silver chain with a black gem pendant. Grants immunity to
   poison damage and the poison condition.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

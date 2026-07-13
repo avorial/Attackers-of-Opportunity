@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Emerges from a Wyvern's body during its life cycle, associated with the
   heart-shaped object that births a new Wyvern.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

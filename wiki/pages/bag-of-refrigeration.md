@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A bag used by Valak to cool his head, which he traded for the Aristo of
   Intosmartis.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

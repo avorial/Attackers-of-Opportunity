@@ -3,9 +3,9 @@ name: Owlbear's Claw
 category: item
 type: item
 summary: Broken off by Dorian during fight.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

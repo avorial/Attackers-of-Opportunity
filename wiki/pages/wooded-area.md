@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A semi-wooded area where Alex observes the confrontation between Freya
   and Jarvik. The area has trees and foliage providing cover.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

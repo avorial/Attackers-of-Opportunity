@@ -3,9 +3,9 @@ name: runed armor
 category: item
 type: item
 summary: Worn by Vazul Zagor, with flickering magical runes and eldritch lights.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

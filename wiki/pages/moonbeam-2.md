@@ -3,9 +3,9 @@ name: moonbeam
 category: item
 type: item
 summary: A spell that deals damage and can be used in conjunction with grappling.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

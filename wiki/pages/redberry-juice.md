@@ -3,9 +3,9 @@ name: redberry juice
 category: item
 type: item
 summary: A beverage mixed with white wine to create a spritzer-like drink.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

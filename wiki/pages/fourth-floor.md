@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Contains the Daimio's chambers and is the site of a guard station with
   three guards (one alert, two drunk).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

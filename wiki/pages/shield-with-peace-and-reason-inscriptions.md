@@ -3,9 +3,9 @@ name: Shield with 'peace' and 'reason' inscriptions
 category: item
 type: item
 summary: Gloves bear the words 'peace' (P-E-A-S) and 'reason' (R-E-S-N).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

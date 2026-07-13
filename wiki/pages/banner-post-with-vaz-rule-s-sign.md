@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A post with a cloth bearing Vaz rule's insignia. The shaman tears it
   down and burns it in the cook pit.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

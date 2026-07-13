@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Maeve needs sleeping potions or drugs to help her sleep due to her fear
   of water.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

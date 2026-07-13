@@ -3,9 +3,9 @@ name: Mansfield Place
 category: location
 type: location
 summary: A location where Little Dickey stayed for one night
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

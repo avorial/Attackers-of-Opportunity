@@ -3,9 +3,9 @@ name: Naginata
 category: item
 type: item
 summary: Weapon used by Saito for 7 and 14 damage attacks.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

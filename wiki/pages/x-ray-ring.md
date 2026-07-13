@@ -3,9 +3,9 @@ name: X-ray ring
 category: item
 type: item
 summary: A ring that allows vision through objects, mentioned as being worn by Barrios.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: "Episode 78: Rehearsal Dinner"
 category: event
 type: event
 summary: Valak (type uncertain)
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

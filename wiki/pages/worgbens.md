@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A small village where the party spends their last night before
   traveling to Lake Bryn.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

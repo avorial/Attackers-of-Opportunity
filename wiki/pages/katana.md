@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used by Tatsu for melee attacks; described as a moon-touched blade that
   glows blue.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

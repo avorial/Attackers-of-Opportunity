@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Worn by both the dwarf and human suspects; identical in design but
   sized differently.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

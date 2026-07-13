@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A ship captained by Captain Cade. Mentioned as the location where the
   party's gear is stored.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

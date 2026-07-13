@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Includes 350 gold in assorted gold/silver, 400 gold in gems (diamonds,
   garnets), and a small chest with gems.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

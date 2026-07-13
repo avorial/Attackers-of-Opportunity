@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Three books on the ground, referenced by Edvard as part of his ritual
   or symbolism.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

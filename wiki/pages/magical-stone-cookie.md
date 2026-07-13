@@ -3,9 +3,9 @@ name: Magical Stone (Cookie)
 category: item
 type: item
 summary: A magic item that deals 8 bludgeoning damage and can destroy oozes.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

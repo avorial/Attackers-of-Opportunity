@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A modern stove-like device with a metal grill over a fire, allowing
   water to heat and steam to exit through a spigot into a cup
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -5,9 +5,9 @@ type: location
 summary: A large administrative building with a 30x40 foot foyer, rows of desks,
   functionaries, and stairs leading to upper levels. Contains a spring
   counselor's office.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

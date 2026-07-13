@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A castle in the Valley of the Dead where the nobility and leaders of
   Knoss are buried.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

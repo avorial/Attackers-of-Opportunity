@@ -3,9 +3,9 @@ name: Beef bacon
 category: item
 type: item
 summary: Local dish prepared to resemble pork bacon; costs extra (2 coppers).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

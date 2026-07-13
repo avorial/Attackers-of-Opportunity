@@ -3,9 +3,9 @@ name: Cloak
 category: item
 type: item
 summary: Red in color; used to make it easier to extract information from a character
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

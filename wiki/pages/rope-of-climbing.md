@@ -3,9 +3,9 @@ name: Rope of Climbing
 category: item
 type: item
 summary: Magical rope enabling climbing.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Gold Rings
 category: item
 type: item
 summary: Found in wyvern stomachs; total value 275 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

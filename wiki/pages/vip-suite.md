@@ -3,9 +3,9 @@ name: VIP Suite
 category: item
 type: item
 summary: Luxury accommodation at Stardust Spa and Hotel
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

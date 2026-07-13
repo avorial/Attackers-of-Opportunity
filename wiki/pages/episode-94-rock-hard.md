@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Maeve, Moonbeam, Dorian van der Saral, Valak, and Dickey discuss a
   payment plan and return to the Loire trading house.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: cook's outfit
 category: item
 type: item
 summary: One of the outfits mentioned as being in possession of the characters.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Silk Float
 category: item
 type: item
 summary: A silk item mentioned in a conversation about clothing treatment.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

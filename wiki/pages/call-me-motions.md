@@ -3,9 +3,9 @@ name: Call Me Motions
 category: item
 type: item
 summary: Domain spell used by Valak to affect soldiers.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

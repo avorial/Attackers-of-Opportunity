@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A forest region near the borders of Zixa, Tabahia, and Somasia, where
   moving trees are observed heading.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

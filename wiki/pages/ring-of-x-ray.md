@@ -3,9 +3,9 @@ name: Ring of X-ray
 category: item
 type: item
 summary: Used by Maurice during investigation for advantage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Locations with wizard towers, though little is known about the country
   of Melli (south of the group's current position).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

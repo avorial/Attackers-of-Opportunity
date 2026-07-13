@@ -3,9 +3,9 @@ name: Dale's body
 category: item
 type: item
 summary: Dragged by the group into the barn and later stabilized in the hayloft.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: the capital
 category: location
 type: location
 summary: A city where Pelerinor was a ranger.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

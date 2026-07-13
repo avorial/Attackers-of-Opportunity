@@ -3,9 +3,9 @@ name: Seasonal Tower
 category: location
 type: location
 summary: A tower that combines all four seasons. The heroes reconvene outside it.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

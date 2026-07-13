@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical rug that chokes and grapples those who step on it, referenced
   from a prior campaign.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

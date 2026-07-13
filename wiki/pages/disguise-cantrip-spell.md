@@ -3,9 +3,9 @@ name: Disguise (cantrip/spell)
 category: item
 type: item
 summary: A level one spell allowing self-disguise or minor illusions on others.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A great axe that deals an additional 1d6 fire damage. Swapped by Rulo
   for the animated shield.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

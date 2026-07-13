@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A delicate scroll containing notes on necromantic techniques to raise
   the dead and enslave ghosts.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

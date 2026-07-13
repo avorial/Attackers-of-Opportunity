@@ -3,9 +3,9 @@ name: Magic Missile Scroll (Level 5)
 category: item
 type: item
 summary: A scroll allowing any caster to summon seven bolts of force energy.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

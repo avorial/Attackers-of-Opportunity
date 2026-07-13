@@ -3,9 +3,9 @@ name: Heavy metal recurve bow
 category: item
 type: item
 summary: Inlaid with an emerald on the front sight post.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

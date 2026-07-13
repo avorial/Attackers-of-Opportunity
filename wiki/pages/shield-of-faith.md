@@ -3,9 +3,9 @@ name: Shield of Faith
 category: item
 type: item
 summary: A concentration spell cast by Saito to grant +2 AC to Isan.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

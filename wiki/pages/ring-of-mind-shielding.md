@@ -5,9 +5,9 @@ type: item
 summary: Immune to magic that allows other creatures to read thoughts, determine
   alignment, or know creature type. Can telepathically communicate with any
   creature wearing the ring. Requires attunement. If worn at death, soul ent
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

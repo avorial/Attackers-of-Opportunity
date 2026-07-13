@@ -3,9 +3,9 @@ name: Focus
 category: item
 type: item
 summary: An item used by Dorian to cast a spell.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

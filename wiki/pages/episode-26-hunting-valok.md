@@ -3,9 +3,9 @@ name: "Episode 26: Hunting Valok"
 category: event
 type: event
 summary: Party spends the night and begins searching for dragon nests in the morning.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

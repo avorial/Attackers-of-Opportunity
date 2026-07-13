@@ -3,9 +3,9 @@ name: Tree-trunk staff
 category: item
 type: item
 summary: Used by the shaman as a walking cane and symbol of authority.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

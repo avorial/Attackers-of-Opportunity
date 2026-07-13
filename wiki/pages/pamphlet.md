@@ -3,9 +3,9 @@ name: Pamphlet
 category: item
 type: item
 summary: Written in Goblin, used by Maeve to spread propaganda.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

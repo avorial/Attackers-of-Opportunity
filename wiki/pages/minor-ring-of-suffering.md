@@ -3,9 +3,9 @@ name: Minor Ring of Suffering
 category: item
 type: item
 summary: Imposes a -5 penalty to hit points permanently if used, even if discarded.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

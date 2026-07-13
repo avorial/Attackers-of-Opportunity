@@ -4,9 +4,9 @@ category: item
 type: item
 summary: The party is traveling to Lake Bryn to search for this artifact, which
   is tied to Zaren's hometown.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Winecloth
 category: item
 type: item
 summary: Traditional clothing worn by Alec.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Straw
 category: item
 type: item
 summary: Proposed to cover Dale's body for concealment.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

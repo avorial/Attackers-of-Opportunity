@@ -5,9 +5,9 @@ type: item
 summary: Five tomes detailing shielding magic for different creatures (angelic,
   demonic, etc.). Each has a drawing of the crystal as a magical focus. Found by
   Benjen.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

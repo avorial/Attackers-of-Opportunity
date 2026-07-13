@@ -5,9 +5,9 @@ type: location
 summary: A tunnel created by Aubrey, intersecting with a larger, pre-existing
   tunnel. The larger tunnel is described as 'massive' and possibly a subway-like
   structure.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: chambers
 category: location
 type: location
 summary: Rooms where beds and other amenities are located
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

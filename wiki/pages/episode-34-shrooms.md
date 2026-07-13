@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Dickey throws his boomerang at a creature, landing a critical hit
   (natural 20) for 6 + 2 damage, killing it.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Abandoned Keep
 category: location
 type: location
 summary: A location where the heroes previously cleared out a tower.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

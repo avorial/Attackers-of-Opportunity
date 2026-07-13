@@ -3,9 +3,9 @@ name: Ancient wizard's study
 category: location
 type: location
 summary: A location where Dorian and Maeve are working to preserve or restore scrolls.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

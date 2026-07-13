@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Possessed by Light of Shadow. Contains various poisons, including the
   'bowel disruptor'.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

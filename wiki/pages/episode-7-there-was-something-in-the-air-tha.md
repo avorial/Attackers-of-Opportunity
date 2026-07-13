@@ -6,9 +6,9 @@ summary: A group of adventurers (excluding Dorian) sees remnants of a
   Palisade-type wall with dead goblins and a small half-elf child (12 years old)
   near an elf in a green and brown cloak who is dead. The elf is lying face down
   i
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

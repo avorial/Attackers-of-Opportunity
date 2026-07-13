@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Location west and south of the current position, where the party will
   meet the elven company.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

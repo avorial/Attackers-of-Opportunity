@@ -3,9 +3,9 @@ name: Great Sword of Lightning
 category: item
 type: item
 summary: A sword with an interested buyer offering 1700 gold for it.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Contains 12 arrows specialized against goblins, bugbears, dragons, and
   beholders.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Players attempt to decode etchings through a skill challenge involving
   multiple characters and NPCs.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

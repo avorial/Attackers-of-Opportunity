@@ -3,9 +3,9 @@ name: Rickshaws
 category: item
 type: item
 summary: Used to transport the artifact; guarded by city patrollers.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

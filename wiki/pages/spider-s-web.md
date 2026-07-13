@@ -3,9 +3,9 @@ name: Spider's web
 category: item
 type: item
 summary: A web used by a giant spider to trap prey
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

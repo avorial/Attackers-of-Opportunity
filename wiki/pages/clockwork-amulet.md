@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A gear-based amulet allowing once-per-day mechanical performance boosts
   (effectively a 'take a 10' on a d20 roll).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

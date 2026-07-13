@@ -3,9 +3,9 @@ name: Hold Person
 category: item
 type: item
 summary: Spell cast on Pretnar to delay him.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

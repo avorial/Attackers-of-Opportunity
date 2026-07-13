@@ -26,9 +26,9 @@ categories:
   - id: game
     label: "Games"
 visibility:
-  default: gm
+  default: players
 approvals:
-  aiDefault: unapproved
+  aiDefault: approved
 theme:
   preset: "fantasy"
   accent: "#d4a957"

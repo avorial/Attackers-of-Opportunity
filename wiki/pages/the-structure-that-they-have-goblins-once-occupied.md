@@ -3,9 +3,9 @@ name: the structure that they have goblins once occupied
 category: location
 type: location
 summary: A temporary shelter where the party agrees to stay with goblin consent.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

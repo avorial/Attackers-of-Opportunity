@@ -3,9 +3,9 @@ name: Compelled Duel
 category: item
 type: item
 summary: A concentration spell cast by Saito to force a salamander to attack him.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

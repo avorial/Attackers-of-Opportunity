@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A capability of the tree friend (possibly a character or location) to
   create portals, though not yet utilized.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

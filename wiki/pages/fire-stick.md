@@ -3,9 +3,9 @@ name: Fire stick
 category: item
 type: item
 summary: A tool mentioned in the context of spray paint, possibly a real-world item.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Memory bag
 category: item
 type: item
 summary: Memento from Zarin; no special properties noted.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

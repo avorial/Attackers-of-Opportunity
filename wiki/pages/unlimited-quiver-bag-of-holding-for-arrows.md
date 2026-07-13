@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A quiver that functions as a bag of holding, storing up to 100 arrows.
   Only arrows can be stored; other items are expelled. Priced at 250 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

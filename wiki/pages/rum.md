@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A drink available on the ship, used in a drinking contest between
   Valak, Moonbeam, and Dorian.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

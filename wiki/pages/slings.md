@@ -3,9 +3,9 @@ name: Slings
 category: item
 type: item
 summary: Projectile weapons used by kobolds to attack the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Party encounters a merchant vessel crewed by Tabaxi and other races,
   leading to a battle and loot acquisition.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

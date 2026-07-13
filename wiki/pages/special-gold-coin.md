@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A gold coin that Zena Selah used to stay at the hotel. It is described
   as 'very special.'
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

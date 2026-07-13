@@ -3,9 +3,9 @@ name: Kimely
 category: location
 type: location
 summary: Location visible during the journey
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

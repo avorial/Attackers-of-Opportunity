@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A court associated with Prince Dorian's father. Described as a place of
   'court drama' and 'backstabbing.'
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

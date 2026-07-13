@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A decorative wall fixture resembling a rose with a ruby center,
   symbolizing the Fellowship of the Eye of Blood.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

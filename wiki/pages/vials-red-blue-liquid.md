@@ -4,9 +4,9 @@ category: item
 type: item
 summary: "Four unbroken vials found in a leather case: three with red liquid,
   one with blue liquid."
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

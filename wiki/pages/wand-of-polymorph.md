@@ -3,9 +3,9 @@ name: Wand of polymorph
 category: item
 type: item
 summary: Stolen by Edvard from the hag; used to turn people into cows.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

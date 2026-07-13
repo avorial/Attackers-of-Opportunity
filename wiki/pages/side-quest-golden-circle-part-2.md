@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Player triggers a tripwire trap, causing wooden spikes to jut out of
   the wall, dealing 3 piercing damage to a character.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

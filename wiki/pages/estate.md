@@ -4,9 +4,9 @@ category: location
 type: location
 summary: The residence where the father and Dorian are located during their
   conversation.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

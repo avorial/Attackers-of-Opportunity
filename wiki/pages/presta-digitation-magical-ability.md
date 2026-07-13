@@ -3,9 +3,9 @@ name: Presta Digitation (magical ability)
 category: item
 type: item
 summary: causes eyes to shimmer with silvery metal-like effect
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

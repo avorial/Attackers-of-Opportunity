@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A family heirloom connected to a platinum ring, used as a focus for
   teleportation.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Pass Without Trace Scroll
 category: item
 type: item
 summary: A spell scroll granting +10 to stealth checks for an hour.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

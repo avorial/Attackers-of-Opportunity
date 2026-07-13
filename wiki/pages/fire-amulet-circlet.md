@@ -5,9 +5,9 @@ type: item
 summary: A circlet infused with the phoenix feather's energy. It grants
   resistance to fire and lightning and allows casting scorching ray once per
   day.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

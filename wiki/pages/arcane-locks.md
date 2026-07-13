@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Magical barriers that trap soul fragments within automata, requiring
   destruction to release them.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

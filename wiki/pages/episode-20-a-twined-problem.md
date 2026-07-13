@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A surprise round begins with two figures on a rooftop launching fire
   bolts at the major, causing 15 points of damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

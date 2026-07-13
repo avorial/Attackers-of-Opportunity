@@ -3,9 +3,9 @@ name: "Episode 116: LIVE AT GATEWAY 2022! Maeve's My"
 category: event
 type: event
 summary: Maeve hides on the ship and uses a magic potion to avoid seasickness.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

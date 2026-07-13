@@ -3,9 +3,9 @@ name: Tortle Official's House
 category: location
 type: location
 summary: A three-story mansion with gold-plated furniture and high-quality woodwork.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

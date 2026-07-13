@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A location housing dozens to hundreds of wargs, with goblins,
   hobgoblins, bugbears, and patrolled areas.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Three characters take damage while fighting fires (3 points each, 8
   points total).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

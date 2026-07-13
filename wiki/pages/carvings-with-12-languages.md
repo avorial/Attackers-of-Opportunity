@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A cipher on a ritual circle referencing the necromancer king's relics
   and Zarin from Tevahia.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

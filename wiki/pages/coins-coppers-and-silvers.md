@@ -3,9 +3,9 @@ name: Coins (coppers and silvers)
 category: item
 type: item
 summary: Found on the Emperor's body, equivalent to two gold pieces.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

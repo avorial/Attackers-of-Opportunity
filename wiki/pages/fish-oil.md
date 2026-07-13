@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Valak's oily body is covered in fish oil, which causes the hill giant
   to have disadvantage on strength checks.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: fruit
 category: item
 type: item
 summary: available in the mass tent
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

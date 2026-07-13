@@ -3,9 +3,9 @@ name: Flag of Black Fang's Ship
 category: item
 type: item
 summary: A flag with three diagonal strikes and a blade hilt near the pole.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

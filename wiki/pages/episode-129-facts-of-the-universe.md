@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Heroes attend the funeral of Berios Silverthrust, which is attacked by
   three-armed, three-legged creatures emerging from a dark fissure.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

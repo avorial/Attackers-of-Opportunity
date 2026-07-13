@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location where the group stays; the concierge is mentioned as
   spreading warnings.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

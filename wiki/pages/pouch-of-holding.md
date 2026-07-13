@@ -3,9 +3,9 @@ name: Pouch of holding
 category: item
 type: item
 summary: Used for storing potions and liquids.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

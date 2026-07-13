@@ -3,9 +3,9 @@ name: Tea from red fruit stems
 category: item
 type: item
 summary: A tea offered by the monks, made from the stems of a red fruit.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

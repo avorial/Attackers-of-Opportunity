@@ -4,9 +4,9 @@ category: item
 type: item
 summary: An appetizer ordered by the group, with one character attempting to
   make a meal out of three servings.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

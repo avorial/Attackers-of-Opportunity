@@ -3,9 +3,9 @@ name: Acid puddings
 category: item
 type: item
 summary: Remnants of a magical combat encounter in the storage room.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A metal door found at the end of a hallway, with a trapped floor in
   front of it.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Assault in a dark alley at the transition point between underground and
   upper city, leading to encounter with Burial Silver Thrust.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

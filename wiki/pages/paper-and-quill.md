@@ -3,9 +3,9 @@ name: Paper and quill
 category: item
 type: item
 summary: Used by Valak to take notes during the argument.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

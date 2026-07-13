@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Party receives message via Animal Messenger from Gerard about meeting
   with mayor of Seren.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

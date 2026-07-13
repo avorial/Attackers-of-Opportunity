@@ -3,9 +3,9 @@ name: Ceremonial Lash
 category: item
 type: item
 summary: Carried by Rulo Amaskis. Symbol of Nemesis, the goddess of vengeance.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: "Episode 104: Darkness Falls"
 category: event
 type: event
 summary: Valak summons a planar ally (an angel) using a prayer bead necklace.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

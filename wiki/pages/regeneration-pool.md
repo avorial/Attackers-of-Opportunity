@@ -3,9 +3,9 @@ name: Regeneration Pool
 category: item
 type: item
 summary: A pool where Wyvern essence is reborn into new Wyverns.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

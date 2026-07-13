@@ -5,9 +5,9 @@ type: item
 summary: Details a ritual to destroy necromancer lord's artifacts, requiring a
   dragon or wyvern eye and a gem. Involves a massive explosion and cannot be
   performed in combat.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

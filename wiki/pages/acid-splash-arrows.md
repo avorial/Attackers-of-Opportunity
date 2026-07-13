@@ -3,9 +3,9 @@ name: Acid Splash Arrows
 category: item
 type: item
 summary: Arrows coated with acid, used by a player in previous encounters.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

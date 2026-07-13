@@ -3,9 +3,9 @@ name: Bottle of Whiskey
 category: item
 type: item
 summary: Stolen by Maeve from the bar to offer to Dorian.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

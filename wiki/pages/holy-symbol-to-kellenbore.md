@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A plain holy symbol found on Jarvik's body, not gaudy or made of
   platinum, but with a simple design.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

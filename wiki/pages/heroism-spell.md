@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A spell cast by Saito on Brochus, granting temporary hit points and
   immunity to being frightened.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

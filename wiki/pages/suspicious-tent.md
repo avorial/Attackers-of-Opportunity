@@ -3,9 +3,9 @@ name: Suspicious Tent
 category: location
 type: location
 summary: A tent near the wedding site with no visible entrance or activity.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

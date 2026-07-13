@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A half-desert, half-forest area in the country of near Vassa. Home to a
   mix of races including dragonborn, gnomes, halflings, and Goliath.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

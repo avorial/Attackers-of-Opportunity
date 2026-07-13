@@ -5,9 +5,9 @@ type: event
 summary: The party approaches the Warg Pens, having previously used the Eye of
   the Gods to locate them. Little Dickey infiltrates the camp disguised as a
   goblin and speaks with a cook, learning about hobgoblin bullying and a buil
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

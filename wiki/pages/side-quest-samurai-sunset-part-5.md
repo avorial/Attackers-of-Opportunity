@@ -4,9 +4,9 @@ category: event
 type: event
 summary: The party is escorted to the tortle official's house, a three-story
   mansion with gold-plated furniture and high-quality woodwork.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

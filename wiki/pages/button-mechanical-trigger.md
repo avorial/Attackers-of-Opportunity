@@ -3,9 +3,9 @@ name: Button (mechanical trigger)
 category: item
 type: item
 summary: A hidden button in the ritual chamber that opens a secret passage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

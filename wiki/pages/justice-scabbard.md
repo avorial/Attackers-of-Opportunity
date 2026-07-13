@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A sword carried by Valak, though the sword itself is elsewhere.
   Mentioned as part of a joke.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

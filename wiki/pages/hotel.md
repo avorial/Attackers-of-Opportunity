@@ -5,9 +5,9 @@ type: location
 summary: The setting of the rehearsal dinner. Features a dining hall with a
   Maitre D, fine dining, and a room service setup with a wheel tray and silver
   metal top.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

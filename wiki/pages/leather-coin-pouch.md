@@ -3,9 +3,9 @@ name: Leather Coin Pouch
 category: item
 type: item
 summary: A pouch with a tag addressed to the bride and groom, containing solid heft.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

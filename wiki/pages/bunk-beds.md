@@ -3,9 +3,9 @@ name: Bunk Beds
 category: item
 type: item
 summary: Soldier's bunks available for rent in the chandlery's back room.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

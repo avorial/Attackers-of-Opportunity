@@ -3,9 +3,9 @@ name: Wooden cups
 category: item
 type: item
 summary: Simple wooden cups used by the monks to serve tea.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

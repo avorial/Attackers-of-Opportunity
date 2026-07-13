@@ -3,9 +3,9 @@ name: Chainmail armor
 category: item
 type: item
 summary: Worn by Valak, a chainmail with a white heart painted on the chest piece.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

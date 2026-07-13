@@ -3,9 +3,9 @@ name: Tavarnan
 category: location
 type: location
 summary: The eastern continent where the Bear Clan and Turtle Clan are located.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

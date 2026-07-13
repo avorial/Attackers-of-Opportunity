@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A bloody arrow covered in liquefied Drake brain, distinguished from
   goblin brain by consistency.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

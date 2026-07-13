@@ -3,9 +3,9 @@ name: Baxter Estate
 category: location
 type: location
 summary: Primary estate of the Baxter family, located on the southwest side of town.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

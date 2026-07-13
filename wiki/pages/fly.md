@@ -3,9 +3,9 @@ name: Fly
 category: item
 type: item
 summary: A small insect brought back by Ross to feed the spider
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

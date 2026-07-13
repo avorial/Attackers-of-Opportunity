@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Maeve steals three bottles of wine from Pratnar's belongings, including
   a Viognier marked as more valuable.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

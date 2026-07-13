@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A town two days' travel from the current location in the forest,
   mentioned as Edvard's origin.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Ice Brand
 category: item
 type: item
 summary: A weapon used by a player for ranged attacks.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A scale from Rulo's monastery master, symbolizing the day Rulo finally
   hit his untouchable master.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Kombucha (80 proof alcohol)
 category: item
 type: item
 summary: Served by the Chef, described as having a strong smell and taste
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

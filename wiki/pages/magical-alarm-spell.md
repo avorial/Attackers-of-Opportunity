@@ -3,9 +3,9 @@ name: Magical alarm spell
 category: item
 type: item
 summary: A spell set up at the Crafty Ring to play lilting music when customers enter.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

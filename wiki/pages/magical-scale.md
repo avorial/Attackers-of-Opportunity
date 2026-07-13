@@ -5,9 +5,9 @@ type: item
 summary: "A balance scale that can transfer coins: 10 silvers on one side
   produce a gold on the other. It is located in an alcove without placards or
   explanations."
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Moving Trees (Treants)
 category: location
 type: location
 summary: A group of trees observed moving away from the area, suspected to be treants.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

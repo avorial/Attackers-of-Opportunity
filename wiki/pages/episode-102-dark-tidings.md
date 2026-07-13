@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Players encounter a goblin patrol consisting of hobgoblins, bugbears,
   and goblins fighting with discipline and tactics.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

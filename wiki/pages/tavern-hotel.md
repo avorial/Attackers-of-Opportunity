@@ -4,9 +4,9 @@ category: location
 type: location
 summary: The primary location of the confrontation and combat. Includes a hotel
   room and an alleyway where the final confrontation with Georg takes place.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

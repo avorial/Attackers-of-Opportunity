@@ -3,9 +3,9 @@ name: "Episode 80: Stop the Wedding!"
 category: event
 type: event
 summary: Dickey tails Aswaldo to his abode and observes his daily routine.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

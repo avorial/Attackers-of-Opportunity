@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A valuable item (possibly a weapon or artifact) held by a player to
   prevent Maeve from forgetting it.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

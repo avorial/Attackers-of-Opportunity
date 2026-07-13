@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Infused with sapphire energy to facilitate spell transcription or
   enhance magical effects.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

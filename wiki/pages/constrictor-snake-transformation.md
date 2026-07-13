@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A spell or ability that transforms the user into a giant constrictor
   snake with 30 feet of movement speed.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

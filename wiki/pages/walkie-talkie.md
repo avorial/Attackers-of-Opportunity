@@ -3,9 +3,9 @@ name: Walkie-talkie
 category: item
 type: item
 summary: Suggested as a tool for stealthy communication during the tower mission.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

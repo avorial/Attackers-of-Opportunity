@@ -3,9 +3,9 @@ name: Ring (60 gold)
 category: item
 type: item
 summary: Found by Dickey on a soldier's body.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

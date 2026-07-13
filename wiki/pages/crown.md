@@ -3,9 +3,9 @@ name: Crown
 category: item
 type: item
 summary: Left on a table in Clever Flame's bedchamber during the escape.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

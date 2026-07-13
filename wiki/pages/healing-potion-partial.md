@@ -3,9 +3,9 @@ name: Healing Potion (partial)
 category: item
 type: item
 summary: A shattered vial with some red liquid remaining
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

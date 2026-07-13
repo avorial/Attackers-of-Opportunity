@@ -5,9 +5,9 @@ type: event
 summary: The party is a day out of Seasons Glade and heading toward the Citadel,
   with options to visit other locations like the Bugbear Cave or Pelvernors
   Farm.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

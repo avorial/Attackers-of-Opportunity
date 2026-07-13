@@ -3,9 +3,9 @@ name: Kanobo
 category: item
 type: item
 summary: Weapon used by Brocius for 12 damage attack.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

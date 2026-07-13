@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A fetid, rotting smell emanating from the metal door, associated with
   fungal components.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

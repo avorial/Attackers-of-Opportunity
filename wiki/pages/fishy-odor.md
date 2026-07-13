@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A scent from the spoiled fish that affects the hill giant's strength
   check, granting disadvantage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

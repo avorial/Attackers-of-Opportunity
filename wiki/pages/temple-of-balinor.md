@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A stone temple to Balinor, god of the hunt, with a stone table and nine
   pillars depicting predator-prey reliefs.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

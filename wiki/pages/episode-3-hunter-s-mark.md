@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Discussion about prioritizing the two-headed beast southwest of the
   current location over dealing with goblins north and east.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

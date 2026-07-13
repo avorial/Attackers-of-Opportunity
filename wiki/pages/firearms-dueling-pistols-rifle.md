@@ -3,9 +3,9 @@ name: Firearms (dueling pistols, rifle)
 category: item
 type: item
 summary: Ornate guns that fire spells using ammo made from expelled wands.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

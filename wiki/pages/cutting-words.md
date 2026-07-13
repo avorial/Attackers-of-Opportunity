@@ -3,9 +3,9 @@ name: Cutting Words
 category: item
 type: item
 summary: A spell that reduces damage rolls by subtracting a dice roll.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

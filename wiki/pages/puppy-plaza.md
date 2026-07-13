@@ -3,9 +3,9 @@ name: Puppy Plaza
 category: location
 type: location
 summary: A location associated with Aubrey in a quest involving child care.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

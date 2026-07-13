@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A prison where the party is initially locked up. Features dark cells,
   torches, and a hallway with keys.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

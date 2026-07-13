@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Includes front desk, janitor, and maid/cleaning service outfits found
   in the linen's closet/storage area.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

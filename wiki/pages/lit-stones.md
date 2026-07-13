@@ -3,9 +3,9 @@ name: Lit stones
 category: item
 type: item
 summary: Used for illumination in dark areas, cast by Eddie's character.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

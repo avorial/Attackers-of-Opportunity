@@ -5,9 +5,9 @@ type: event
 summary: The podcast 'Attackers of Opportunity' announces a transition to Twitch
   for Season 2, with episodes airing on Wednesday nights at 7 p.m. Pacific
   Standard Time. The Twitch channel is 'twitch.tv/AttackersofOpportunity' and
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

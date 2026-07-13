@@ -3,9 +3,9 @@ name: Jay-Zon's ring
 category: item
 type: item
 summary: Ring retrieved by the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

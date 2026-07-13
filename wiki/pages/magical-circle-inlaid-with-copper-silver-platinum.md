@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A large magical circle engraved on the floor with metal strands having
   unique properties against magical creatures.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

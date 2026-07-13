@@ -3,9 +3,9 @@ name: Odin Centron Pill
 category: item
 type: item
 summary: Used to treat motion sickness, also used by the DM for video games
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

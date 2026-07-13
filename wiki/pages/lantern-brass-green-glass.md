@@ -3,9 +3,9 @@ name: Lantern (brass, green glass)
 category: item
 type: item
 summary: Found in one of the rickshaws; appears to be a magical artifact.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

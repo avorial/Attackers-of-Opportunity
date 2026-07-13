@@ -3,9 +3,9 @@ name: Credenza desk with draped mirror
 category: item
 type: item
 summary: Found in an unused room, possibly in the father's den.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

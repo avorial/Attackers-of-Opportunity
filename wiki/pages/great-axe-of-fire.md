@@ -3,9 +3,9 @@ name: Great Axe of Fire
 category: item
 type: item
 summary: A weapon used by a barbarian (likely Hutzpah). Deals slashing and fire damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

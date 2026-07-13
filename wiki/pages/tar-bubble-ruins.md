@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Underground location where the party discovers a popped tar bubble and
   a narrow chasm.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

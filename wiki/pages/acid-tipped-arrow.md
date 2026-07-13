@@ -4,9 +4,9 @@ category: item
 type: item
 summary: An arrow with a vial of acid that explodes on impact, dealing 1d6 acid
   damage to adjacent creatures or creatures larger than the user.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Coin and gem collection
 category: item
 type: item
 summary: Includes 1,250 gold and two green gems.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

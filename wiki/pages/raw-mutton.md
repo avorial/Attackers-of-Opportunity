@@ -3,9 +3,9 @@ name: Raw mutton
 category: item
 type: item
 summary: Uncooked meat provided as provisions.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Sandwich
 category: item
 type: item
 summary: Roast beef with horseradish sauce and greens, provided by the stable master.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

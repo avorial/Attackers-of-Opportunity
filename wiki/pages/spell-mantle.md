@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical protection artifact that shields Gerard from harmful magical
   energies.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

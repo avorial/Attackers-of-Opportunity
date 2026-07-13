@@ -3,9 +3,9 @@ name: Ranger Station
 category: location
 type: location
 summary: A location where the group was heading to report the attack
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

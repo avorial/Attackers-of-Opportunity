@@ -4,9 +4,9 @@ category: location
 type: location
 summary: An open area near the Stardust Hotel, described as a place for public
   gatherings and potentially for weddings or receptions.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

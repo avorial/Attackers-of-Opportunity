@@ -3,9 +3,9 @@ name: Dead Goliath Body
 category: item
 type: item
 summary: Decomposing Goliath body found at the base of a cracked wall in Valak's vision.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

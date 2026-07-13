@@ -3,9 +3,9 @@ name: quiver of arrows with crystal
 category: item
 type: item
 summary: A quiver containing arrows with crystals at their tips.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

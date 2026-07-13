@@ -3,9 +3,9 @@ name: "Episode 5: Two Heads are better than one"
 category: event
 type: event
 summary: Two-headed hound with black fur and red eyes charges at the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

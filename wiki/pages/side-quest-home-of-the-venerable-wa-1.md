@@ -4,9 +4,9 @@ category: event
 type: event
 summary: The party agrees to form an adventuring company, referencing past
   failures and the need for a 'greater good'.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

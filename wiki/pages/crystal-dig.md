@@ -3,9 +3,9 @@ name: Crystal dig
 category: item
 type: item
 summary: A crystal attached to a long stick to create a signal in sunlight.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

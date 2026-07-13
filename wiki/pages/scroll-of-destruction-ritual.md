@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Contains a list of 63 ingredients, including silver chalices, blessed
   candles, and magical tomes.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Tiny Hut spell
 category: item
 type: item
 summary: Creates a magical shelter with a sea-air scent.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

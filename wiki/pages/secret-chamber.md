@@ -3,9 +3,9 @@ name: Secret Chamber
 category: item
 type: item
 summary: A hidden room behind the kitchen wall with arcane magic setup.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

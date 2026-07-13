@@ -5,9 +5,9 @@ type: event
 summary: Barrios receives Cure Wounds, but his breathing does not improve
   significantly. A character attempts mouth-to-mouth resuscitation, which
   Barrios resists.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

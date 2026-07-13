@@ -3,9 +3,9 @@ name: dome
 category: location
 type: location
 summary: A structure that zooms in on the 'God's eye' tower.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

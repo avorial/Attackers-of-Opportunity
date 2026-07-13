@@ -3,9 +3,9 @@ name: Parchment (with 'unlock word')
 category: item
 type: item
 summary: A parchment containing the 'unlock word' for the 'lock' spell-encrypted scroll.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

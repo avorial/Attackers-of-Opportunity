@@ -3,9 +3,9 @@ name: Cot
 category: item
 type: item
 summary: Located in the child's bedroom under the window where the party enters.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

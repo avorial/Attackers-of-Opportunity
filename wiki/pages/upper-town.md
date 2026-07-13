@@ -3,9 +3,9 @@ name: Upper town
 category: location
 type: location
 summary: A sunlit area of the city with more hustle and bustle than the under town.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

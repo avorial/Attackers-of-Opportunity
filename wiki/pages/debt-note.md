@@ -3,9 +3,9 @@ name: Debt note
 category: item
 type: item
 summary: Stolen by Maeve, detailing a 2200 gold debt owed by Lord Dorian.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

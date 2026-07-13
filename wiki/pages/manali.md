@@ -3,9 +3,9 @@ name: Manali
 category: npc
 type: npc
 summary: Type unclear from transcript
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

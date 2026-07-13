@@ -5,9 +5,9 @@ type: item
 summary: A theoretical PhD-level text on necromancy found in the library.
   Contains magical theorems that Dorian studies, leading to a +1 modifier for a
   ritual destruction roll.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

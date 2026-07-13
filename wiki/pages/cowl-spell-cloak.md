@@ -3,9 +3,9 @@ name: Cowl / Spell Cloak
 category: item
 type: item
 summary: An artifact linked to Beriel Silverthrust's youth and necromancer lore.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

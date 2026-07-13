@@ -3,9 +3,9 @@ name: Silver necklace with gemstone pendant
 category: item
 type: item
 summary: A necklace with a blue stone in a diamond-shaped setting, worth 250 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

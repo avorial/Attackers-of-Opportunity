@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Jack sneaks up next to the barn and considers scaling it but decides
   against it due to potential attention.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

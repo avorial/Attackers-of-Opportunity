@@ -3,9 +3,9 @@ name: Arrow
 category: item
 type: item
 summary: "Possible duplicate of: Arrows -- unresolved, see possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Shattered Sword
 category: item
 type: item
 summary: Crude, shattered sword of goblin make found at the scouting site.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

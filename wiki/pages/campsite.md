@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Group has been camping here for a couple of days. Interactions and
   studies occurred here.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

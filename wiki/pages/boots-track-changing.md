@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Enchanted boots that allow the wearer to alter their footprints to
   appear heavier, lighter, etc.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

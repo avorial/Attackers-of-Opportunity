@@ -5,9 +5,9 @@ type: location
 summary: A country on the eastern continent of T'farnin, ruled by Emperor
   Koritoki III. It has five high clans (bear, dragon, hawk, crane, turtle) and
   21 minor clans.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

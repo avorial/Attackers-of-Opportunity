@@ -3,9 +3,9 @@ name: Boots
 category: item
 type: item
 summary: Magical boots that fit Dorian perfectly and are unaffected by water.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

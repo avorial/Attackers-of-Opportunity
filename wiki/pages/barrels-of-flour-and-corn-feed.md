@@ -3,9 +3,9 @@ name: Barrels of Flour and Corn Feed
 category: item
 type: item
 summary: Staples found in the cave for potential rations.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

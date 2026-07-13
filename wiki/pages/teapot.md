@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A unique, handcrafted teapot made by the tinker; described as their
   'only teapot'
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

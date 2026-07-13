@@ -3,9 +3,9 @@ name: Pauldrons and Bracers
 category: item
 type: item
 summary: Artifacts linked to Vaz'rule, part of the necromancer's collection.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Temple
 category: location
 type: location
 summary: Location where refugees were dropped off and given jobs.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

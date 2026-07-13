@@ -3,9 +3,9 @@ name: Pipe
 category: item
 type: item
 summary: Dale is packing his pipe and later uses flint to create embers.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

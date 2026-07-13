@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical item capable of transmitting whispers, identified during a
   discussion about detecting magic.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

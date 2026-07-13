@@ -3,9 +3,9 @@ name: Minor Illusion
 category: item
 type: item
 summary: Used to create a boulder and shrubbery for hiding.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

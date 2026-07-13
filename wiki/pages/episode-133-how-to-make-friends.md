@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Gerard needs to recreate his spell mantle, a magical protection
   artifact, which requires gathering materials from black dragons.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

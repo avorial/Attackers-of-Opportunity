@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A weapon carried by Valak, described as 'massive' and reminiscent of a
   weapon from Skyrim.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Presence table
 category: item
 type: item
 summary: A table where guests left gifts for the newlyweds, stolen by cloaked figures.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

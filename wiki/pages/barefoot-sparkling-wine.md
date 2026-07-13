@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A sparkling white wine from Travagia, described as a 'very nice
   sipping, table wine'.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

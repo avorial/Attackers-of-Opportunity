@@ -3,9 +3,9 @@ name: Dust of sneezing and choking
 category: item
 type: item
 summary: A pouch of powder that induces coughing fits when used on enemies.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

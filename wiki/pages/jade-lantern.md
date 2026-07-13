@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical device used to create green stones and enchant them. Formerly
   owned by the Lady of the Spring Court. Can be dispelled with high-level magic.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

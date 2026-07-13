@@ -3,9 +3,9 @@ name: Artificial Arm and Eyes
 category: item
 type: item
 summary: Adar's prosthetic enhancements.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

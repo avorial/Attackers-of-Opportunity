@@ -3,9 +3,9 @@ name: Swift ship of Captain Black Fang
 category: vehicle
 type: vehicle
 summary: A ship captained by Black Fang, used to travel to Kudos Harbor.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

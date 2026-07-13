@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Initiative or artifact that Vaz'rule aims to activate, which the party
   seeks to delay.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

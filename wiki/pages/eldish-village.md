@@ -3,9 +3,9 @@ name: Eldish village
 category: location
 type: location
 summary: Village across the river, with which Altarion is the emissary.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

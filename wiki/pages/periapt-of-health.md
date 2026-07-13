@@ -3,9 +3,9 @@ name: periapt of health
 category: item
 type: item
 summary: A magical item granting health benefits.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

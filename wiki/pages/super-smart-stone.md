@@ -5,9 +5,9 @@ type: item
 summary: A stone that answers questions about the area it is in, providing
   observable facts and information known by people in the vicinity. It cannot
   predict future events or answer questions about things outside its range.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

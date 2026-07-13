@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A wedding ceremony and reception take place, interrupted by the theft
   of the 'presence table' by cloaked figures.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

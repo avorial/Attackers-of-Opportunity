@@ -3,9 +3,9 @@ name: Ballad of the Silverthrust
 category: item
 type: item
 summary: Lore about Berios Silverthrust, a historical dwarf hero.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

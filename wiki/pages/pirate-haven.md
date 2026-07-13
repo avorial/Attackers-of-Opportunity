@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location where the group 'floats around' and has maneuverability due
   to the turtle dragon.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

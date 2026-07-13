@@ -3,9 +3,9 @@ name: Black cloth
 category: item
 type: item
 summary: Hanging over a mirror in Dorian's mother's room, indicative of mourning
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

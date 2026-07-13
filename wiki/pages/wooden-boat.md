@@ -3,9 +3,9 @@ name: Wooden boat
 category: item
 type: item
 summary: A detailed D&D map-sized boat with a mast, ropes, and other nautical features.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

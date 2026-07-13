@@ -3,9 +3,9 @@ name: Extra armor
 category: item
 type: item
 summary: Provided by a half-orc from the Golden Circle to Valak.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

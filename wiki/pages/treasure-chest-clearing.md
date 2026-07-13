@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A clearing with a large treasure chest on a slightly raised rock,
   surrounded by open terrain.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

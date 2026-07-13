@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Party encounters and defeats cranium rats with blue, plasmodic brains
   in the Citadel Hotel's vault.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

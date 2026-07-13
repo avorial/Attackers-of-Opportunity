@@ -3,9 +3,9 @@ name: Granite Slab
 category: location
 type: location
 summary: A restaurant known for its ribs, visited by the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Dickey arrives at the Stardust Hotel and is greeted by Matrix D, who
   offers a handshake and spa services.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Merchant vessel
 category: vehicle
 type: vehicle
 summary: Crewed by Tabaxi and other races, targeted by the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

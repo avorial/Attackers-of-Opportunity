@@ -3,9 +3,9 @@ name: Chest of 5,536 Gold Coins
 category: item
 type: item
 summary: A donation chest at the wedding site containing a large sum of gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

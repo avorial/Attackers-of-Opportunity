@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical ring possessed by Berios the Silver Thrust, allowing him to
   see through walls.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

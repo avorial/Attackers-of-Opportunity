@@ -4,9 +4,9 @@ category: event
 type: event
 summary: The party reports success against flame salamanders via message spell,
   but the spell fails to connect with the dameo.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

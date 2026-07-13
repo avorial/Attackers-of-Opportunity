@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Party performs stealth check to approach the castle gate without
   alerting guards.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Red and gold doors with golden inlays
 category: item
 type: item
 summary: Lead deeper into the Golden Winter Tea House structure.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

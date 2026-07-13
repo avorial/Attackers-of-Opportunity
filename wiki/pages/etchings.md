@@ -3,9 +3,9 @@ name: Etchings
 category: item
 type: item
 summary: Ancient inscriptions requiring decoding to locate artifacts.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

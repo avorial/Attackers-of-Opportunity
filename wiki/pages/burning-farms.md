@@ -3,9 +3,9 @@ name: Burning Farms
 category: location
 type: location
 summary: A location assaulted by goblins and bugbears, where Pelvernor was found.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

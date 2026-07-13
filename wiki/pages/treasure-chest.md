@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A large traveling case treasure chest (4ft long, 2.5ft tall, 2ft deep)
   found in a clearing.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

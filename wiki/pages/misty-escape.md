@@ -3,9 +3,9 @@ name: Misty Escape
 category: item
 type: item
 summary: Invisibility ability in low light (warlock feature).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

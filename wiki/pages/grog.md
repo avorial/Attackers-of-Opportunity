@@ -3,9 +3,9 @@ name: Grog
 category: item
 type: item
 summary: Another drink available on the ship, mentioned alongside rum.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

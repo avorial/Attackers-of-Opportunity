@@ -3,9 +3,9 @@ name: Plus One Scimitar
 category: item
 type: item
 summary: D8 damage; bonus action for additional melee attack.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

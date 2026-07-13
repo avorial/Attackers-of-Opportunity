@@ -3,9 +3,9 @@ name: Circlet of Blasting
 category: item
 type: item
 summary: Used by Zahn to cast 'scorching ray' spells.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

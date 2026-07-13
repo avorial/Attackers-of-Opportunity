@@ -3,9 +3,9 @@ name: Saito's Trickster's Belt
 category: item
 type: item
 summary: Provides advantage on sleight of hand checks to escape grapples or restraints.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

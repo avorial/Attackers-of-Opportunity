@@ -3,9 +3,9 @@ name: Sangria pitcher
 category: item
 type: item
 summary: A large drink container used by Valak as a blunt object in combat.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

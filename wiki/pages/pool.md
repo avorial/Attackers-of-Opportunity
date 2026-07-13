@@ -3,9 +3,9 @@ name: Pool
 category: location
 type: location
 summary: "First appearance: Episode 112: Life's Dawning"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

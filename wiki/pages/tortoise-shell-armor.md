@@ -3,9 +3,9 @@ name: Tortoise Shell Armor
 category: item
 type: item
 summary: Worn by the guard, combined with leather and metal plates (brigandine armor).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

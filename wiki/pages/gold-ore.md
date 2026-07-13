@@ -3,9 +3,9 @@ name: Gold Ore
 category: item
 type: item
 summary: Extracted from the cavern walls; estimated worth 85 gold after refinement.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

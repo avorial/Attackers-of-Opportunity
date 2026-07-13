@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Ranged spell attack summoned by Moonbeam, dealing fire damage to air
   elementals.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

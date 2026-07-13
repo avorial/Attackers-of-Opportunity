@@ -3,9 +3,9 @@ name: Berries
 category: item
 type: item
 summary: A food item requested by Neton during the challenge.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

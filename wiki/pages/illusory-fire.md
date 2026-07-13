@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical effect created by the shaman and later countered by Dorian
   with a larger illusionary fire.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

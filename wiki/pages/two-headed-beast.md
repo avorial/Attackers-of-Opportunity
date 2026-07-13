@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A creature harassing villagers with a reward of 500 gold for its
   capture or elimination.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

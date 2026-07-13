@@ -3,9 +3,9 @@ name: Gemstone (10,000 gold value)
 category: item
 type: item
 summary: Required for the ritual to destroy necromantic artifacts.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

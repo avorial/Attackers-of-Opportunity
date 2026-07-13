@@ -3,9 +3,9 @@ name: Unnamed Pirate Ship
 category: vehicle
 type: vehicle
 summary: The vessel on which the characters are traveling to Turtle Dragon Island
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

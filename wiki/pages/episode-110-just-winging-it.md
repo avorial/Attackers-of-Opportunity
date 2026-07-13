@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Group begins journey with Valak leading, using Aubrey as a mount for
   terrain navigation.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

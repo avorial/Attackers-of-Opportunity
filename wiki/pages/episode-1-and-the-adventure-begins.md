@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A cacophony of sound erupts as short, scaling green creatures (toadmen)
   swarm the shore, causing civilians to panic.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

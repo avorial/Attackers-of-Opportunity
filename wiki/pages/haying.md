@@ -3,9 +3,9 @@ name: Haying
 category: location
 type: location
 summary: The country of the Bear Clan.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

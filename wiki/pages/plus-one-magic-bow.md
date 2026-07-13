@@ -3,9 +3,9 @@ name: Plus One Magic Bow
 category: item
 type: item
 summary: A silvery bow with jade inlays, +1 magical enhancement.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

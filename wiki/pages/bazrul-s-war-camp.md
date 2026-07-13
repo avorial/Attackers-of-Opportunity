@@ -4,9 +4,9 @@ category: location
 type: location
 summary: One week away from the citadel, with elves, giants, goblins,
   hobgoblins, and bugbears present.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

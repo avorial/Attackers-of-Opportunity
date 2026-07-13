@@ -3,9 +3,9 @@ name: Crude Goblin Map
 category: item
 type: item
 summary: A map found in a cave after a battle, created by goblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

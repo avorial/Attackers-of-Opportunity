@@ -4,9 +4,9 @@ category: location
 type: location
 summary: The name of the ship the group negotiates passage on; a four-mast
   heavily rigged ship.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

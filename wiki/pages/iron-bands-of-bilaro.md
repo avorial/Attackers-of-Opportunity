@@ -5,9 +5,9 @@ type: item
 summary: A magical item that opens into metal bands, restraining a target.
   Requires a command word to activate. Deals 48 piercing damage as a bonus
   attack.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

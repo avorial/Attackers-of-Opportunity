@@ -3,9 +3,9 @@ name: nogginata of Jeffsons
 category: item
 type: item
 summary: Weapon used to deal 32 damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

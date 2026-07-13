@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Discussion about forming a council of multiple voices for
   representation, inspired by elves working in concert.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

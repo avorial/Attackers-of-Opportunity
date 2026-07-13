@@ -3,9 +3,9 @@ name: Camilla
 category: location
 type: location
 summary: A country mentioned as the destination of a monk's journey.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

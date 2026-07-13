@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Text-based scrolls with cryptic symbols at the bottom; overlapping them
   reveals a hidden map.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

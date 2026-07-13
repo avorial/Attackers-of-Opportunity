@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Worn by the bard character, with 'inspiration' mechanics for advantage
   in rolls.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

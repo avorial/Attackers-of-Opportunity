@@ -3,9 +3,9 @@ name: Flint and Tinder
 category: item
 type: item
 summary: Used to attempt setting the bridge on fire.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

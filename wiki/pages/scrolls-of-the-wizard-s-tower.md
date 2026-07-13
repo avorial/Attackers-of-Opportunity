@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Four scrolls provided by King Eero to help locate the wizard's tower.
   Contain clues to its location.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

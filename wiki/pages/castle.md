@@ -5,9 +5,9 @@ type: location
 summary: A castle with a third-floor ballroom, fourth-floor Daimio chambers, and
   a balcony on the third floor. The castle is described as poorly defended, with
   guards stationed on multiple floors.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

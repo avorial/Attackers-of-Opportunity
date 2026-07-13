@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A ship traveling on an intercept course with the Fires of the Varang.
   The crew discusses potential conflict with this ship.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

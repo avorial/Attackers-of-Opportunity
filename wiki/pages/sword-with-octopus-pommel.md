@@ -3,9 +3,9 @@ name: sword with octopus pommel
 category: item
 type: item
 summary: An ornate sword found in a lockbox.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

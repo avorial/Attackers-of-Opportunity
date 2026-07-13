@@ -3,9 +3,9 @@ name: "Episode 89: Rewards"
 category: event
 type: event
 summary: How the goblin-elf negotiations will proceed without aggression from elves
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

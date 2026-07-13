@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A region of the Tabaxi kingdoms, accessible by traveling south and west
   from the main continent. Home to powerful naval vessels.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

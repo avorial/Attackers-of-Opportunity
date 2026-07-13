@@ -5,9 +5,9 @@ type: event
 summary: Party enters a dark citadel through a 20-foot-wide entryway. The
   hallway splits left and right, with the environment growing darker as they
   proceed.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

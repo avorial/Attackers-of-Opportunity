@@ -3,9 +3,9 @@ name: Heavy Rocks
 category: item
 type: item
 summary: Used as anchors for the rope by Valak and others to secure it across the river.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

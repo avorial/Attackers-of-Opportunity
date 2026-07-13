@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Dorian casts Dispel Magic to counter the spirit's corruption of the
   elven captain.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

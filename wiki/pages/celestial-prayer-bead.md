@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Gold sphere with Celestia symbols; when added to prayer beads, grants
   Summon Planar Ally.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

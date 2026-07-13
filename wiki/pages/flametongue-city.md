@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Mentioned as a term related to a weapon (flametongue sword); possibly a
   location.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

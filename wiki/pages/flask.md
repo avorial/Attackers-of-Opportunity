@@ -3,9 +3,9 @@ name: Flask
 category: item
 type: item
 summary: Container for the magic potion.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

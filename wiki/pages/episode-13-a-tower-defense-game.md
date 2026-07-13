@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Valak uses a sending stone to communicate with Val Rulzegor, attempting
   diplomacy.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

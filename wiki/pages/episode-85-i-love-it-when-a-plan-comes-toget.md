@@ -3,9 +3,9 @@ name: "Episode 85: I love it when a plan comes toget"
 category: event
 type: event
 summary: Player hides in a narrow spot near the stairs, gaining half cover.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

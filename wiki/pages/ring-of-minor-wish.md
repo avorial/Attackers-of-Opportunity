@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A ring that allows limited wishes but permanently reduces the user's
   maximum hit points by 5.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

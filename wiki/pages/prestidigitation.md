@@ -3,9 +3,9 @@ name: Prestidigitation
 category: item
 type: item
 summary: Spell used by Dorian to clean himself after the pee incident.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

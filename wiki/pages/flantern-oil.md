@@ -3,9 +3,9 @@ name: Flantern oil
 category: item
 type: item
 summary: A substance referenced in the context of spray paint.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

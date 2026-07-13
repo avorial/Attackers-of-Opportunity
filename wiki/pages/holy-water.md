@@ -3,9 +3,9 @@ name: Holy Water
 category: item
 type: item
 summary: Contained in four jars with Rao's symbol; identified as blessed water.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

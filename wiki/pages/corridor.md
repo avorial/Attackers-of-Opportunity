@@ -3,9 +3,9 @@ name: Corridor
 category: location
 type: location
 summary: A passage blocked by a deliberate rockfall, leading to an ambush site.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

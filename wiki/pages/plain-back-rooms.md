@@ -3,9 +3,9 @@ name: Plain back rooms
 category: item
 type: item
 summary: Where courtesans wait for clients.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

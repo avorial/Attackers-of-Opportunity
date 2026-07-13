@@ -3,9 +3,9 @@ name: Map tiles from Ark Night
 category: item
 type: item
 summary: Blue ocean and shore-themed map tiles used for the game's visual setup.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

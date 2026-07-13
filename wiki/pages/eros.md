@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A four-mast heavily rigged ship; the group negotiates passage on it for
   500 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

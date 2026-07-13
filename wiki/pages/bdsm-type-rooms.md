@@ -3,9 +3,9 @@ name: BDSM-type rooms
 category: item
 type: item
 summary: More risqué accommodations within the tea house.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Decorative silver
 category: item
 type: item
 summary: Found on the ritual floor.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

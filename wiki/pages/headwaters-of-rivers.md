@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Rocky terrain forming an upside-down Y shape, identified as a potential
   goblin army headquarters.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Map
 category: item
 type: item
 summary: Used to determine goblin army's location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

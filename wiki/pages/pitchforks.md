@@ -3,9 +3,9 @@ name: Pitchforks
 category: item
 type: item
 summary: Used by farmers against the creatures, but burned away upon contact.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

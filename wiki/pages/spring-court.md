@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A group that has taken control of Seasons Glade, with unknown plans and
   potential hostility.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Setty couch
 category: item
 type: item
 summary: Located in Berius' room.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

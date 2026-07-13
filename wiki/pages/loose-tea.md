@@ -3,9 +3,9 @@ name: Loose Tea
 category: item
 type: item
 summary: Brought by Captain Milgar for the party, as they enjoyed it previously.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

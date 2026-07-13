@@ -3,9 +3,9 @@ name: Potion of Healing
 category: item
 type: item
 summary: Standard healing potion provided by Gerard.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

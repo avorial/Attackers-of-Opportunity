@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A powerful artifact that could empower Maseral Zegor if accessed;
   estimated weight of 2.5–3 pounds.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: The general setting of the conflict, with citizens influenced by green
   gems and guards being mobilized.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

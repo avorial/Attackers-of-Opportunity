@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A scroll containing encrypted data transferred from a tablet, requiring
   an 'unlock word' to decrypt.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

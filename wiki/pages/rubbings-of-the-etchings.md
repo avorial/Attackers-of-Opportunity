@@ -3,9 +3,9 @@ name: Rubbings of the etchings
 category: item
 type: item
 summary: Copies of the etchings used in the decoding process.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

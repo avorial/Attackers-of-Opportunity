@@ -5,9 +5,9 @@ type: event
 summary: Heroes recover in a hill giant village after completing trials against
   Vazrul Segur, a hobgoblin necromancer raising a goblin army against the elves
   of Seasons Glade.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

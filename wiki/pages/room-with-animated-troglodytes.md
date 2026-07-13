@@ -5,9 +5,9 @@ type: location
 summary: A room containing several decayed, reptilian-like bodies (troglodytes)
   animated by necromantic energy. The room smells bad and has a thick, dark
   wooden door.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

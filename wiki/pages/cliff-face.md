@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A 35-foot-high rock wall near the river where characters attempt to
   climb after crossing the river.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

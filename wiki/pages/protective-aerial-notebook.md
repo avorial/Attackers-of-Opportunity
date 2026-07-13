@@ -3,9 +3,9 @@ name: Protective Aerial Notebook
 category: item
 type: item
 summary: Magical bard notes that survived the party's adventures.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

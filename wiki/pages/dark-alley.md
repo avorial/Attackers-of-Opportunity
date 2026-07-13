@@ -4,9 +4,9 @@ category: location
 type: location
 summary: The site of the ambush by three attackers. The alley has a rooftop and
   a southernmost figure.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

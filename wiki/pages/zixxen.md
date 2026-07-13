@@ -3,9 +3,9 @@ name: Zixxen
 category: location
 type: location
 summary: A location where Papa is mentioned as being present.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

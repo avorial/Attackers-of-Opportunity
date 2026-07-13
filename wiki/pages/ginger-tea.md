@@ -3,9 +3,9 @@ name: Ginger Tea
 category: item
 type: item
 summary: Served on the ship to help with motion sickness
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

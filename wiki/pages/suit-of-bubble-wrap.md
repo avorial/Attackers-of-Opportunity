@@ -3,9 +3,9 @@ name: suit of bubble wrap
 category: item
 type: item
 summary: Mentioned in an advertisement, not part of the story.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

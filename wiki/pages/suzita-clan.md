@@ -3,9 +3,9 @@ name: Suzita Clan
 category: location
 type: location
 summary: A minor clan near the border between the bear and turtle clans.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

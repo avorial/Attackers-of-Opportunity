@@ -3,9 +3,9 @@ name: Dwarven spirits (Age 20 years)
 category: item
 type: item
 summary: Alcoholic drink ordered by the half-elf.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

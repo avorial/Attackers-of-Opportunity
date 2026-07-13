@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Contains information on rituals to re-center the green stones.
   Referenced by Valak during the ritual discussion.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

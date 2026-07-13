@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Includes the dread helm and other unspecified common magic items
   provided to the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

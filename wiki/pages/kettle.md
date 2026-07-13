@@ -3,9 +3,9 @@ name: Kettle
 category: item
 type: item
 summary: Left behind by the character after offering it to another.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

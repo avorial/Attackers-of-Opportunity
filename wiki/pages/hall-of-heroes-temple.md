@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A temple to the north of the town that honors heroes and historical
   figures, established as a cultural badge of honor for the town.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

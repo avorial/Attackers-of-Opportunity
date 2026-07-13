@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A potion used by the DM to save himself during a previous encounter
   with wind elementals.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

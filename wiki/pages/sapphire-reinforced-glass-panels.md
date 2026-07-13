@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Defensive architecture feature in levels 15-20, providing stone-like
   resistance.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

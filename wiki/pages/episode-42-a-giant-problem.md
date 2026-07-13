@@ -4,9 +4,9 @@ category: event
 type: event
 summary: A goblin patrol (goblins, bugbears, and a hobgoblin) ambushes the
   party, but Dorian warns them in time.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

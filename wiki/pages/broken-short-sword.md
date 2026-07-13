@@ -3,9 +3,9 @@ name: Broken Short Sword
 category: item
 type: item
 summary: Grafon's weapon, originally a longsword that broke and was shortened.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

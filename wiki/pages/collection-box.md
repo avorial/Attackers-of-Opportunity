@@ -3,9 +3,9 @@ name: Collection box
 category: item
 type: item
 summary: A wooden box near a temple door with slots at the top for donations.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

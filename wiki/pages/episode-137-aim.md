@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Black Fang's ship prepares for battle by lifting deck sections and
   revealing two air ballists from the lower deck.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

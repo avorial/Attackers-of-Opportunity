@@ -3,9 +3,9 @@ name: Polished Dagger
 category: item
 type: item
 summary: Ceremonial item in the shrine to Megalith, described as finely made.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

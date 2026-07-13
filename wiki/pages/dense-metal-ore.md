@@ -3,9 +3,9 @@ name: Dense Metal Ore
 category: item
 type: item
 summary: Dark metal ore found in the cavern, extremely dense when handled.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

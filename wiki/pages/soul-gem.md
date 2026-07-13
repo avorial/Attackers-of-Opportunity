@@ -3,9 +3,9 @@ name: Soul gem
 category: item
 type: item
 summary: A magical item that stores energy and can be used for transference.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

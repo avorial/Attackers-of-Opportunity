@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A farming tool belonging to a fallen warrior, gifted by an orc tribe
   member as a memento.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

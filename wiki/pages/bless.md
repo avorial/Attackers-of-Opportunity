@@ -3,9 +3,9 @@ name: Bless
 category: item
 type: item
 summary: A spell granting a d4 bonus to attack and saving throws.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

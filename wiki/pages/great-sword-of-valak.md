@@ -3,9 +3,9 @@ name: Great Sword of Valak
 category: item
 type: item
 summary: A weapon used by Valak to cleave creatures in half.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

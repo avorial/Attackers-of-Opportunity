@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A posh dining area within the Citadel Hotel, described as dark, cool,
   and bustling with patrons, including members of the Order.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

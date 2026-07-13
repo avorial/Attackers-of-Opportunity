@@ -3,9 +3,9 @@ name: Sword
 category: item
 type: item
 summary: A weapon used by the Baron during combat.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

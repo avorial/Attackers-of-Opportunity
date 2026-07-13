@@ -3,9 +3,9 @@ name: Uniform (Bellhopper Outfit)
 category: item
 type: item
 summary: A hotel uniform granting access to the wedding area.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

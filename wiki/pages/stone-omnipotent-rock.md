@@ -3,9 +3,9 @@ name: Stone (Omnipotent Rock)
 category: item
 type: item
 summary: A magical item providing knowledge about characters and locations.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -5,9 +5,9 @@ type: event
 summary: Players examine a map with purple dotted lines outlining a city state's
   territory, noting mountains and borders between Zuria and the Kingdom of
   Prostrum.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

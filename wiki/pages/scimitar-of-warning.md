@@ -3,9 +3,9 @@ name: Scimitar of Warning
 category: item
 type: item
 summary: Used by Dorian to cut the harpoon rope.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

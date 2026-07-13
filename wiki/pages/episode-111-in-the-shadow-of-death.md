@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Valak's wyvern takes the lead in the formation after a period of
   flight, causing other wyverns to follow.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

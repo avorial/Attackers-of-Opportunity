@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Fortified enemy camp with cliffs, stone walls, and a wooden barricade
   seeded with oil.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

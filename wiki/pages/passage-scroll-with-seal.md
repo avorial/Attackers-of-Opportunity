@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Used by merchants to gain access to restricted areas. The party obtains
   one from Eric Okra.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

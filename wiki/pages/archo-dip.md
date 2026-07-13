@@ -3,9 +3,9 @@ name: Archo Dip
 category: item
 type: item
 summary: Three trays of archo dip are left at the table by the waitstaff.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

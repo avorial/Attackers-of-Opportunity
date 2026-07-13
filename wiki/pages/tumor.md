@@ -3,9 +3,9 @@ name: tumor
 category: item
 type: item
 summary: Mentioned metaphorically in a story, clarified not to be a literal tumor.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

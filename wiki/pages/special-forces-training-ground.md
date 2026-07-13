@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Located east of the campsite, where bug players and hobgoblins train in
   formations.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: location
 type: location
 summary: The terrain the party will traverse, described as semi-dense with
   occasional hunter's paths and farmsteads.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

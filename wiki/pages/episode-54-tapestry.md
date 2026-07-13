@@ -5,9 +5,9 @@ type: event
 summary: Dorian encounters a mysterious woman in a silver shimmering dress who
   offers him godhood, discussing paths to divinity and the implications of
   becoming a god.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Cube of force
 category: item
 type: item
 summary: A magical item creating a 15-foot cube barrier to block nonliving matter.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

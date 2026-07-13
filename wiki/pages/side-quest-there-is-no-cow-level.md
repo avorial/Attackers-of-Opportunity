@@ -3,9 +3,9 @@ name: Side Quest_ There is No Cow Level
 category: event
 type: event
 summary: A cow charges diagonally through rows of vines towards the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

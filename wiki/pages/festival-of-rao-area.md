@@ -5,9 +5,9 @@ type: location
 summary: A town area with a cleared-out space around the prison, featuring a
   two-story house with a balcony. Hosts games, food vendors, and a sermon by a
   mysterious man.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

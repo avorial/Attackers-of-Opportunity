@@ -3,9 +3,9 @@ name: Infinite Arrow Quiver
 category: item
 type: item
 summary: A quiver that functions as a bag of holding for arrows only.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

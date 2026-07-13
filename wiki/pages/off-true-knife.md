@@ -3,9 +3,9 @@ name: Off-True Knife
 category: item
 type: item
 summary: A ritual artifact that Maeve attempts to pick up but fails due to damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

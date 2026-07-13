@@ -3,9 +3,9 @@ name: Cargo Ship
 category: vehicle
 type: vehicle
 summary: A ship where Valak and Moonbeam accidentally teleport due to a spell mishap.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

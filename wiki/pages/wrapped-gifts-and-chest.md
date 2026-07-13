@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Items broken out and spread in front of the priest. Part of the wedding
   tribute to the bride and groom.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

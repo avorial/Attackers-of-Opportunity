@@ -5,9 +5,9 @@ type: location
 summary: A massive tunnel with red light radiating from the walls, charred
   residue, and claw marks resembling those from a previous tunnel near the
   goblin encampment.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

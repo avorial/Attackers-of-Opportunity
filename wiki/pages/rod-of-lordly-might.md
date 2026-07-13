@@ -3,9 +3,9 @@ name: Rod of Lordly Might
 category: item
 type: item
 summary: Therinol was researching it.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

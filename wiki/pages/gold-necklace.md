@@ -3,9 +3,9 @@ name: Gold necklace
 category: item
 type: item
 summary: Worn by both the dwarf and human suspects.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

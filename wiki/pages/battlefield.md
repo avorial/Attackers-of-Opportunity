@@ -5,9 +5,9 @@ type: location
 summary: A large-scale battlefield with elven soldiers, stone giants, warg
   cavalry, bugbears, hobgoblins, and goblin skirmishers. Features tents, pits,
   and charred remains of Vazrul's tent.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

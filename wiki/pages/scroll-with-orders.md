@@ -3,9 +3,9 @@ name: Scroll with Orders
 category: item
 type: item
 summary: Found in Yumi's saddlebag, containing written orders from the Daimyo.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

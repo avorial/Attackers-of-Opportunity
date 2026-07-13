@@ -3,9 +3,9 @@ name: Cold Person (Level 3)
 category: item
 type: item
 summary: Spell with DC 16; holds targets with failed Wisdom saves.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

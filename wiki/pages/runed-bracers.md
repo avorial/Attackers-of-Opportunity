@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Bracers with vicious runes etched into them, acting as conduits for
   Vazrul's power.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Non-detection spell
 category: item
 type: item
 summary: A spell that needs to be recast every eight hours to prevent tracking.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Elven chainmail of the warleader
 category: item
 type: item
 summary: Allows voice amplification up to 300 feet; symbol of Spring Court authority.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

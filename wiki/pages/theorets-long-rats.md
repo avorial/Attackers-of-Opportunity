@@ -3,9 +3,9 @@ name: Theorets (long rats)
 category: item
 type: item
 summary: Long, rat-like creatures identified by their tracks near the Citadel.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -5,9 +5,9 @@ type: location
 summary: Location of a disrupted wedding between children of Spring and Autumn
   Councilors. Contains a reception table with wedding gifts, including a chest
   of 5,536 gold coins and valuable items.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

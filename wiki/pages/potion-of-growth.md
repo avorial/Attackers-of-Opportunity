@@ -3,9 +3,9 @@ name: Potion of Growth
 category: item
 type: item
 summary: GrantsEnlarge effect for 1d4 hours without Constitution check or concentration.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

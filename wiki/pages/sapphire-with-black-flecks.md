@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A crystallized sapphire embedded in the wall, possibly linked to the
   Seasons Glade vault ritual.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

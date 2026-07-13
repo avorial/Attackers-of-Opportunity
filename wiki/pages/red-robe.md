@@ -3,9 +3,9 @@ name: Red Robe
 category: item
 type: item
 summary: Worn by a caster seen on upper levels of the estate, resembling a dead elf.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

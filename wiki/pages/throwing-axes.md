@@ -3,9 +3,9 @@ name: Throwing Axes
 category: item
 type: item
 summary: Weapons carried by the captured goblin, later disarmed by the party.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

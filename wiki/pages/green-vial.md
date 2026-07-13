@@ -3,9 +3,9 @@ name: Green Vial
 category: item
 type: item
 summary: Found in the bugbear's satchel.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

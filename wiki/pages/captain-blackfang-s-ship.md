@@ -4,9 +4,9 @@ category: vehicle
 type: vehicle
 summary: The ship commanded by Captain Blackfang, described as having 'awesome
   might.' The actual name of the ship is not revealed in the transcript.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

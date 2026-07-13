@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Spell cast by Dorian, creating a radiant wall that blinds enemies and
   deals damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

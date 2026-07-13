@@ -5,9 +5,9 @@ type: item
 summary: An enchanted, dangerous book with magical traps requiring spells like
   'knock' or 'dispel magic' to open safely. Its content is written in the
   language of ancient titans.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

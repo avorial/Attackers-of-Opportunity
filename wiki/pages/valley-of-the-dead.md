@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location under the mountains of Knoss where the funeral procession
   travels, containing tombs and a castle for noble burials.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

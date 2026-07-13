@@ -4,9 +4,9 @@ category: location
 type: location
 summary: City where the group previously arrived to pursue the necromancer
   lord's artifacts.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

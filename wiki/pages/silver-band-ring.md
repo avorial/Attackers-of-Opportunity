@@ -3,9 +3,9 @@ name: Silver band ring
 category: item
 type: item
 summary: A simple silver ring, not valuable but useful for swapping with the guard.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

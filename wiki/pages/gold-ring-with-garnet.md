@@ -3,9 +3,9 @@ name: Gold ring with garnet
 category: item
 type: item
 summary: Found on the second spellcaster doppelganger; estimated value 60-65 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

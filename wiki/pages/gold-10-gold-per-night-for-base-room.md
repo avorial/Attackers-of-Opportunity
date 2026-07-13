@@ -3,9 +3,9 @@ name: Gold (10 gold per night for base room)
 category: item
 type: item
 summary: Currency used for hotel stay
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

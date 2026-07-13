@@ -4,9 +4,9 @@ category: item
 type: item
 summary: An item carried by the courier, which he no longer has when exiting the
   Stardust Hotel.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

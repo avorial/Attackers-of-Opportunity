@@ -3,9 +3,9 @@ name: The Ship
 category: vehicle
 type: vehicle
 summary: the vessel the party is traveling on during the journey
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Pauldrons of metal skulls
 category: item
 type: item
 summary: A necromantic artifact stolen by Gerard
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

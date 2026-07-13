@@ -3,9 +3,9 @@ name: Granite slab
 category: item
 type: item
 summary: A restaurant in the deep city.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Sawmill
 category: location
 type: location
 summary: Structure with mill race, drying racks, fields, houses, and an inn
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

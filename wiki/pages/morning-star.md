@@ -3,9 +3,9 @@ name: Morning Star
 category: item
 type: item
 summary: A heavy melee weapon wielded by the bugbear.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Heroes arrive at Seasons Glade, the capital of Tovahia, an elven-run
   nation, after a journey on Captain Milgar's barge.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

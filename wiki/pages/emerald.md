@@ -3,9 +3,9 @@ name: Emerald
 category: item
 type: item
 summary: Large, cut emerald with a coppery vein, valued at 15-16,000 gold.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

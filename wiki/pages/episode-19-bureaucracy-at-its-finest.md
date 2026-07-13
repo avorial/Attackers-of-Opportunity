@@ -5,9 +5,9 @@ type: event
 summary: The Citadel is described as a seven-story building resembling a large
   tree with four large windows, one on each side. The Council of Four (Spring,
   Summer, Winter, Fall) has chambers set up so that each council member fac
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

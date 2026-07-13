@@ -3,9 +3,9 @@ name: Broken Goblin Arrows
 category: item
 type: item
 summary: Arrows used by goblins, found at the scouting site.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

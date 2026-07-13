@@ -3,9 +3,9 @@ name: daggers of venom
 category: item
 type: item
 summary: Three throwing daggers that inject venom.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

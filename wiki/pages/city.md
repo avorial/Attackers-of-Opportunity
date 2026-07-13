@@ -3,9 +3,9 @@ name: City
 category: location
 type: location
 summary: A setting where safety, diplomacy, and political hierarchy are discussed.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

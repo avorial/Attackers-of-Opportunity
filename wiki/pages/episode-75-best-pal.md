@@ -3,9 +3,9 @@ name: "Episode 75: Best Pal"
 category: event
 type: event
 summary: Dorian (type uncertain)
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

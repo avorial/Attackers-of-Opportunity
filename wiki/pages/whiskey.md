@@ -3,9 +3,9 @@ name: Whiskey
 category: item
 type: item
 summary: A drink consumed by Dorian and others at the Wayfinder Inn.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

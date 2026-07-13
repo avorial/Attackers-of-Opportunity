@@ -3,9 +3,9 @@ name: Log Bridge
 category: item
 type: item
 summary: Constructed by Valak using three trees to cross a ravine.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

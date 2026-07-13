@@ -3,9 +3,9 @@ name: Scrimshaw Materials
 category: item
 type: item
 summary: Wyvern bones suitable for carving.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

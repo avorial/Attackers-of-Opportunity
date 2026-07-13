@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A drink initially brought by the waitress, corrected to a lime wedge
   after a mistake.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

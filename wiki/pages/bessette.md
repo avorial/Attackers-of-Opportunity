@@ -3,9 +3,9 @@ name: Bessette
 category: location
 type: location
 summary: "First appearance: Episode 3: Hunter's Mark"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

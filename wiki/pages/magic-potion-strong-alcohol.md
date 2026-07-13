@@ -3,9 +3,9 @@ name: Magic potion (strong alcohol)
 category: item
 type: item
 summary: Used to alleviate seasickness or induce sleep.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

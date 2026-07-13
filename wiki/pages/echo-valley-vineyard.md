@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A vineyard east of town where the purple cow was spotted. The manor
   house here has a damaged door and boarded-up windows.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

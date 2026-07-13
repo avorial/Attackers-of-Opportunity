@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A crystalline structure that allows vision up to 240 miles, emits
   internal light, and shows divine visions.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

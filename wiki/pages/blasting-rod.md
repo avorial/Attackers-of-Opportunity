@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical rod used by Dorian. Can be enhanced with a gemstone to
   increase its potency.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

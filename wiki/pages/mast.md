@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A wooden mast on a ship, damaged by ADAR's attack and later affected by
   a fireball.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Tripwire
 category: item
 type: item
 summary: A hidden trap that triggers the wooden spikes when stepped on.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

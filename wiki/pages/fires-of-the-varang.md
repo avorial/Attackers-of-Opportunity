@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A ship where the teleporter and Moonbeam arrive. The scene takes place
   on its deck.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

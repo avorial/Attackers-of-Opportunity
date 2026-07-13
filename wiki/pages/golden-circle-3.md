@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Mentioned in updated information handed to the Councillor; related to
   puppies and metal weapons.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

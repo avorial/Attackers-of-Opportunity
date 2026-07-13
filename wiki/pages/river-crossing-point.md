@@ -3,9 +3,9 @@ name: River crossing point
 category: location
 type: location
 summary: A specific spot in the river where the party plans to disembark.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

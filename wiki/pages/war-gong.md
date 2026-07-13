@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A gong attached to the shield for defensive purposes, though its
   effectiveness is questionable.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

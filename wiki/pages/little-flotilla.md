@@ -4,9 +4,9 @@ category: vehicle
 type: vehicle
 summary: A trio of ships encountered by the party, including the Fires of the
   Vrung and two escort ships.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

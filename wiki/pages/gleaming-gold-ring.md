@@ -3,9 +3,9 @@ name: Gleaming Gold Ring
 category: item
 type: item
 summary: Intact ring found in wyvern stomach; may contain a spell pulse.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

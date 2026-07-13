@@ -3,9 +3,9 @@ name: Three sashes
 category: item
 type: item
 summary: Possibly linked to artifacts found by High Priest Plank for Vazrul Zegor.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

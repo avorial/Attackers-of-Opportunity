@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Includes a dying rose, mirror, dried rose, pen quill, and a ball peen
   hammer; likely magical but purpose unknown.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

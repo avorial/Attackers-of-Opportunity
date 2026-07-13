@@ -3,9 +3,9 @@ name: Wine
 category: item
 type: item
 summary: Provided to Octavius Trigg during interrogation.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

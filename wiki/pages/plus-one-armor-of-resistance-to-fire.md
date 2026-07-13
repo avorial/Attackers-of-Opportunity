@@ -3,9 +3,9 @@ name: Plus one armor of resistance to fire
 category: item
 type: item
 summary: Provides +1 AC and fire resistance (half damage).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

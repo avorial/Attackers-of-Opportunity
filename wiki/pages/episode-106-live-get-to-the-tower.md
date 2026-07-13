@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Dorian Vissandaral (type uncertain) (Dorian the Redeemer, Lord Dorian,
   The Redeemer, The god of all goblins)
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

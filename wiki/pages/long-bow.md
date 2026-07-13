@@ -3,9 +3,9 @@ name: Long bow
 category: item
 type: item
 summary: Used by Yumi to attack salamanders.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

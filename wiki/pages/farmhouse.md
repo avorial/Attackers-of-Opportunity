@@ -3,9 +3,9 @@ name: farmhouse
 category: location
 type: location
 summary: a potential location for a ritual
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

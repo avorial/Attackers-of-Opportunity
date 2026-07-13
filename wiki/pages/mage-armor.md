@@ -3,9 +3,9 @@ name: Mage Armor
 category: item
 type: item
 summary: Spell cast by the wizard to protect himself from Eldritch Blast.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

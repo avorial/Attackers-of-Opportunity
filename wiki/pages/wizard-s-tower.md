@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Mentioned in multiple locations (e.g., Barketa Kurt, Zixa, Jasso). A
   focal point for exploration.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

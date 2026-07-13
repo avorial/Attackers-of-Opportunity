@@ -3,9 +3,9 @@ name: Magic Stone Slasher
 category: item
 type: item
 summary: Described as a potential weapon with bonus action mechanics.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

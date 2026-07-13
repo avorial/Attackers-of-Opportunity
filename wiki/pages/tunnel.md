@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A dark tunnel with debris and a rope hanging from an opening. Contains
   a 70-80 foot drop after a broken rope.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

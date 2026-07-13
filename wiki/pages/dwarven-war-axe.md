@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A small axe initially dismissed as a 'child's toy' but later implied to
   be a magical weapon.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

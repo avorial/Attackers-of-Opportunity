@@ -3,9 +3,9 @@ name: Question-Answering Scroll
 category: item
 type: item
 summary: A scroll that can answer six questions over its lifetime.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

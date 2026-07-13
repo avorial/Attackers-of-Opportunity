@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A landmark identified by Dicky as a sign of proximity to the God's Eye
   location.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

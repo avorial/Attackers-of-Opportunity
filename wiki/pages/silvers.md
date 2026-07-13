@@ -3,9 +3,9 @@ name: Silvers
 category: item
 type: item
 summary: Five stolen silver coins, used for practicing pickpocketing.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

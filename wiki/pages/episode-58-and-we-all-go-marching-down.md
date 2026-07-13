@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Heroes approach a hill near Lake Bryn, discovering a white stone entry
   into a hero's rest.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

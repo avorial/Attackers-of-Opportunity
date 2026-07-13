@@ -3,9 +3,9 @@ name: "Episode 14: And we're walking..."
 category: event
 type: event
 summary: Dorian attempts to decipher runes at the abandoned citadel, becoming befuddled.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Charcoal
 category: item
 type: item
 summary: Proposed material to disrupt goblin metal forging by making steel brittle.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

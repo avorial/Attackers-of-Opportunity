@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A rotten fish used by Maeve to prank Valak, causing a foul smell in his
   bedroll.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: vehicle
 type: vehicle
 summary: "Possible duplicate of: Black Fang's ship -- unresolved, see
   possibleduplicatesreview.md"
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

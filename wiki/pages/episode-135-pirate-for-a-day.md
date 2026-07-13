@@ -5,9 +5,9 @@ type: event
 summary: A character experiences a fever dream, receiving a scroll titled 'the
   journey of the Gerald' (later corrected to 'the voyage of the Dawn star') from
   their mother, Faye.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -5,9 +5,9 @@ type: event
 summary: The party begins traveling north through a dense forest with occasional
   hunter's paths and farmsteads, encountering semi-dense foliage and open
   terrain.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

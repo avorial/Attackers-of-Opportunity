@@ -3,9 +3,9 @@ name: Moat (magical)
 category: item
 type: item
 summary: Created by Moonbeam to protect the campsite.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

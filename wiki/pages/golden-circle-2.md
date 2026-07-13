@@ -4,9 +4,9 @@ category: organization
 type: organization
 summary: Group involved in strategic missions, including sabotage and diplomacy
   with goblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

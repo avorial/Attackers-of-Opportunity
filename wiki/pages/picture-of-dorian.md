@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A three-dimensional hologram-type image of Dorian. It is described as
   useful for not giving away the party's position and not speaking.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

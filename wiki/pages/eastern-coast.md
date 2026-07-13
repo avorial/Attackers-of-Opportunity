@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Area where reports of fire lizards and burning crops originate; salty
   sea air detected on day eight of the journey.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

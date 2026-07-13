@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Marks left on trees to indicate territory, described as subtle enough
   to be noticed by the party but not by others.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

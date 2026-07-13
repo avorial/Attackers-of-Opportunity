@@ -3,9 +3,9 @@ name: Manacles
 category: item
 type: item
 summary: Used to restrain Octavius trig; some are from the Citadel's walls.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Under town
 category: location
 type: location
 summary: A section of the dwarven city with dim lighting and a 90% dwarf population.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

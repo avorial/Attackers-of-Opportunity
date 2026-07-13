@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A stone monument with names of fallen goblins and wargs, inscribed with
   a message about defending against Vazrul Zagor.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

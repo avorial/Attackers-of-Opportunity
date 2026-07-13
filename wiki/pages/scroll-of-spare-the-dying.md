@@ -3,9 +3,9 @@ name: Scroll of Spare the Dying
 category: item
 type: item
 summary: A spell scroll used to stabilize a dying character.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

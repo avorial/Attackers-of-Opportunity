@@ -3,9 +3,9 @@ name: Sleep spell
 category: item
 type: item
 summary: A spell cast by Rojo to put a target to sleep, used during the second watch.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

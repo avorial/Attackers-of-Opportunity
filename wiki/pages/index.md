@@ -3,9 +3,9 @@ name: Attackers of Opportunity -- Wiki Index
 category: lore
 type: lore
 summary: "Episode 1: And the Adventure Begins..."
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Second ledger
 category: item
 type: item
 summary: A similar notebook tracking meetings by court (summer and winter courts).
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

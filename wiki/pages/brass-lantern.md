@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A two-foot-tall lantern with green glass panels (described as emitting
   red light). Found in a rickshaw during prison shipment checks.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

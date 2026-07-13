@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A central area of the Citadel Hotel where interactions between the
   concierge, the half-orc group, and the wolf/dog occur.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -5,9 +5,9 @@ type: event
 summary: Volok strips as he walks, encountering an environment covered in fish
   oil. A companion (referred to as 'doll') is described as having blinders on
   and holding her nose.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

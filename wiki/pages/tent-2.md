@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location where key interactions occur, including the confrontation
   with Gadrian and the discovery of the ritual's aftermath.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Wall of Fire
 category: item
 type: item
 summary: A spell cast by Valak to repel creatures, causing radiant damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

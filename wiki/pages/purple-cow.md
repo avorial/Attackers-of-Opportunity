@@ -5,9 +5,9 @@ type: item
 summary: A cow that is purple in color, possibly due to eating grapes. It is
   linked to the disappearances in the town. Suspected to be magical, as it may
   give wine instead of milk.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

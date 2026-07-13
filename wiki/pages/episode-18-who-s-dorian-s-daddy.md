@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Valak experiences a vision of himself fighting a darker version of
   himself in shadow and darkness.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

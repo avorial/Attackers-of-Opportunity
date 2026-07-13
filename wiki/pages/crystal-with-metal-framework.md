@@ -5,9 +5,9 @@ type: item
 summary: A prismatic, clear crystal with yellow tinge, encased in metal bands
   forming a diamond shape. Gives an electric pulse when touched. Found by
   Benjen.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -4,9 +4,9 @@ category: item
 type: item
 summary: 1.5-foot-tall statue resembling a stocky figure holding a staff,
   discovered in an armoire.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

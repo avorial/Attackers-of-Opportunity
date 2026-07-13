@@ -3,9 +3,9 @@ name: Bacon
 category: item
 type: item
 summary: Dropped and criticized for being uncrispy
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

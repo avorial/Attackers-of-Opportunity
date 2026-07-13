@@ -3,9 +3,9 @@ name: Burning incense or plant leaf
 category: item
 type: item
 summary: Held by the caster during the ritual.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

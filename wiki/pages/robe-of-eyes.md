@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical robe worn by Professor Maurice Luminos that allows the wearer
   to see in all directions and grants advantage on Wisdom (Perception) checks.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

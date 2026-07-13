@@ -3,9 +3,9 @@ name: Haversack
 category: item
 type: item
 summary: A magical item used for storage, similar to a bag of holding.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Glass Lotus Blossom
 category: item
 type: item
 summary: A yellow glass flower with orange tips, shaped as a lotus blossom.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

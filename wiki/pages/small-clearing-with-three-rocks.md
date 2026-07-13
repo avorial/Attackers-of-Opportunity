@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A clearing where the party disputes the size and significance of three
   rocks as a landmark.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

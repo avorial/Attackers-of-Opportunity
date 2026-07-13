@@ -3,9 +3,9 @@ name: Gauntlet of Nemesis
 category: item
 type: item
 summary: Worn by Rulo, tied to the lash symbol of Nemesis and used for divine sensing.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

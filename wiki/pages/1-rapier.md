@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Finely crafted with a Damascus pattern, originally intended for the
   Fellowship of the Eye of Blood.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

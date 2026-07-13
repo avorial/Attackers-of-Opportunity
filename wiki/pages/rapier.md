@@ -3,9 +3,9 @@ name: Rapier
 category: item
 type: item
 summary: A weapon used by a half-elf in combat.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

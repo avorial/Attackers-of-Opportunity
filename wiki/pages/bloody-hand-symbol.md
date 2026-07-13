@@ -3,9 +3,9 @@ name: Bloody Hand Symbol
 category: item
 type: item
 summary: Emblem created via ritual, imprinted on Benjen's cloak.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Parchment
 category: item
 type: item
 summary: Used as potential proof for a petition.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

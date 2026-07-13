@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A 12-foot-long, 10-inch-thick, slimy, and stinky aquatic creature that
   attacks the party. It is eventually repelled by Maeve's arrow.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

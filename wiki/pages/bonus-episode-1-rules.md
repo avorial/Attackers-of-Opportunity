@@ -5,9 +5,9 @@ type: event
 summary: "Looting Rule: After an encounter, a player looting a body rolls a
   percentile dice to determine loot quality. Contextual factors (e.g., defeating
   a dragon vs. goblins) influence the interpretation of the roll result."
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

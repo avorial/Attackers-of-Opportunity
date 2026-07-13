@@ -3,9 +3,9 @@ name: Long swords with spikes
 category: item
 type: item
 summary: Used by hobgoblins, designed for slashing and piercing.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

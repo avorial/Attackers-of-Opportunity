@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A drawing used to navigate the vault, showing 'us' and 'stuff'
   connected by a line. It was presented to the concierge for approval.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

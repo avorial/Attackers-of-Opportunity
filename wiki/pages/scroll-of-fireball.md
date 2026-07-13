@@ -3,9 +3,9 @@ name: Scroll of fireball
 category: item
 type: item
 summary: Possessed by Gerard for potential use against enemy forces.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

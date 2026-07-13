@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A cloak that provides fire resistance. Costs 200 gold. Cannot be
   combined with dragon scale mail due to insufficient scales.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

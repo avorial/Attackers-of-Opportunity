@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A magical portal allowing entry/exit to a stone chamber, resembling a
   permanent teleportation circle.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

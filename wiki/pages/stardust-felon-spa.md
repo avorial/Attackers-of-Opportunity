@@ -3,9 +3,9 @@ name: Stardust Felon Spa
 category: location
 type: location
 summary: A location left shortly before arriving at the estate.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

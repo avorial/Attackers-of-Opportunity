@@ -4,9 +4,9 @@ category: item
 type: item
 summary: A mysterious gift from Olish that induces a calming, positive feeling
   in the recipient.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Olimia
 category: location
 type: location
 summary: A country with a wizard setup in its capital city.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

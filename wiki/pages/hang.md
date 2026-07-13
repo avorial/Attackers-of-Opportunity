@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location the group is now traveling to instead of Cados as part of a
   deception plan.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

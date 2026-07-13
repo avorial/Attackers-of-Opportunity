@@ -3,9 +3,9 @@ name: Island (unspecified)
 category: location
 type: location
 summary: Not part of Heng, mentioned as a possible origin point for the fiery lizards.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

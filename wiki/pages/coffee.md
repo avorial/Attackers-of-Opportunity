@@ -3,9 +3,9 @@ name: coffee
 category: item
 type: item
 summary: Referred to as 'morning juice' and 'magic'.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

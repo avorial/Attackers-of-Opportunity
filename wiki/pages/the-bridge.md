@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A location where the party previously crossed and where Gerard and
   Palanor joined them.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Temporary hit points
 category: item
 type: item
 summary: Chris has 5 temporary hit points that absorb some damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

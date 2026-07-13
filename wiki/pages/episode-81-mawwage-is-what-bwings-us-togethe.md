@@ -3,9 +3,9 @@ name: "Episode 81: Mawwage is what bwings us togethe"
 category: event
 type: event
 summary: Dickey casts Hold Person on Buff Rogers and the house guard.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

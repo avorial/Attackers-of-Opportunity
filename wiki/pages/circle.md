@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A central gathering area in the village where the shaman sits and
   challenges occur.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Necklace
 category: item
 type: item
 summary: Item with no control mechanism, possibly magical.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

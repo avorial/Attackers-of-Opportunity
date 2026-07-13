@@ -3,9 +3,9 @@ name: Fireball
 category: item
 type: item
 summary: A spell cast to target two rats with a downwind strategy.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

@@ -3,9 +3,9 @@ name: Astral Self
 category: item
 type: item
 summary: Spell granting 10-foot reach and radiant damage.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

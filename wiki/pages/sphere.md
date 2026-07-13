@@ -3,9 +3,9 @@ name: Sphere
 category: item
 type: item
 summary: A single-glyph object tied to the Prime Material Plane.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

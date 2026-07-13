@@ -3,9 +3,9 @@ name: Mobile Wind Unit
 category: item
 type: item
 summary: Belonged to a necromancer; used to keep cool.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

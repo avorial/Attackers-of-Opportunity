@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Location where cows were initially encountered. The dwarves mention
   cows returning to the graveyard repeatedly.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

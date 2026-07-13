@@ -3,9 +3,9 @@ name: armor (plates)
 category: item
 type: item
 summary: Dorian stows away his armor for safekeeping after losing his saucer.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

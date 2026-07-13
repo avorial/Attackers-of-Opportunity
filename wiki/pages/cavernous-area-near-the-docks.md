@@ -4,9 +4,9 @@ category: location
 type: location
 summary: A private beach-like area near the city walls at the river, with
   cleared spaces away from the walls.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

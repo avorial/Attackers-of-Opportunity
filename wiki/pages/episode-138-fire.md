@@ -4,9 +4,9 @@ category: event
 type: event
 summary: Varang's arbalists fire a double-barreled volley at Black Fang's ship
   as it approaches.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

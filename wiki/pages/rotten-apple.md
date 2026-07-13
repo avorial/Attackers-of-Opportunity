@@ -3,9 +3,9 @@ name: Rotten apple
 category: item
 type: item
 summary: A partially eaten, mushy apple found in Clemen's room.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

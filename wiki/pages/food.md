@@ -4,9 +4,9 @@ category: item
 type: item
 summary: Central to discussions about distribution and fairness among goblins
   and hobgoblins.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated

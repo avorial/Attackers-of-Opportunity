@@ -4,9 +4,9 @@ category: location
 type: location
 summary: Underground cavern housing a 30-35 ft tall three-armed, three-legged
   beast with a gaping maw.
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 tags:
   - generated
