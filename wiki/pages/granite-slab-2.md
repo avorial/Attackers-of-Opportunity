@@ -9,8 +9,10 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Granite slab"
+  - "granite-slab"
 ---
 
 ## Description
@@ -22,3 +24,23 @@ importedFrom: Attackers of Opportunity wiki pipeline
 **First appearance:** [[episode-133-how-to-make-friends|Episode 133: How to MAKE Friends...]]
 
 - [[episode-133-how-to-make-friends|Episode 133: How to MAKE Friends...]]
+
+## Merged Duplicate Notes
+
+### Notes from Granite slab
+
+_Source page: `granite-slab.md`_
+
+## Description
+
+- A restaurant in the deep city.
+
+## Owner(s)
+
+- unknown
+
+## Appearances
+
+**First appearance:** [[episode-119-fans-of-the-lde|Episode 119: Fans of the LDE]]
+
+- [[episode-119-fans-of-the-lde|Episode 119: Fans of the LDE]]

@@ -10,8 +10,10 @@ keyLinks: []
 tags:
   - generated
   - character
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Zarin"
+  - "zarin-2"
 ---
 
 *Type unclear from transcript*
@@ -37,3 +39,23 @@ importedFrom: Attackers of Opportunity wiki pipeline
 **First appearance:** [[episode-89-rewards|Episode 89: Rewards]]
 
 - [[episode-89-rewards|Episode 89: Rewards]]
+
+## Also Called
+
+This page may also be called .
+
+## Merged Duplicate Notes
+
+### Notes from Zarin
+
+_Source page: `zarin-2.md`_
+
+## Description
+
+- A destination requested by Barrios to be taken to before a ritual occurs.
+
+## Appearances
+
+**First appearance:** [[episode-124-i-ve-come-to-barter-not-battle|Episode 124: I've Come to Barter, not Battle.]]
+
+- [[episode-124-i-ve-come-to-barter-not-battle|Episode 124: I've Come to Barter, not Battle.]]

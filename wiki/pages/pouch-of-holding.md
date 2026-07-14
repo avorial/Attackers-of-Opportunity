@@ -9,8 +9,10 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Pouch of Holding (Potions)"
+  - "pouch-of-holding-potions"
 ---
 
 ## Description
@@ -29,3 +31,27 @@ importedFrom: Attackers of Opportunity wiki pipeline
 
 - [[episode-125-or-not-to-be|Episode 125: ...or Not to Be]]
 - [[episode-127-have-you-no-respect|Episode 127: Have you no Respect]]
+
+## Also Called
+
+This page may also be called **Pouch of Holding (Potions)**.
+
+## Merged Duplicate Notes
+
+### Notes from Pouch of Holding (Potions)
+
+_Source page: `pouch-of-holding-potions.md`_
+
+## Description
+
+- Holds potions in a demi-plane; contents remain hidden until accessed.
+
+## Owner(s)
+
+- Mr. Trig
+
+## Appearances
+
+**First appearance:** [[episode-125-or-not-to-be|Episode 125: ...or Not to Be]]
+
+- [[episode-125-or-not-to-be|Episode 125: ...or Not to Be]]

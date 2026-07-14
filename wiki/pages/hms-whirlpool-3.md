@@ -11,8 +11,11 @@ keyLinks: []
 tags:
   - generated
   - ship
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "HMS Whirlpool"
+  - "hms-whirlpool"
+  - "hms-whirlpool-2"
 ---
 
 ## Description
@@ -26,3 +29,41 @@ importedFrom: Attackers of Opportunity wiki pipeline
 
 - [[side-quest-tabaxi-tales-part-1|Side Quest_ Tabaxi  Tales Part 1]]
 - [[side-quest-tabaxi-tales-part-2|Side Quest_ Tabaxi Tales Part 2]]
+
+## Also Called
+
+This page may also be called .
+
+## Merged Duplicate Notes
+
+### Notes from HMS Whirlpool
+
+_Source page: `hms-whirlpool.md`_
+
+## Description
+
+- The ship the party is trying to reach in the town dock.
+
+## Owner(s)
+
+- Party
+
+## Appearances
+
+**First appearance:** [[side-quest-tabaxi-tales-part-2|Side Quest_ Tabaxi Tales Part 2]]
+
+- [[side-quest-tabaxi-tales-part-2|Side Quest_ Tabaxi Tales Part 2]]
+
+### Notes from HMS Whirlpool
+
+_Source page: `hms-whirlpool-2.md`_
+
+## Description
+
+- A ship captained by Captain Cade. Mentioned as the location where the party's gear is stored.
+
+## Appearances
+
+**First appearance:** [[side-quest-tabaxi-tales-part-1|Side Quest_ Tabaxi  Tales Part 1]]
+
+- [[side-quest-tabaxi-tales-part-1|Side Quest_ Tabaxi  Tales Part 1]]

@@ -10,8 +10,10 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Silverthrust Estate"
+  - "silverthrust-estate"
 ---
 
 > **Possible duplicate of:** Silverthrust Estate -- unresolved, see possible_duplicates_review.md
@@ -29,3 +31,25 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-126-explosive-finale|Episode 126: Explosive Finale]]
 - [[episode-132-tickle-torture|Episode 132: Tickle Torture]]
 - [[episode-133-how-to-make-friends|Episode 133: How to MAKE Friends...]]
+
+## Also Called
+
+This page may also be called **Silverthrust Estate**.
+
+## Merged Duplicate Notes
+
+### Notes from Silverthrust Estate
+
+_Source page: `silverthrust-estate.md`_
+
+> **Possible duplicate of:** Silver Thrust Estate, Silvertho State Estate -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- The family estate of Berio Silverthress, where he passed away and was buried.
+
+## Appearances
+
+**First appearance:** [[episode-127-have-you-no-respect|Episode 127: Have you no Respect]]
+
+- [[episode-127-have-you-no-respect|Episode 127: Have you no Respect]]

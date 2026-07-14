@@ -10,8 +10,9 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "sapphires"
 ---
 
 > **Possible duplicate of:** Sapphires -- unresolved, see possible_duplicates_review.md
@@ -39,3 +40,29 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-129-facts-of-the-universe|Episode 129: Facts of the Universe]]
 - [[episode-130-party-time|Episode 130: Party Time]]
 - [[episode-131-r-and-r-rest-and-research|Episode 131: R&R - Rest & Research]]
+
+## Also Called
+
+This page may also be called **Sapphires**.
+
+## Merged Duplicate Notes
+
+### Notes from Sapphires
+
+_Source page: `sapphires.md`_
+
+> **Possible duplicate of:** Sapphire -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Embedded in the mural; magical anchors tied to blood magic.
+
+## Owner(s)
+
+- Turtle Clan
+
+## Appearances
+
+**First appearance:** [[side-quest-samurai-sunset-part-7|Side Quest_ Samurai Sunset Part 7]]
+
+- [[side-quest-samurai-sunset-part-7|Side Quest_ Samurai Sunset Part 7]]

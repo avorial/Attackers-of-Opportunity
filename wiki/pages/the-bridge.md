@@ -10,8 +10,9 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Bridge"
 ---
 
 ## Description
@@ -26,3 +27,27 @@ importedFrom: Attackers of Opportunity wiki pipeline
 
 - [[episode-49-terror-tunnel|Episode 49: Terror Tunnel]]
 - [[episode-51-meetings-and-secrets|Episode 51: Meetings and Secrets]]
+
+## Also Called
+
+This page may also be called **Bridge**.
+
+## Merged Duplicate Notes
+
+### Notes from Bridge
+
+_Source page: `bridge.md`_
+
+## Description
+
+- Partially mended, with 30 feet repaired; later collapses partially.
+
+## Owner(s)
+
+- Group
+
+## Appearances
+
+**First appearance:** [[episode-47-crouching-dickie-hidden-dorian|Episode 47: Crouching Dickie, Hidden Dorian]]
+
+- [[episode-47-crouching-dickie-hidden-dorian|Episode 47: Crouching Dickie, Hidden Dorian]]

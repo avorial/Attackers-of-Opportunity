@@ -10,8 +10,10 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "magic stones"
+  - "magic-stones"
 ---
 
 > **Possible duplicate of:** magic stones -- unresolved, see possible_duplicates_review.md
@@ -32,3 +34,29 @@ importedFrom: Attackers of Opportunity wiki pipeline
 
 - [[episode-52-intel-check|Episode 52: Intel Check]]
 - [[side-quest-home-of-the-venerable-wa-2|Side Quest_ Home of the Venerable Wa 2]]
+
+## Also Called
+
+This page may also be called **magic stones**.
+
+## Merged Duplicate Notes
+
+### Notes from magic stones
+
+_Source page: `magic-stones.md`_
+
+> **Possible duplicate of:** Magic stone -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Stones with magical properties; three have been acquired, with leads on a fourth and fifth.
+
+## Owner(s)
+
+- Maeve (trading with Pal)
+
+## Appearances
+
+**First appearance:** [[episode-75-best-pal|Episode 75: Best Pal]]
+
+- [[episode-75-best-pal|Episode 75: Best Pal]]

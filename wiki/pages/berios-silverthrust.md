@@ -10,8 +10,12 @@ keyLinks: []
 tags:
   - generated
   - character
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Berio Silverthress"
+  - "berio-silverthress"
+  - "Berios Silverthrost"
+  - "berios-silverthrost"
 ---
 
 *Type unclear from transcript*
@@ -41,3 +45,69 @@ importedFrom: Attackers of Opportunity wiki pipeline
 
 - [[episode-129-facts-of-the-universe|Episode 129: Facts of the Universe]]
 - [[episode-134-dangerous-secrets|Episode 134: Dangerous Secrets]]
+
+## Also Called
+
+This page may also be called **Berios Silverthrost**, **Berio Silverthress**.
+
+## Merged Duplicate Notes
+
+### Notes from Berios Silverthrost
+
+_Source page: `berios-silverthrost.md`_
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Barrios Silverthrust, Berio Silverthress, Berios Silverthrust -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A dwarf and cleric of tempest who was part of the group that defeated the necromancer king.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-24-consequences|Episode 24: Consequences]]
+
+- [[episode-24-consequences|Episode 24: Consequences]]
+
+### Notes from Berio Silverthress
+
+_Source page: `berio-silverthress.md`_
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Berio Silverthress's Son, Berios Silverthrust, Berios Silverthrost -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- An ancient hero who fought the necromancer lord, aged rapidly due to the destruction of a necromantic artifact, and passed away at his family estate in Knoss.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-127-have-you-no-respect|Episode 127: Have you no Respect]]
+
+- [[episode-127-have-you-no-respect|Episode 127: Have you no Respect]]

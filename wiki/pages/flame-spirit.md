@@ -10,8 +10,10 @@ keyLinks: []
 tags:
   - generated
   - character
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Flame Spirit"
+  - "flame-spirit-2"
 ---
 
 *Type unclear from transcript*
@@ -37,3 +39,27 @@ importedFrom: Attackers of Opportunity wiki pipeline
 **First appearance:** [[episode-138-fire|Episode 138: Fire!!!]]
 
 - [[episode-138-fire|Episode 138: Fire!!!]]
+
+## Also Called
+
+This page may also be called .
+
+## Merged Duplicate Notes
+
+### Notes from Flame Spirit
+
+_Source page: `flame-spirit-2.md`_
+
+## Description
+
+- A magical entity targeted by attacks and critted.
+
+## Owner(s)
+
+- Moonbeam (inferred)
+
+## Appearances
+
+**First appearance:** [[episode-121-dark-alley-negotiation|Episode 121: Dark Alley Negotiation]]
+
+- [[episode-121-dark-alley-negotiation|Episode 121: Dark Alley Negotiation]]

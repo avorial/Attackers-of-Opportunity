@@ -10,8 +10,10 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Elvin Chain Shirt"
+  - "elvin-chain-shirt"
 ---
 
 > **Possible duplicate of:** Elvin Chain Shirt -- unresolved, see possible_duplicates_review.md
@@ -33,3 +35,29 @@ importedFrom: Attackers of Opportunity wiki pipeline
 
 - [[episode-88-glitter-casually|Episode 88: Glitter Casually]]
 - [[episode-114-jaso-jazz|Episode 114: Jaso Jazz]]
+
+## Also Called
+
+This page may also be called **Elvin Chain Shirt**.
+
+## Merged Duplicate Notes
+
+### Notes from Elvin Chain Shirt
+
+_Source page: `elvin-chain-shirt.md`_
+
+> **Possible duplicate of:** Elven Chain Shirt, Alvin Change Shirt -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- An item for sale at Smelt My Heart.
+
+## Owner(s)
+
+- Smelt My Heart (armorsmith Camille)
+
+## Appearances
+
+**First appearance:** [[episode-18-who-s-dorian-s-daddy|Episode 18: Who's Dorian's Daddy]]
+
+- [[episode-18-who-s-dorian-s-daddy|Episode 18: Who's Dorian's Daddy]]

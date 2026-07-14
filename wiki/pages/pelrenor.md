@@ -10,8 +10,10 @@ keyLinks: []
 tags:
   - generated
   - player-character
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "pelornor"
+  - "pelrnor"
 ---
 
 *Type unclear from transcript*
@@ -55,3 +57,69 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-49-terror-tunnel|Episode 49: Terror Tunnel]]
 - [[episode-51-meetings-and-secrets|Episode 51: Meetings and Secrets]]
 - [[episode-54-tapestry|Episode 54: Tapestry]]
+
+## Also Called
+
+This page may also be called **Pelrnor**, **Pelornor**.
+
+## Merged Duplicate Notes
+
+### Notes from Pelrnor
+
+_Source page: `pelrnor.md`_
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Pelvernor, Pelrenor, Pelornor, Pelrionor, Pelrinoar -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A member of the Golden Circle, described as having been closer to the party than others.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-95-travelling-today|Episode 95: Travelling Today]]
+
+- [[episode-95-travelling-today|Episode 95: Travelling Today]]
+
+### Notes from Pelornor
+
+_Source page: `pelornor.md`_
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Pelvernor, Pelrenor, Pelrionor, Pelrinoar, Pelrnor -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+*(none extracted)*
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-22-grief|Episode 22: Grief]]
+
+- [[episode-22-grief|Episode 22: Grief]]

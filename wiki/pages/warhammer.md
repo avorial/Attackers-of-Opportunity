@@ -10,8 +10,10 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "War Hammer"
+  - "war-hammer"
 ---
 
 > **Possible duplicate of:** War Hammer -- unresolved, see possible_duplicates_review.md
@@ -23,6 +25,28 @@ importedFrom: Attackers of Opportunity wiki pipeline
 ## Owner(s)
 
 - Player (Maurice)
+
+## Appearances
+
+**First appearance:** [[side-quest-home-of-the-venerable-wa|Side Quest_ Home of the Venerable Wa]]
+
+- [[side-quest-home-of-the-venerable-wa|Side Quest_ Home of the Venerable Wa]]
+
+## Also Called
+
+This page may also be called **War Hammer**.
+
+## Merged Duplicate Notes
+
+### Notes from War Hammer
+
+_Source page: `war-hammer.md`_
+
+> **Possible duplicate of:** Warhammer -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Being repaired by someone in the group.
 
 ## Appearances
 

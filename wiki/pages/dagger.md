@@ -9,8 +9,9 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "daggers"
 ---
 
 > **Possible duplicate of:** Daggers -- unresolved, see possible_duplicates_review.md
@@ -70,3 +71,29 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[side-quest-bloody-hand-part-2|Side Quest - Bloody Hand Part 2]]
 - [[side-quest-samurai-sunset-part-3|Side Quest_ Samurai Sunset part 3]]
 - [[side-quest-tabaxi-tales-part-2|Side Quest_ Tabaxi Tales Part 2]]
+
+## Also Called
+
+This page may also be called **Daggers**.
+
+## Merged Duplicate Notes
+
+### Notes from Daggers
+
+_Source page: `daggers.md`_
+
+> **Possible duplicate of:** Dagger -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Used in the sparring match between Maeve and Pelremor.
+
+## Owner(s)
+
+- Maeve
+
+## Appearances
+
+**First appearance:** [[episode-50-hymns-of-rao|Episode 50: Hymns of Rao]]
+
+- [[episode-50-hymns-of-rao|Episode 50: Hymns of Rao]]

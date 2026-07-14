@@ -10,8 +10,12 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Green Stone"
+  - "Green Stone (Cloak Clasp)"
+  - "green-stone"
+  - "green-stone-cloak-clasp"
 ---
 
 > **Possible duplicate of:** Green stone rings, Green Stone, Fake green stones, Green Gemstones -- unresolved, see possible_duplicates_review.md
@@ -47,3 +51,47 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-76-the-citadel-hotel|Episode 76: The Citadel Hotel]]
 - [[episode-78-rehearsal-dinner|Episode 78: Rehearsal Dinner]]
 - [[episode-82-trust-me-i-have-a-plan|Episode 82: Trust me, I have a Plan!]]
+
+## Also Called
+
+This page may also be called **Green Stone**, **Green Stone (Cloak Clasp)**.
+
+## Merged Duplicate Notes
+
+### Notes from Green Stone
+
+_Source page: `green-stone.md`_
+
+> **Possible duplicate of:** Green stones, Green Gemstones -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Stolen from a hill giant warrior's bag during a pickpocketing attempt.
+
+## Owner(s)
+
+- Maeve
+
+## Appearances
+
+**First appearance:** [[episode-45-the-smell-of-success|Episode 45: The Smell of Success]]
+
+- [[episode-45-the-smell-of-success|Episode 45: The Smell of Success]]
+
+### Notes from Green Stone (Cloak Clasp)
+
+_Source page: `green-stone-cloak-clasp.md`_
+
+## Description
+
+- Used by Valak to avoid suspicion from guards.
+
+## Owner(s)
+
+- Valak
+
+## Appearances
+
+**First appearance:** [[episode-74-stake-outs|Episode 74: Stake Outs]]
+
+- [[episode-74-stake-outs|Episode 74: Stake Outs]]

@@ -10,8 +10,12 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Platinum Ring"
+  - "Platinum Rings"
+  - "platinum-ring-2"
+  - "platinum-rings"
 ---
 
 > **Possible duplicate of:** Platinum Coin, Platinum Rings -- unresolved, see possible_duplicates_review.md
@@ -90,3 +94,46 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-130-party-time|Episode 130: Party Time]]
 - [[episode-133-how-to-make-friends|Episode 133: How to MAKE Friends...]]
 - [[episode-135-pirate-for-a-day|Episode 135: Pirate for a Day!]]
+
+## Also Called
+
+This page may also be called **Platinum Rings**.
+
+## Merged Duplicate Notes
+
+### Notes from Platinum Ring
+
+_Source page: `platinum-ring-2.md`_
+
+## Description
+
+- A group or organization that Maeve and others plan to join.
+
+## Appearances
+
+**First appearance:** [[episode-93-maeve-s-day|Episode 93: Maeve's Day]]
+
+- [[episode-93-maeve-s-day|Episode 93: Maeve's Day]]
+
+### Notes from Platinum Rings
+
+_Source page: `platinum-rings.md`_
+
+> **Possible duplicate of:** Platinum Ring -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Suggested as matching rings for the party, though funds are limited.
+- Symbolic rings given to the Platinum Ring group by Yolanda, representing their vow to protect the weak and uphold justice.
+
+## Owner(s)
+
+- Party
+- Yolanda
+
+## Appearances
+
+**First appearance:** [[episode-19-bureaucracy-at-its-finest|Episode 19: Bureaucracy at its Finest]]
+
+- [[episode-19-bureaucracy-at-its-finest|Episode 19: Bureaucracy at its Finest]]
+- [[episode-87-repercussions|Episode 87: Repercussions]]

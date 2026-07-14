@@ -10,8 +10,12 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "god-s-eye-2"
+  - "God's Eye"
+  - "Gods Eye"
+  - "gods-eye"
 ---
 
 > **Possible duplicate of:** Gods Eye -- unresolved, see possible_duplicates_review.md
@@ -41,3 +45,50 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-97-dark-dreams|Episode 97: Dark Dreams]]
 - [[episode-106-live-get-to-the-tower|Episode 106: LIVE! Get to the Tower!!]]
 - [[episode-109-where-do-we-go-from-here|Episode 109: Where do we go from here]]
+
+## Also Called
+
+This page may also be called **Gods Eye**.
+
+## Merged Duplicate Notes
+
+### Notes from God's Eye
+
+_Source page: `god-s-eye-2.md`_
+
+## Description
+
+- A half-dome chamber at the top of the Citadel, described as calm and peaceful upon arrival.
+- A location tied to the 'stone of intellect' being attuned to it.
+- Magical construct in the Citadel's tower that allows viewing the land for miles around.
+- A tower referenced as a potential artifact location.
+- A part of the tower where Valak initially plans to sleep; later corrected to be within the tower.
+
+## Appearances
+
+**First appearance:** [[episode-51-meetings-and-secrets|Episode 51: Meetings and Secrets]]
+
+- [[episode-51-meetings-and-secrets|Episode 51: Meetings and Secrets]]
+- [[episode-54-tapestry|Episode 54: Tapestry]]
+- [[episode-96-shadow-players|Episode 96: Shadow Players]]
+- [[episode-124-i-ve-come-to-barter-not-battle|Episode 124: I've Come to Barter, not Battle.]]
+
+### Notes from Gods Eye
+
+_Source page: `gods-eye.md`_
+
+> **Possible duplicate of:** God's Eye -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A telescope located in the Citadel. Described as a significant location for observation.
+
+## Owner(s)
+
+- Citadel (location)
+
+## Appearances
+
+**First appearance:** [[episode-95-travelling-today|Episode 95: Travelling Today]]
+
+- [[episode-95-travelling-today|Episode 95: Travelling Today]]

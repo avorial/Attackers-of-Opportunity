@@ -9,8 +9,9 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "arrows"
 ---
 
 > **Possible duplicate of:** Arrows -- unresolved, see possible_duplicates_review.md
@@ -34,3 +35,32 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-8-the-path-south|Episode 8: The Path South]]
 - [[episode-37-infiltration|Episode 37: Infiltration]]
 - [[episode-84-ah-ha-just-as-i-planned|Episode 84: Ah Ha! Just as I planned!]]
+
+## Also Called
+
+This page may also be called **Arrows**.
+
+## Merged Duplicate Notes
+
+### Notes from Arrows
+
+_Source page: `arrows.md`_
+
+> **Possible duplicate of:** Arrow -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Used by Mabe to kill the last ant.
+- Found on three of the four dead goblins at the stead holder compound.
+
+## Owner(s)
+
+- Mabe
+- Goblins
+
+## Appearances
+
+**First appearance:** [[episode-7-there-was-something-in-the-air-tha|Episode 7: There was something in the air tha]]
+
+- [[episode-7-there-was-something-in-the-air-tha|Episode 7: There was something in the air tha]]
+- [[episode-59-dive-dive-dive|Episode 59: Dive, dive, dive]]

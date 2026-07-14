@@ -10,8 +10,10 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Magical Tomes"
+  - "magical-tomes"
 ---
 
 > **Possible duplicate of:** Magical Tomes -- unresolved, see possible_duplicates_review.md
@@ -25,3 +27,29 @@ importedFrom: Attackers of Opportunity wiki pipeline
 **First appearance:** [[episode-45-the-smell-of-success|Episode 45: The Smell of Success]]
 
 - [[episode-45-the-smell-of-success|Episode 45: The Smell of Success]]
+
+## Also Called
+
+This page may also be called **Magical Tomes**.
+
+## Merged Duplicate Notes
+
+### Notes from Magical Tomes
+
+_Source page: `magical-tomes.md`_
+
+> **Possible duplicate of:** magical tome -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Recovered from the wizard's tower and presented to King Eero.
+
+## Owner(s)
+
+- King Eero
+
+## Appearances
+
+**First appearance:** [[side-quest-bloody-hand-part-4|Side Quest - Bloody Hand Part 4]]
+
+- [[side-quest-bloody-hand-part-4|Side Quest - Bloody Hand Part 4]]

@@ -10,8 +10,10 @@ keyLinks: []
 tags:
   - generated
   - player-character
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Dirt"
+  - "dirt-2"
 ---
 
 *Type unclear from transcript*
@@ -107,3 +109,27 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-84-ah-ha-just-as-i-planned|Episode 84: Ah Ha! Just as I planned!]]
 - [[episode-85-i-love-it-when-a-plan-comes-toget|Episode 85: I love it when a plan comes toget]]
 - [[episode-87-repercussions|Episode 87: Repercussions]]
+
+## Also Called
+
+This page may also be called .
+
+## Merged Duplicate Notes
+
+### Notes from Dirt
+
+_Source page: `dirt-2.md`_
+
+## Description
+
+- Used to extinguish fire during the magical experiment.
+
+## Owner(s)
+
+- Dorian (implied through dialogue).
+
+## Appearances
+
+**First appearance:** [[episode-3-hunter-s-mark|Episode 3: Hunter's Mark]]
+
+- [[episode-3-hunter-s-mark|Episode 3: Hunter's Mark]]

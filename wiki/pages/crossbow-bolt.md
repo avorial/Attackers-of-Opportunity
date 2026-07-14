@@ -10,8 +10,10 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Crossbow Bolts"
+  - "crossbow-bolts"
 ---
 
 > **Possible duplicate of:** Crossbow Bolts -- unresolved, see possible_duplicates_review.md
@@ -32,3 +34,32 @@ importedFrom: Attackers of Opportunity wiki pipeline
 
 - [[episode-1-and-the-adventure-begins|Episode 1: And the Adventure Begins...]]
 - [[side-quest-golden-circle-part-2|Side Quest_ Golden Circle Part 2]]
+
+## Also Called
+
+This page may also be called **Crossbow Bolts**.
+
+## Merged Duplicate Notes
+
+### Notes from Crossbow Bolts
+
+_Source page: `crossbow-bolts.md`_
+
+> **Possible duplicate of:** Crossbow Bolt -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Used by sailors to attack enemies, later abandoned when they flee.
+- Used by goblins to ambush the party; one hits Pelrenor for 6 damage.
+
+## Owner(s)
+
+- Sailors
+- Goblin
+
+## Appearances
+
+**First appearance:** [[episode-9-spelunking|Episode 9: Spelunking]]
+
+- [[episode-9-spelunking|Episode 9: Spelunking]]
+- [[episode-138-fire|Episode 138: Fire!!!]]

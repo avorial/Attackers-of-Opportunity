@@ -9,8 +9,9 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "scrolls"
 ---
 
 > **Possible duplicate of:** Scrolls -- unresolved, see possible_duplicates_review.md
@@ -28,3 +29,29 @@ importedFrom: Attackers of Opportunity wiki pipeline
 **First appearance:** [[episode-66-the-scent-of-evil|Episode 66: The Scent of Evil]]
 
 - [[episode-66-the-scent-of-evil|Episode 66: The Scent of Evil]]
+
+## Also Called
+
+This page may also be called **Scrolls**.
+
+## Merged Duplicate Notes
+
+### Notes from Scrolls
+
+_Source page: `scrolls.md`_
+
+> **Possible duplicate of:** Scroll -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Ancient scrolls being preserved or restored by Dorian and Maeve.
+
+## Owner(s)
+
+- Dorian and Maeve
+
+## Appearances
+
+**First appearance:** [[episode-34-shrooms|Episode 34: Shrooms]]
+
+- [[episode-34-shrooms|Episode 34: Shrooms]]

@@ -10,8 +10,10 @@ keyLinks: []
 tags:
   - generated
   - character
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Aubrey"
+  - "aubrey-2"
 ---
 
 *Type unclear from transcript*
@@ -67,3 +69,30 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-106-live-get-to-the-tower|Episode 106: LIVE! Get to the Tower!!]]
 - [[episode-107-live-dark-blades|Episode 107: LIVE! Dark Blades]]
 - [[episode-112-life-s-dawning|Episode 112: Life's Dawning]]
+
+## Also Called
+
+This page may also be called .
+
+## Merged Duplicate Notes
+
+### Notes from Aubrey
+
+_Source page: `aubrey-2.md`_
+
+## Description
+
+- A dog mentioned as a companion to the party, noted for snoring and being a reluctant pet.
+- A companion creature wrapped around Valak's shoulder.
+
+## Owner(s)
+
+- unknown
+- Valak
+
+## Appearances
+
+**First appearance:** [[episode-30-double-rainbows|Episode 30: Double Rainbows]]
+
+- [[episode-30-double-rainbows|Episode 30: Double Rainbows]]
+- [[episode-42-a-giant-problem|Episode 42: A Giant Problem]]

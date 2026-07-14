@@ -10,8 +10,10 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "season-s-glade"
+  - "Season's Glade"
 ---
 
 > **Possible duplicate of:** Season's Glade, Seasons Lake, Season Slade, Seasons Blade -- unresolved, see possible_duplicates_review.md
@@ -65,3 +67,31 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-78-rehearsal-dinner|Episode 78: Rehearsal Dinner]]
 - [[episode-86-let-s-make-a-deal|Episode 86: Let's make a deal...]]
 - [[episode-109-where-do-we-go-from-here|Episode 109: Where do we go from here]]
+
+## Also Called
+
+This page may also be called **Season's Glade**.
+
+## Merged Duplicate Notes
+
+### Notes from Season's Glade
+
+_Source page: `season-s-glade.md`_
+
+> **Possible duplicate of:** Seasons Glade, Seasons Lake, Season Slade, Seasons Blade -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A location mentioned as being a couple of hours away from the current position.
+- The elven capital of the country of Tabahia
+- A location mentioned as the place where the group will be leaving.
+- A location where research can be conducted. Mentioned as a potential destination for exploration.
+
+## Appearances
+
+**First appearance:** [[episode-17-tub-time|Episode 17: Tub Time]]
+
+- [[episode-17-tub-time|Episode 17: Tub Time]]
+- [[episode-61-reverse-order|Episode 61: Reverse Order]]
+- [[episode-93-maeve-s-day|Episode 93: Maeve's Day]]
+- [[episode-106-live-get-to-the-tower|Episode 106: LIVE! Get to the Tower!!]]

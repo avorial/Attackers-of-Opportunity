@@ -1,0 +1,623 @@
+{
+  "generatedAt": "2026-07-14T00:15:18.809Z",
+  "groups": [
+    {
+      "keep": "golden-circle-2",
+      "removed": [
+        "golden-circle",
+        "golden-circle-3",
+        "the-golden-circle"
+      ]
+    },
+    {
+      "keep": "god-s-eye",
+      "removed": [
+        "god-s-eye-2",
+        "gods-eye"
+      ]
+    },
+    {
+      "keep": "hms-whirlpool-3",
+      "removed": [
+        "hms-whirlpool",
+        "hms-whirlpool-2"
+      ]
+    },
+    {
+      "keep": "moonbeam",
+      "removed": [
+        "moonbeam-2",
+        "moonbeam-3"
+      ]
+    },
+    {
+      "keep": "aubrey",
+      "removed": [
+        "aubrey-2"
+      ]
+    },
+    {
+      "keep": "bear-clan",
+      "removed": [
+        "bear-clan-2"
+      ]
+    },
+    {
+      "keep": "black-fang-s-ship-2",
+      "removed": [
+        "black-fang-s-ship"
+      ]
+    },
+    {
+      "keep": "dirk",
+      "removed": [
+        "dirk-2"
+      ]
+    },
+    {
+      "keep": "dirt",
+      "removed": [
+        "dirt-2"
+      ]
+    },
+    {
+      "keep": "flame-spirit",
+      "removed": [
+        "flame-spirit-2"
+      ]
+    },
+    {
+      "keep": "goblins-2",
+      "removed": [
+        "goblins",
+        "goblin"
+      ]
+    },
+    {
+      "keep": "jasso",
+      "removed": [
+        "jasso-2"
+      ]
+    },
+    {
+      "keep": "jossa",
+      "removed": [
+        "jossa-2"
+      ]
+    },
+    {
+      "keep": "seasons-glade",
+      "removed": [
+        "season-s-glade"
+      ]
+    },
+    {
+      "keep": "turtle-clan",
+      "removed": [
+        "turtle-clan-2"
+      ]
+    },
+    {
+      "keep": "warg-pens-2",
+      "removed": [
+        "warg-pens"
+      ]
+    },
+    {
+      "keep": "wizard-s-tower-2",
+      "removed": [
+        "wizard-s-tower"
+      ]
+    },
+    {
+      "keep": "zarin",
+      "removed": [
+        "zarin-2"
+      ]
+    },
+    {
+      "keep": "hill-giants-territory",
+      "removed": [
+        "hill-giant-territory"
+      ]
+    },
+    {
+      "keep": "necromancer-artifacts",
+      "removed": [
+        "necromancer-artifact"
+      ]
+    },
+    {
+      "keep": "cloak-of-protection",
+      "removed": [
+        "cloaks-of-protection"
+      ]
+    },
+    {
+      "keep": "silver-thrust-estate",
+      "removed": [
+        "silverthrust-estate"
+      ]
+    },
+    {
+      "keep": "berios-silverthrust",
+      "removed": [
+        "berios-silverthrost",
+        "berio-silverthress"
+      ]
+    },
+    {
+      "keep": "boots-of-elvenkind",
+      "removed": [
+        "boots-of-elven-kind",
+        "boots-of-elvin-kyn"
+      ]
+    },
+    {
+      "keep": "cloak-of-elvenkind",
+      "removed": [
+        "cloak-of-elven-kind",
+        "cloak-of-elvin-kyn"
+      ]
+    },
+    {
+      "keep": "flaming-greatsword",
+      "removed": [
+        "flaming-great-sword"
+      ]
+    },
+    {
+      "keep": "ring-of-protection",
+      "removed": [
+        "rings-of-protection"
+      ]
+    },
+    {
+      "keep": "sanctum-of-the-lake",
+      "removed": [
+        "sanctum-on-the-lake"
+      ]
+    },
+    {
+      "keep": "wedding-invitation",
+      "removed": [
+        "wedding-invitations"
+      ]
+    },
+    {
+      "keep": "captain-blackfang",
+      "removed": [
+        "captain-black-fang"
+      ]
+    },
+    {
+      "keep": "elven-chain-shirt",
+      "removed": [
+        "elvin-chain-shirt"
+      ]
+    },
+    {
+      "keep": "flanged-mace-head",
+      "removed": [
+        "flange-mace-head"
+      ]
+    },
+    {
+      "keep": "green-stone-ring",
+      "removed": [
+        "greenstone-ring",
+        "green-stone-rings"
+      ]
+    },
+    {
+      "keep": "council-chambers",
+      "removed": [
+        "council-chamber"
+      ]
+    },
+    {
+      "keep": "sleeping-potion",
+      "removed": [
+        "sleeping-potions"
+      ]
+    },
+    {
+      "keep": "spirit-guardians",
+      "removed": [
+        "spirit-guardian"
+      ]
+    },
+    {
+      "keep": "bag-of-holding",
+      "removed": [
+        "bags-of-holding",
+        "bag-of-holding-type-i",
+        "bag-of-holding-crown-royal"
+      ]
+    },
+    {
+      "keep": "healing-potion",
+      "removed": [
+        "healing-potions",
+        "healing-potion-partial",
+        "healing-potions-siobhan-s-inventory"
+      ]
+    },
+    {
+      "keep": "lady-veronestra",
+      "removed": [
+        "lady-verinestra"
+      ]
+    },
+    {
+      "keep": "magical-circle",
+      "removed": [
+        "magical-circles"
+      ]
+    },
+    {
+      "keep": "crossbow-bolt",
+      "removed": [
+        "crossbow-bolts"
+      ]
+    },
+    {
+      "keep": "dragon-scales",
+      "removed": [
+        "dragon-scale",
+        "dragon-s-scales"
+      ]
+    },
+    {
+      "keep": "necrotic-runes",
+      "removed": [
+        "necrotic-rune"
+      ]
+    },
+    {
+      "keep": "platinum-ring",
+      "removed": [
+        "platinum-ring-2",
+        "platinum-rings"
+      ]
+    },
+    {
+      "keep": "ritual-circle",
+      "removed": [
+        "ritual-circles"
+      ]
+    },
+    {
+      "keep": "sending-stones",
+      "removed": [
+        "sending-stone"
+      ]
+    },
+    {
+      "keep": "solana-jolyman",
+      "removed": [
+        "solana-joleman",
+        "solana"
+      ]
+    },
+    {
+      "keep": "bag-of-coins",
+      "removed": [
+        "bags-of-coins"
+      ]
+    },
+    {
+      "keep": "floating-disk",
+      "removed": [
+        "floating-disc"
+      ]
+    },
+    {
+      "keep": "magical-tome",
+      "removed": [
+        "magical-tomes"
+      ]
+    },
+    {
+      "keep": "spiked-shield",
+      "removed": [
+        "spike-shield",
+        "spiky-shield"
+      ]
+    },
+    {
+      "keep": "green-stones",
+      "removed": [
+        "green-stone",
+        "green-stone-cloak-clasp"
+      ]
+    },
+    {
+      "keep": "masai-river",
+      "removed": [
+        "maasai-river"
+      ]
+    },
+    {
+      "keep": "magic-stone",
+      "removed": [
+        "magic-stones"
+      ]
+    },
+    {
+      "keep": "prayer-beads",
+      "removed": [
+        "prayer-bead"
+      ]
+    },
+    {
+      "keep": "short-sword",
+      "removed": [
+        "short-swords"
+      ]
+    },
+    {
+      "keep": "sister-daria",
+      "removed": [
+        "sister-dara"
+      ]
+    },
+    {
+      "keep": "acid-arrow",
+      "removed": [
+        "acid-arrows"
+      ]
+    },
+    {
+      "keep": "coin-purse",
+      "removed": [
+        "coin-purses"
+      ]
+    },
+    {
+      "keep": "greatsword",
+      "removed": [
+        "great-sword"
+      ]
+    },
+    {
+      "keep": "heroes-rest",
+      "removed": [
+        "hero-s-rest"
+      ]
+    },
+    {
+      "keep": "hill-giants",
+      "removed": [
+        "hill-giant"
+      ]
+    },
+    {
+      "keep": "wyvern-eyes",
+      "removed": [
+        "wyvern-eye"
+      ]
+    },
+    {
+      "keep": "gold-coins",
+      "removed": [
+        "gold-coin",
+        "gold-coin-non-standard"
+      ]
+    },
+    {
+      "keep": "green-gems",
+      "removed": [
+        "green-gem",
+        "green-gem-ring"
+      ]
+    },
+    {
+      "keep": "luckstone",
+      "removed": [
+        "luck-stone"
+      ]
+    },
+    {
+      "keep": "wakazashi",
+      "removed": [
+        "wakasashi",
+        "wakazashis"
+      ]
+    },
+    {
+      "keep": "warhammer",
+      "removed": [
+        "war-hammer"
+      ]
+    },
+    {
+      "keep": "firebolt",
+      "removed": [
+        "fire-bolt"
+      ]
+    },
+    {
+      "keep": "gauntlets",
+      "removed": [
+        "gauntlet"
+      ]
+    },
+    {
+      "keep": "ironsong",
+      "removed": [
+        "iron-song"
+      ]
+    },
+    {
+      "keep": "lake-bryn",
+      "removed": [
+        "lake-brin"
+      ]
+    },
+    {
+      "keep": "sapphire",
+      "removed": [
+        "sapphires"
+      ]
+    },
+    {
+      "keep": "shortbow",
+      "removed": [
+        "short-bow",
+        "shortbows"
+      ]
+    },
+    {
+      "keep": "vineyard",
+      "removed": [
+        "vineyards"
+      ]
+    },
+    {
+      "keep": "bedroll",
+      "removed": [
+        "bedrolls"
+      ]
+    },
+    {
+      "keep": "harpoon",
+      "removed": [
+        "harpoons"
+      ]
+    },
+    {
+      "keep": "javelin",
+      "removed": [
+        "javelins"
+      ]
+    },
+    {
+      "keep": "spear",
+      "removed": [
+        "spears"
+      ]
+    },
+    {
+      "keep": "dagger",
+      "removed": [
+        "daggers"
+      ]
+    },
+    {
+      "keep": "candle",
+      "removed": [
+        "candles"
+      ]
+    },
+    {
+      "keep": "scroll",
+      "removed": [
+        "scrolls"
+      ]
+    },
+    {
+      "keep": "arrow",
+      "removed": [
+        "arrows"
+      ]
+    },
+    {
+      "keep": "tabaxi",
+      "removed": [
+        "tavaxi"
+      ]
+    },
+    {
+      "keep": "redcag",
+      "removed": [
+        "red-cag"
+      ]
+    },
+    {
+      "keep": "jarwick",
+      "removed": [
+        "jarowick"
+      ]
+    },
+    {
+      "keep": "pelrenor",
+      "removed": [
+        "pelrnor",
+        "pelornor"
+      ]
+    },
+    {
+      "keep": "the-bridge",
+      "removed": [
+        "bridge"
+      ]
+    },
+    {
+      "keep": "eros-2",
+      "removed": [
+        "eros"
+      ]
+    },
+    {
+      "keep": "granite-slab-2",
+      "removed": [
+        "granite-slab"
+      ]
+    },
+    {
+      "keep": "library-2",
+      "removed": [
+        "library"
+      ]
+    },
+    {
+      "keep": "windmill-hag-s-domicile",
+      "removed": [
+        "windmill"
+      ]
+    },
+    {
+      "keep": "azure-bird",
+      "removed": [
+        "azure-the-bird"
+      ]
+    },
+    {
+      "keep": "magical-observation-tower",
+      "removed": [
+        "magical-observation-tower-half-dome"
+      ]
+    },
+    {
+      "keep": "pouch-of-holding",
+      "removed": [
+        "pouch-of-holding-potions"
+      ]
+    },
+    {
+      "keep": "ring-of-protection",
+      "removed": [
+        "ring-of-protection-emerald-skull-ring"
+      ]
+    },
+    {
+      "keep": "gem-25-000-gp",
+      "removed": [
+        "gem-25-000-gold-worth"
+      ]
+    },
+    {
+      "keep": "tvahia",
+      "removed": [
+        "t-vahia",
+        "tevahia-2",
+        "tavahia",
+        "tovahia",
+        "vahia",
+        "tvaxia",
+        "tabahia"
+      ]
+    }
+  ]
+}

@@ -10,8 +10,10 @@ keyLinks: []
 tags:
   - generated
   - character
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Lady Verinestra"
+  - "lady-verinestra"
 ---
 
 *Type unclear from transcript*
@@ -39,3 +41,39 @@ importedFrom: Attackers of Opportunity wiki pipeline
 **First appearance:** [[episode-123-prepare-to-jump|Episode 123: Prepare to Jump]]
 
 - [[episode-123-prepare-to-jump|Episode 123: Prepare to Jump]]
+
+## Also Called
+
+This page may also be called **Lady Verinestra**.
+
+## Merged Duplicate Notes
+
+### Notes from Lady Verinestra
+
+_Source page: `lady-verinestra.md`_
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Lady Veronestra, Lady Berenestra, Lady Venetra -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+*(none extracted)*
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-91-fathers-and-sons|Episode 91: Fathers and Sons]]
+
+- [[episode-91-fathers-and-sons|Episode 91: Fathers and Sons]]

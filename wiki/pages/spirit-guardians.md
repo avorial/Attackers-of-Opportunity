@@ -10,8 +10,10 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Spirit Guardian"
+  - "spirit-guardian"
 ---
 
 > **Possible duplicate of:** Spirit Guardian Ring, Spirit Guardian -- unresolved, see possible_duplicates_review.md
@@ -38,3 +40,29 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-81-mawwage-is-what-bwings-us-togethe|Episode 81: Mawwage is what bwings us togethe]]
 - [[episode-101-dark-blades|Episode 101: Dark Blades]]
 - [[episode-127-have-you-no-respect|Episode 127: Have you no Respect]]
+
+## Also Called
+
+This page may also be called **Spirit Guardian**.
+
+## Merged Duplicate Notes
+
+### Notes from Spirit Guardian
+
+_Source page: `spirit-guardian.md`_
+
+> **Possible duplicate of:** Spirit Guardians, Spirit Guardian Ring -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A magical effect that deals damage to enemies.
+
+## Owner(s)
+
+- DM
+
+## Appearances
+
+**First appearance:** [[episode-117-live-barroom-blitz|Episode 117: LIVE! Barroom Blitz!]]
+
+- [[episode-117-live-barroom-blitz|Episode 117: LIVE! Barroom Blitz!]]

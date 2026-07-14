@@ -10,8 +10,10 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "Council Chamber"
+  - "council-chamber"
 ---
 
 > **Possible duplicate of:** Council Chamber, Councilor's Chambers -- unresolved, see possible_duplicates_review.md
@@ -27,3 +29,25 @@ importedFrom: Attackers of Opportunity wiki pipeline
 
 - [[episode-22-grief|Episode 22: Grief]]
 - [[episode-89-rewards|Episode 89: Rewards]]
+
+## Also Called
+
+This page may also be called **Council Chamber**.
+
+## Merged Duplicate Notes
+
+### Notes from Council Chamber
+
+_Source page: `council-chamber.md`_
+
+> **Possible duplicate of:** Council Chambers, Councilor's Chambers -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A location where the council meeting is taking place.
+
+## Appearances
+
+**First appearance:** [[episode-22-grief|Episode 22: Grief]]
+
+- [[episode-22-grief|Episode 22: Grief]]

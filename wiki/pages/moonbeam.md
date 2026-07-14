@@ -10,8 +10,11 @@ keyLinks: []
 tags:
   - generated
   - player-character
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "moonbeam"
+  - "moonbeam-2"
+  - "moonbeam-3"
 ---
 
 *Type unclear from transcript*
@@ -81,3 +84,44 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-134-dangerous-secrets|Episode 134: Dangerous Secrets]]
 - [[episode-135-pirate-for-a-day|Episode 135: Pirate for a Day!]]
 - [[episode-138-fire|Episode 138: Fire!!!]]
+
+## Also Called
+
+This page may also be called .
+
+## Merged Duplicate Notes
+
+### Notes from moonbeam
+
+_Source page: `moonbeam-2.md`_
+
+## Description
+
+- A spell that deals damage and can be used in conjunction with grappling.
+- A spell that deals fire damage and is used in combat.
+
+## Owner(s)
+
+- unknown
+- Moonbeam (inferred)
+
+## Appearances
+
+**First appearance:** [[episode-101-dark-blades|Episode 101: Dark Blades]]
+
+- [[episode-101-dark-blades|Episode 101: Dark Blades]]
+- [[episode-121-dark-alley-negotiation|Episode 121: Dark Alley Negotiation]]
+
+### Notes from Moonbeam
+
+_Source page: `moonbeam-3.md`_
+
+## Description
+
+- A ship mentioned as being involved in the story; its name is not explicitly stated as belonging to the enemy fleet but is referenced in dialogue as a vessel that could be observed from outside (though this is noted as not typical pirate behavior).
+
+## Appearances
+
+**First appearance:** [[episode-137-aim|Episode 137: Aim...]]
+
+- [[episode-137-aim|Episode 137: Aim...]]

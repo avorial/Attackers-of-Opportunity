@@ -10,8 +10,9 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "javelins"
 ---
 
 > **Possible duplicate of:** Javelins -- unresolved, see possible_duplicates_review.md
@@ -42,3 +43,25 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[side-quest-bloody-hand-part-2|Side Quest - Bloody Hand Part 2]]
 - [[side-quest-bloody-hand-part-4|Side Quest - Bloody Hand Part 4]]
 - [[side-quest-the-order-part-2|Side Quest_ The Order - Part 2]]
+
+## Also Called
+
+This page may also be called **Javelins**.
+
+## Merged Duplicate Notes
+
+### Notes from Javelins
+
+_Source page: `javelins.md`_
+
+> **Possible duplicate of:** Javelin -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Weapons carried by rooftop attackers.
+
+## Appearances
+
+**First appearance:** [[episode-121-dark-alley-negotiation|Episode 121: Dark Alley Negotiation]]
+
+- [[episode-121-dark-alley-negotiation|Episode 121: Dark Alley Negotiation]]

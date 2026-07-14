@@ -10,8 +10,9 @@ keyLinks: []
 tags:
   - generated
   - character
-aliases: []
 importedFrom: Attackers of Opportunity wiki pipeline
+aliases:
+  - "tavaxi"
 ---
 
 *Type unclear from transcript*
@@ -39,3 +40,39 @@ importedFrom: Attackers of Opportunity wiki pipeline
 **First appearance:** [[episode-51-meetings-and-secrets|Episode 51: Meetings and Secrets]]
 
 - [[episode-51-meetings-and-secrets|Episode 51: Meetings and Secrets]]
+
+## Also Called
+
+This page may also be called **Tavaxi**.
+
+## Merged Duplicate Notes
+
+### Notes from Tavaxi
+
+_Source page: `tavaxi.md`_
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Tabaxi -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A demi-human present at the same table as the half-orc and dragonborns.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[side-quest-the-order-part-1|Side Quest_ The Order - Part 1]]
+
+- [[side-quest-the-order-part-1|Side Quest_ The Order - Part 1]]
