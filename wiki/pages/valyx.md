@@ -10,7 +10,8 @@ keyLinks: []
 tags:
   - generated
   - character
-aliases: []
+aliases:
+  - "Valix"
 importedFrom: Attackers of Opportunity wiki pipeline
 ---
 
@@ -37,3 +38,37 @@ importedFrom: Attackers of Opportunity wiki pipeline
 **First appearance:** [[episode-61-reverse-order|Episode 61: Reverse Order]]
 
 - [[episode-61-reverse-order|Episode 61: Reverse Order]]
+
+## Also Called
+
+This page may also be called **Valix**.
+
+## Merged Duplicate Notes
+
+### Notes from Valix
+
+_Source page: `valix.md`_
+
+*Type unclear from transcript*
+
+## Description
+
+- Mentions 'to our breath was a kill' and is busy with tasks, possibly a leader or strategist.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-103-dark-day|Episode 103: Dark Day]]
+
+- [[episode-103-dark-day|Episode 103: Dark Day]]

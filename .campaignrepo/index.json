@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T00:19:45.398Z",
+  "generatedAt": "2026-07-14T00:27:07.142Z",
   "pages": [
     {
       "id": "item-1-armor",
@@ -4987,25 +4987,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-captain-milger",
-      "title": "Captain Milger",
-      "path": "wiki/pages/captain-milger.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-10-is-there-tea",
-        "event-episode-10-is-there-tea"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "npc-captain-mugar",
       "title": "Captain Mugar",
       "path": "wiki/pages/captain-mugar.md",
@@ -5016,47 +4997,14 @@
       ],
       "links": [
         "event-episode-7-there-was-something-in-the-air-tha",
-        "event-episode-7-there-was-something-in-the-air-tha"
+        "event-episode-7-there-was-something-in-the-air-tha",
+        "event-episode-10-is-there-tea",
+        "event-episode-10-is-there-tea"
       ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-captain-prat-nar",
-      "title": "Captain Prat-nar",
-      "path": "wiki/pages/captain-prat-nar.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
+      "aliases": [
+        "Captain Milger",
+        "captain-milger"
       ],
-      "links": [
-        "event-episode-36-the-god-s-eye",
-        "event-episode-36-the-god-s-eye"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-captain-pratt",
-      "title": "Captain Pratt",
-      "path": "wiki/pages/captain-pratt.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-38-decoding",
-        "event-episode-38-decoding"
-      ],
-      "aliases": [],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -5075,9 +5023,18 @@
         "event-episode-47-crouching-dickie-hidden-dorian",
         "event-episode-47-crouching-dickie-hidden-dorian",
         "event-episode-48-prat",
-        "event-episode-95-travelling-today"
+        "event-episode-95-travelling-today",
+        "event-episode-36-the-god-s-eye",
+        "event-episode-36-the-god-s-eye",
+        "event-episode-38-decoding",
+        "event-episode-38-decoding"
       ],
-      "aliases": [],
+      "aliases": [
+        "Captain Prat-nar",
+        "Captain Pratt",
+        "captain-prat-nar",
+        "captain-pratt"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -18541,10 +18498,10 @@
         "npc-captain-cade",
         "npc-captain-hartley-colpitz",
         "npc-captain-lactusk",
-        "npc-captain-milger",
         "npc-captain-mugar",
-        "npc-captain-prat-nar",
-        "npc-captain-pratt",
+        "npc-captain-mugar",
+        "npc-captain-pretnar",
+        "npc-captain-pretnar",
         "npc-captain-pretnar",
         "npc-castian-mora",
         "npc-chad",
@@ -18828,7 +18785,7 @@
         "npc-rulo-amaskis-of-olympia",
         "npc-ruth",
         "npc-rylan",
-        "npc-rylin",
+        "npc-rylan",
         "npc-sailors",
         "character-saito",
         "npc-santalfos-clausio",
@@ -18856,7 +18813,7 @@
         "npc-solana-jolyman",
         "npc-solana-jolyman",
         "npc-sonata",
-        "npc-spring-councilor",
+        "npc-spring-counselor",
         "npc-spring-counselor",
         "npc-spring-court-elf",
         "npc-steinbach",
@@ -18909,7 +18866,7 @@
         "npc-val",
         "character-valak",
         "npc-valark",
-        "npc-valix",
+        "npc-valyx",
         "npc-valyx",
         "npc-vasral-zagor",
         "npc-vasso",
@@ -31297,28 +31254,13 @@
       "links": [
         "event-episode-12-it-was-a-quiet-morning",
         "event-episode-12-it-was-a-quiet-morning",
-        "event-episode-75-best-pal"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-rylin",
-      "title": "Rylin",
-      "path": "wiki/pages/rylin.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
+        "event-episode-75-best-pal",
         "event-episode-63-on-the-road-again",
         "event-episode-63-on-the-road-again"
       ],
-      "aliases": [],
+      "aliases": [
+        "Rylin"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -35032,25 +34974,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-spring-councilor",
-      "title": "Spring Councilor",
-      "path": "wiki/pages/spring-councilor.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-22-grief",
-        "event-episode-22-grief"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "location-spring-counselor-s-estate",
       "title": "Spring Counselor's Estate",
       "path": "wiki/pages/spring-counselor-s-estate.md",
@@ -35079,9 +35002,14 @@
       ],
       "links": [
         "event-episode-65-raiders-of-the-lost-estate",
-        "event-episode-65-raiders-of-the-lost-estate"
+        "event-episode-65-raiders-of-the-lost-estate",
+        "event-episode-22-grief",
+        "event-episode-22-grief"
       ],
-      "aliases": [],
+      "aliases": [
+        "Spring Councilor",
+        "spring-councilor"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -39184,25 +39112,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-valix",
-      "title": "Valix",
-      "path": "wiki/pages/valix.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-103-dark-day",
-        "event-episode-103-dark-day"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "location-valley-of-the-dead",
       "title": "Valley of the Dead",
       "path": "wiki/pages/valley-of-the-dead.md",
@@ -39303,9 +39212,13 @@
       ],
       "links": [
         "event-episode-61-reverse-order",
-        "event-episode-61-reverse-order"
+        "event-episode-61-reverse-order",
+        "event-episode-103-dark-day",
+        "event-episode-103-dark-day"
       ],
-      "aliases": [],
+      "aliases": [
+        "Valix"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",

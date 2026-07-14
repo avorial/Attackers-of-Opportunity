@@ -10,7 +10,9 @@ keyLinks: []
 tags:
   - generated
   - character
-aliases: []
+aliases:
+  - "Spring Councilor"
+  - "spring-councilor"
 importedFrom: Attackers of Opportunity wiki pipeline
 ---
 
@@ -40,3 +42,39 @@ importedFrom: Attackers of Opportunity wiki pipeline
 **First appearance:** [[episode-65-raiders-of-the-lost-estate|Episode 65: Raiders of the Lost Estate]]
 
 - [[episode-65-raiders-of-the-lost-estate|Episode 65: Raiders of the Lost Estate]]
+
+## Also Called
+
+This page may also be called **Spring Councilor**.
+
+## Merged Duplicate Notes
+
+### Notes from Spring Councilor
+
+_Source page: `spring-councilor.md`_
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Spring Counselor -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+*(none extracted)*
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-22-grief|Episode 22: Grief]]
+
+- [[episode-22-grief|Episode 22: Grief]]

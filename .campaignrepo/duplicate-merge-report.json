@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T00:15:18.809Z",
+  "generatedAt": "2026-07-14T00:26:36.242Z",
   "groups": [
     {
       "keep": "golden-circle-2",
@@ -617,6 +617,37 @@
         "vahia",
         "tvaxia",
         "tabahia"
+      ]
+    },
+    {
+      "keep": "captain-mugar",
+      "removed": [
+        "captain-milger"
+      ]
+    },
+    {
+      "keep": "captain-pretnar",
+      "removed": [
+        "captain-prat-nar",
+        "captain-pratt"
+      ]
+    },
+    {
+      "keep": "rylan",
+      "removed": [
+        "rylin"
+      ]
+    },
+    {
+      "keep": "spring-counselor",
+      "removed": [
+        "spring-councilor"
+      ]
+    },
+    {
+      "keep": "valyx",
+      "removed": [
+        "valix"
       ]
     }
   ]
