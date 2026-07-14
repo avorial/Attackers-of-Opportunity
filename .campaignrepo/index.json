@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T00:27:07.142Z",
+  "generatedAt": "2026-07-14T00:31:33.850Z",
   "pages": [
     {
       "id": "item-1-armor",
@@ -531,28 +531,13 @@
       ],
       "links": [
         "event-episode-28-conflicted-passions",
-        "event-episode-28-conflicted-passions"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-adiara",
-      "title": "Adiara",
-      "path": "wiki/pages/adiara.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
+        "event-episode-28-conflicted-passions",
         "event-episode-21-alternatives",
         "event-episode-21-alternatives"
       ],
-      "aliases": [],
+      "aliases": [
+        "Adiara"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -2434,25 +2419,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-barrios-silverthrust",
-      "title": "Barrios Silverthrust",
-      "path": "wiki/pages/barrios-silverthrust.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-123-prepare-to-jump",
-        "event-episode-123-prepare-to-jump"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "npc-barrios",
       "title": "Barrios",
       "path": "wiki/pages/barrios.md",
@@ -2464,28 +2430,13 @@
       "links": [
         "event-episode-126-explosive-finale",
         "event-episode-126-explosive-finale",
-        "event-side-quest-home-of-the-venerable-wa"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-barris",
-      "title": "Barris",
-      "path": "wiki/pages/barris.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
+        "event-side-quest-home-of-the-venerable-wa",
         "event-side-quest-home-of-the-venerable-wa",
         "event-side-quest-home-of-the-venerable-wa"
       ],
-      "aliases": [],
+      "aliases": [
+        "Barris"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -2962,9 +2913,13 @@
         "event-episode-24-consequences",
         "event-episode-24-consequences",
         "event-episode-127-have-you-no-respect",
-        "event-episode-127-have-you-no-respect"
+        "event-episode-127-have-you-no-respect",
+        "event-episode-123-prepare-to-jump",
+        "event-episode-123-prepare-to-jump"
       ],
       "aliases": [
+        "Barrios Silverthrust",
+        "barrios-silverthrust",
         "Berio Silverthress",
         "berio-silverthress",
         "Berios Silverthrost",
@@ -3197,25 +3152,6 @@
       "keyLinks": []
     },
     {
-      "id": "vehicle-black-fang-s-fist",
-      "title": "Black Fang's Fist",
-      "path": "wiki/pages/black-fang-s-fist.md",
-      "type": "vehicle",
-      "tags": [
-        "generated",
-        "ship"
-      ],
-      "links": [
-        "event-episode-136-ready",
-        "event-episode-136-ready"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Black Fang's ship -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "vehicle-black-fang-s-ship-2",
       "title": "Black Fang's ship",
       "path": "wiki/pages/black-fang-s-ship-2.md",
@@ -3228,10 +3164,14 @@
         "event-episode-136-ready",
         "event-episode-136-ready",
         "event-episode-133-how-to-make-friends",
-        "event-episode-133-how-to-make-friends"
+        "event-episode-133-how-to-make-friends",
+        "event-episode-136-ready",
+        "event-episode-136-ready"
       ],
       "aliases": [
+        "Black Fang's Fist",
         "Black Fang's ship",
+        "black-fang-s-fist",
         "black-fang-s-ship"
       ],
       "summary": "Possible duplicate of: Black Fang's Fist -- unresolved, see possibleduplicatesreview.md",
@@ -7130,11 +7070,15 @@
         "event-episode-22-grief",
         "event-episode-89-rewards",
         "event-episode-22-grief",
-        "event-episode-22-grief"
+        "event-episode-22-grief",
+        "event-episode-23-drunkards-and-flagons",
+        "event-episode-23-drunkards-and-flagons"
       ],
       "aliases": [
         "Council Chamber",
-        "council-chamber"
+        "council-chamber",
+        "councilor-s-chambers",
+        "Councilor's Chambers"
       ],
       "summary": "Possible duplicate of: Council Chamber, Councilor's Chambers -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
@@ -7193,24 +7137,6 @@
       ],
       "aliases": [],
       "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-councilor-s-chambers",
-      "title": "Councilor's Chambers",
-      "path": "wiki/pages/councilor-s-chambers.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-23-drunkards-and-flagons",
-        "event-episode-23-drunkards-and-flagons"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Council Chambers, Council Chamber -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -9217,25 +9143,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-dorian-van-de-sorau",
-      "title": "Dorian van de Sorau",
-      "path": "wiki/pages/dorian-van-de-sorau.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-78-rehearsal-dinner",
-        "event-episode-78-rehearsal-dinner"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "npc-dorian-van-de-sorral",
       "title": "Dorian Van de Sorral",
       "path": "wiki/pages/dorian-van-de-sorral.md",
@@ -9246,28 +9153,22 @@
       ],
       "links": [
         "event-episode-79-primp-off",
-        "event-episode-79-primp-off"
+        "event-episode-79-primp-off",
+        "event-episode-78-rehearsal-dinner",
+        "event-episode-78-rehearsal-dinner",
+        "event-episode-115-live-at-gateway-2022-daddy-d",
+        "event-episode-115-live-at-gateway-2022-daddy-d",
+        "event-episode-89-rewards",
+        "event-episode-89-rewards"
       ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-dorian-vessandara",
-      "title": "Dorian Vessandara",
-      "path": "wiki/pages/dorian-vessandara.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
+      "aliases": [
+        "Dorian van de Sorau",
+        "dorian-van-de-sorau",
+        "Gadrian van der Soral",
+        "gadrian-van-der-soral",
+        "Lord Dorian van der Soral",
+        "lord-dorian-van-der-soral"
       ],
-      "links": [
-        "event-episode-98-dark-dreamers",
-        "event-episode-98-dark-dreamers"
-      ],
-      "aliases": [],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -9284,9 +9185,18 @@
       ],
       "links": [
         "event-episode-115-live-at-gateway-2022-daddy-d",
+        "event-episode-115-live-at-gateway-2022-daddy-d",
+        "event-episode-98-dark-dreamers",
+        "event-episode-98-dark-dreamers",
+        "event-episode-115-live-at-gateway-2022-daddy-d",
         "event-episode-115-live-at-gateway-2022-daddy-d"
       ],
-      "aliases": [],
+      "aliases": [
+        "Dorian Vessandara",
+        "dorian-vessandara",
+        "Lord Dorian Vessandiral",
+        "lord-dorian-vessandiral"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -10664,9 +10574,14 @@
       ],
       "links": [
         "event-episode-39-number-one",
-        "event-episode-39-number-one"
+        "event-episode-39-number-one",
+        "event-episode-41-free-tree-travel",
+        "event-episode-41-free-tree-travel"
       ],
-      "aliases": [],
+      "aliases": [
+        "Tree Ants' Territory",
+        "tree-ants-territory"
+      ],
       "summary": "Possible duplicate of: Tree Ants' Territory -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -13488,25 +13403,6 @@
       "keyLinks": []
     },
     {
-      "id": "vehicle-files-of-the-vrong",
-      "title": "Files of the Vrong",
-      "path": "wiki/pages/files-of-the-vrong.md",
-      "type": "vehicle",
-      "tags": [
-        "generated",
-        "ship"
-      ],
-      "links": [
-        "event-episode-135-pirate-for-a-day",
-        "event-episode-135-pirate-for-a-day"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Fires of the Vrung -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "item-fire-amulet-circlet-sapphire",
       "title": "Fire Amulet Circlet (Sapphire)",
       "path": "wiki/pages/fire-amulet-circlet-sapphire.md",
@@ -13685,9 +13581,14 @@
       ],
       "links": [
         "event-episode-136-ready",
-        "event-episode-136-ready"
+        "event-episode-136-ready",
+        "event-episode-135-pirate-for-a-day",
+        "event-episode-135-pirate-for-a-day"
       ],
-      "aliases": [],
+      "aliases": [
+        "Files of the Vrong",
+        "files-of-the-vrong"
+      ],
       "summary": "Possible duplicate of: Files of the Vrong -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -14584,28 +14485,14 @@
       ],
       "links": [
         "event-episode-112-life-s-dawning",
-        "event-episode-112-life-s-dawning"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-full-co",
-      "title": "Full Co",
-      "path": "wiki/pages/full-co.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
+        "event-episode-112-life-s-dawning",
         "event-episode-113-a-foul-wind-blows",
         "event-episode-113-a-foul-wind-blows"
       ],
-      "aliases": [],
+      "aliases": [
+        "Full Co",
+        "full-co"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -14722,25 +14609,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-gadrian-van-der-soral",
-      "title": "Gadrian van der Soral",
-      "path": "wiki/pages/gadrian-van-der-soral.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-89-rewards",
-        "event-episode-89-rewards"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "npc-gadrian",
       "title": "Gadrian",
       "path": "wiki/pages/gadrian.md",
@@ -14852,25 +14720,6 @@
         "gauntlet"
       ],
       "summary": "Possible duplicate of: Gauntlet -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-geisha",
-      "title": "Geisha",
-      "path": "wiki/pages/geisha.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-side-quest-there-is-no-cow-level",
-        "event-side-quest-there-is-no-cow-level"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -15377,24 +15226,6 @@
       "keyLinks": []
     },
     {
-      "id": "location-goblin-army-encampment",
-      "title": "Goblin Army Encampment",
-      "path": "wiki/pages/goblin-army-encampment.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-36-the-god-s-eye",
-        "event-episode-36-the-god-s-eye"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Goblin Encampment -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "location-goblin-encampment-tunnel",
       "title": "Goblin Encampment Tunnel",
       "path": "wiki/pages/goblin-encampment-tunnel.md",
@@ -15422,9 +15253,14 @@
       ],
       "links": [
         "event-episode-36-the-god-s-eye",
+        "event-episode-36-the-god-s-eye",
+        "event-episode-36-the-god-s-eye",
         "event-episode-36-the-god-s-eye"
       ],
-      "aliases": [],
+      "aliases": [
+        "Goblin Army Encampment",
+        "goblin-army-encampment"
+      ],
       "summary": "Possible duplicate of: Goblin Army Encampment, Goblin Encampment Tunnel -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -15498,28 +15334,15 @@
       ],
       "links": [
         "event-episode-7-there-was-something-in-the-air-tha",
-        "event-episode-7-there-was-something-in-the-air-tha"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Goblin Territory -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-goblin-territory",
-      "title": "Goblin Territory",
-      "path": "wiki/pages/goblin-territory.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
+        "event-episode-7-there-was-something-in-the-air-tha",
         "event-episode-41-free-tree-travel",
         "event-episode-41-free-tree-travel"
       ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Goblin Territories -- unresolved, see possibleduplicatesreview.md",
+      "aliases": [
+        "Goblin Territory",
+        "goblin-territory"
+      ],
+      "summary": "Possible duplicate of: Goblin Territory -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -17358,25 +17181,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-helrenor",
-      "title": "Helrenor",
-      "path": "wiki/pages/helrenor.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-38-decoding",
-        "event-episode-38-decoding"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "item-hempen-rope",
       "title": "Hempen rope",
       "path": "wiki/pages/hempen-rope.md",
@@ -18435,7 +18239,7 @@
         "npc-aberos-son",
         "npc-adar",
         "npc-adiana",
-        "npc-adiara",
+        "npc-adiana",
         "npc-adorian",
         "npc-agnes-baxter",
         "npc-aja",
@@ -18460,8 +18264,8 @@
         "npc-balik",
         "npc-baloch",
         "npc-barrios",
-        "npc-barrios-silverthrust",
-        "npc-barris",
+        "npc-berios-silverthrust",
+        "npc-barrios",
         "npc-baryllis",
         "npc-bas-rule",
         "npc-basil",
@@ -18560,9 +18364,9 @@
         "npc-dorian-bale",
         "npc-dorian-banasadoro",
         "npc-dorian-breen",
-        "npc-dorian-van-de-sorau",
         "npc-dorian-van-de-sorral",
-        "npc-dorian-vessandara",
+        "npc-dorian-van-de-sorral",
+        "npc-dorian-vessandiral",
         "npc-dorian-vessandiral",
         "npc-dorian-s-father",
         "npc-doug",
@@ -18595,12 +18399,12 @@
         "npc-foucault",
         "npc-frau",
         "npc-fulco",
-        "npc-full-co",
+        "npc-fulco",
         "npc-full-elf",
         "npc-fulmin",
         "npc-gadrian",
-        "npc-gadrian-van-der-soral",
-        "npc-geisha",
+        "npc-dorian-van-de-sorral",
+        "npc-keisha",
         "npc-georg",
         "npc-gerard",
         "npc-ghosts",
@@ -18623,7 +18427,7 @@
         "npc-half-orc-leader",
         "npc-hartley-colpitts",
         "npc-harvey",
-        "npc-helrenor",
+        "character-pelrenor",
         "npc-high-priest",
         "npc-high-priest-plank",
         "npc-hill-giants",
@@ -18644,7 +18448,7 @@
         "npc-ironsong",
         "character-isan",
         "npc-isoyama",
-        "character-isuyama",
+        "npc-isoyama",
         "npc-izzan",
         "npc-izzy-tvaxia",
         "npc-jack",
@@ -18678,14 +18482,14 @@
         "npc-kinave",
         "npc-king-emperor",
         "npc-ku",
-        "npc-kuravi",
+        "npc-karavi",
         "npc-kuzanakram",
         "npc-kyle",
-        "npc-lady-berenestra",
+        "npc-lady-veronestra",
         "npc-lady-hondu",
         "npc-lady-of-the-spring-court",
         "npc-lady-solana",
-        "npc-lady-venetra",
+        "npc-lady-veronestra",
         "npc-lady-veronestra",
         "npc-lady-veronestra",
         "npc-lady-winter",
@@ -18697,8 +18501,8 @@
         "npc-light-of-shadow",
         "npc-lizard-like-creatures",
         "npc-lord-bainard",
-        "npc-lord-dorian-van-der-soral",
-        "npc-lord-dorian-vessandiral",
+        "npc-dorian-van-de-sorral",
+        "npc-dorian-vessandiral",
         "npc-lorne",
         "npc-louie",
         "npc-lydecker",
@@ -18707,8 +18511,8 @@
         "npc-mama-dickis",
         "npc-manali",
         "npc-maurice",
-        "npc-mave",
-        "npc-maven",
+        "character-maeve",
+        "character-maeve",
         "npc-maven-moonbeam",
         "npc-mavis",
         "npc-maximus-trigg",
@@ -18748,10 +18552,10 @@
         "npc-pdchris13",
         "character-pelrenor",
         "character-pelrenor",
-        "npc-pelrinoar",
-        "npc-pelrionor",
         "character-pelrenor",
-        "npc-pelvernor",
+        "character-pelrenor",
+        "character-pelrenor",
+        "character-pelrenor",
         "npc-philippe",
         "npc-prattner",
         "npc-prince-dorian",
@@ -18780,7 +18584,7 @@
         "npc-rosius",
         "npc-ross",
         "npc-ruak",
-        "npc-ruark",
+        "npc-ruak",
         "character-rulo",
         "npc-rulo-amaskis-of-olympia",
         "npc-ruth",
@@ -18800,7 +18604,7 @@
         "npc-shalia",
         "npc-shay",
         "npc-shilara",
-        "npc-sinata",
+        "npc-sonata",
         "npc-siobhan",
         "npc-sir-balak",
         "npc-sir-little-dickey",
@@ -18865,20 +18669,20 @@
         "npc-two-headed-cow",
         "npc-val",
         "character-valak",
-        "npc-valark",
+        "character-valak",
         "npc-valyx",
         "npc-valyx",
-        "npc-vasral-zagor",
+        "npc-vazrul",
         "npc-vasso",
         "npc-vavik",
-        "npc-vaz-rule",
-        "npc-vazrol-zagor",
-        "npc-vazroozer-gore",
         "npc-vazrul",
-        "npc-vazrul-zagar",
-        "npc-vazrul-zegor",
+        "npc-vazrul",
+        "npc-vazrul",
+        "npc-vazrul",
+        "npc-vazrul",
+        "npc-vazrul",
         "npc-velik",
-        "npc-velika",
+        "npc-velik",
         "npc-veronestra",
         "npc-vicky",
         "npc-volik",
@@ -18886,9 +18690,9 @@
         "npc-volo-leslie",
         "character-volokh",
         "npc-will",
-        "npc-winter-council",
         "npc-winter-counselor",
-        "npc-winter-court-head",
+        "npc-winter-counselor",
+        "npc-winter-counselor",
         "npc-winter-lady",
         "npc-wizard",
         "npc-yolanda",
@@ -18962,7 +18766,7 @@
         "location-council-chambers",
         "location-council-chambers",
         "location-council-of-tabahia",
-        "location-councilor-s-chambers",
+        "location-council-chambers",
         "location-cracked-wall-with-frog-like-creature",
         "location-creek",
         "location-dark-alley",
@@ -19012,12 +18816,12 @@
         "location-funeral-site",
         "location-fungal-room",
         "location-giant-village",
-        "location-goblin-army-encampment",
+        "location-goblin-encampment",
         "location-goblin-encampment",
         "location-goblin-encampment-tunnel",
         "location-goblin-shrine",
         "location-goblin-territories",
-        "location-goblin-territory",
+        "location-goblin-territories",
         "location-goblin-village",
         "item-god-s-eye",
         "location-gold-hand-inn",
@@ -19056,13 +18860,13 @@
         "location-knoss",
         "location-knows",
         "location-kusum-s-curiosities",
-        "location-la-raya-trade-house",
-        "location-la-riah-trading-house",
+        "location-lauraya-trading-house",
+        "location-lauraya-trading-house",
         "location-lake-bryn",
         "location-lake-bryn",
-        "location-lake-of-bryn",
+        "location-lake-bryn",
         "location-larger-room",
-        "location-laria-trading-house",
+        "location-lauraya-trading-house",
         "location-laundry-room-stardust-hotel",
         "location-lauraya-house",
         "location-lauraya-trading-complex",
@@ -19092,9 +18896,9 @@
         "location-olive-grove",
         "location-olympia",
         "location-pang",
-        "location-passat",
         "location-passet",
-        "location-passette",
+        "location-passet",
+        "location-passet",
         "location-paxnara",
         "location-pirate-haven",
         "location-pirate-ship",
@@ -19110,7 +18914,7 @@
         "location-rendezvous-point",
         "location-republic-of-bovina",
         "location-restaurant-at-the-citadel-hotel",
-        "location-riot-trading-house",
+        "location-lauraya-trading-house",
         "location-river",
         "location-river-crossing-point",
         "location-road-to-seun",
@@ -19122,42 +18926,42 @@
         "location-saren",
         "location-sawmill",
         "location-sawsmith-tavern",
-        "location-season-slade",
+        "location-seasons-glade",
         "location-seasons-glade",
         "location-seasonal-tower",
-        "location-seasons-blade",
+        "location-seasons-glade",
         "location-seasons-glade",
         "location-seasons-glade-building",
         "location-seasons-glade-estate",
-        "location-seasons-lake",
+        "location-seasons-glade",
         "location-selmasa",
         "location-shadow-realm",
         "location-shatterdials",
         "location-sheltered-aisles",
         "location-ship-deck",
         "location-shrine-of-raoul",
-        "location-shrine-of-row",
+        "location-shrine-of-raoul",
         "location-shrine-pond",
         "location-silver-thrust-estate",
         "location-silvertho-state-estate",
         "location-silver-thrust-estate",
-        "location-simisma",
         "location-sinisma",
-        "location-sinismaa",
-        "location-sinismar",
-        "location-sinus-ma",
-        "location-sinusma",
+        "location-sinisma",
+        "location-sinisma",
+        "location-sinisma",
+        "location-sinisma",
+        "location-sinisma",
         "location-sixing-capital-in-jasso",
         "location-small-clearing-with-three-rocks",
         "location-snake-river",
         "location-somasia",
         "location-special-forces-training-ground",
-        "location-spring-councilor-s-estate",
+        "location-spring-counselor-s-estate",
         "location-spring-counselor-s-estate",
         "location-spring-court",
         "location-spring-court-administration-building",
-        "location-spring-court-s-administrative-building",
-        "location-spring-court-s-estate",
+        "location-spring-court-administration-building",
+        "location-spring-counselor-s-estate",
         "location-stardust-felon-spa",
         "location-stardust-hotel-and-spa",
         "location-stardust-inn-and-spa",
@@ -19211,15 +19015,15 @@
         "location-trading-family-s-residence",
         "location-training-ground",
         "location-treasure-chest-clearing",
-        "location-tree-ants-territory",
+        "location-ents-territory",
         "location-tunnel",
         "location-tunnel-in-valley-wall",
         "location-tunnel-under-the-river",
-        "location-turtle-castle",
+        "location-turtle-clan-castle",
         "organization-turtle-clan",
         "location-turtle-clan-castle",
         "location-turtle-dragon-island",
-        "location-turtle-dragon-isle",
+        "location-turtle-dragon-island",
         "location-tvahia",
         "location-tvahia",
         "location-under-the-river-tunnel",
@@ -19241,7 +19045,7 @@
         "location-viserals-camp",
         "location-warg-pens-2",
         "location-warg-village",
-        "location-warpen-village",
+        "location-warg-village",
         "location-water",
         "location-water-den",
         "location-water-source",
@@ -19264,7 +19068,7 @@
         "location-zarin-the-wizard-s-tomb",
         "location-zixa",
         "location-zixa-and-jasso",
-        "location-zixar",
+        "location-zixa",
         "location-zixxen",
         "location-zuria",
         "organization-bear-clan",
@@ -20463,12 +20267,12 @@
         "item-yellow-sapphire-ring",
         "item-zarsinol",
         "vehicle-barge",
-        "vehicle-black-fang-s-fist",
+        "vehicle-black-fang-s-ship-2",
         "vehicle-black-fang-s-ship-2",
         "vehicle-captain-blackfang-s-ship",
         "vehicle-captain-cade-s-ship",
         "vehicle-cargo-ship",
-        "vehicle-files-of-the-vrong",
+        "vehicle-fires-of-the-vrung",
         "vehicle-fires-of-the-vrung",
         "vehicle-hms-whirlpool-3",
         "vehicle-hms-whirlwind",
@@ -20832,28 +20636,13 @@
       ],
       "links": [
         "event-side-quest-bloody-hand-part-1",
-        "event-side-quest-bloody-hand-part-1"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "character-isuyama",
-      "title": "Isuyama",
-      "path": "wiki/pages/isuyama.md",
-      "type": "character",
-      "tags": [
-        "generated",
-        "player-character"
-      ],
-      "links": [
+        "event-side-quest-bloody-hand-part-1",
         "event-side-quest-bloody-hand-part-2",
         "event-side-quest-bloody-hand-part-2"
       ],
-      "aliases": [],
+      "aliases": [
+        "Isuyama"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -21599,9 +21388,13 @@
       ],
       "links": [
         "event-side-quest-samurai-sunset-part-2",
+        "event-side-quest-samurai-sunset-part-2",
+        "event-side-quest-samurai-sunset-part-2",
         "event-side-quest-samurai-sunset-part-2"
       ],
-      "aliases": [],
+      "aliases": [
+        "Kuravi"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -21674,9 +21467,13 @@
       ],
       "links": [
         "event-side-quest-there-is-no-cow-level",
+        "event-side-quest-there-is-no-cow-level",
+        "event-side-quest-there-is-no-cow-level",
         "event-side-quest-there-is-no-cow-level"
       ],
-      "aliases": [],
+      "aliases": [
+        "Geisha"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -22006,25 +21803,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-kuravi",
-      "title": "Kuravi",
-      "path": "wiki/pages/kuravi.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-side-quest-samurai-sunset-part-2",
-        "event-side-quest-samurai-sunset-part-2"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "location-kusum-s-curiosities",
       "title": "Kusum's Curiosities",
       "path": "wiki/pages/kusum-s-curiosities.md",
@@ -22082,42 +21860,6 @@
       "keyLinks": []
     },
     {
-      "id": "location-la-raya-trade-house",
-      "title": "La Raya Trade House",
-      "path": "wiki/pages/la-raya-trade-house.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-77-rao-and-prisons-and-rituals-oh-m",
-        "event-episode-77-rao-and-prisons-and-rituals-oh-m"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Lauraya Trading House -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-la-riah-trading-house",
-      "title": "La Riah Trading House",
-      "path": "wiki/pages/la-riah-trading-house.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-75-best-pal",
-        "event-episode-75-best-pal"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Lauraya Trading House, Riot trading house, LaRia trading house -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "item-laced-cheeseburger",
       "title": "Laced cheeseburger",
       "path": "wiki/pages/laced-cheeseburger.md",
@@ -22131,25 +21873,6 @@
       ],
       "aliases": [],
       "summary": "A humorous, fictional item mentioned as a potential distraction for Maeve.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-lady-berenestra",
-      "title": "Lady Berenestra",
-      "path": "wiki/pages/lady-berenestra.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-126-explosive-finale",
-        "event-episode-126-explosive-finale"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -22212,25 +21935,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-lady-venetra",
-      "title": "Lady Venetra",
-      "path": "wiki/pages/lady-venetra.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-91-fathers-and-sons",
-        "event-episode-91-fathers-and-sons"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "npc-lady-veronestra",
       "title": "Lady Veronestra",
       "path": "wiki/pages/lady-veronestra.md",
@@ -22243,10 +21947,18 @@
         "event-episode-123-prepare-to-jump",
         "event-episode-123-prepare-to-jump",
         "event-episode-91-fathers-and-sons",
+        "event-episode-91-fathers-and-sons",
+        "event-episode-126-explosive-finale",
+        "event-episode-126-explosive-finale",
+        "event-episode-91-fathers-and-sons",
         "event-episode-91-fathers-and-sons"
       ],
       "aliases": [
+        "Lady Berenestra",
+        "Lady Venetra",
         "Lady Verinestra",
+        "lady-berenestra",
+        "lady-venetra",
         "lady-verinestra"
       ],
       "summary": "Type unclear from transcript",
@@ -22288,31 +22000,17 @@
         "event-episode-56-q-and-a",
         "event-episode-19-bureaucracy-at-its-finest",
         "event-episode-19-bureaucracy-at-its-finest",
-        "event-episode-89-rewards"
-      ],
-      "aliases": [
-        "Lake Brin",
-        "lake-brin"
-      ],
-      "summary": "Possible duplicate of: Lake of Bryn, Lake Brin -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-lake-of-bryn",
-      "title": "Lake of Bryn",
-      "path": "wiki/pages/lake-of-bryn.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
+        "event-episode-89-rewards",
         "event-episode-19-bureaucracy-at-its-finest",
         "event-episode-19-bureaucracy-at-its-finest"
       ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Lake Bryn -- unresolved, see possibleduplicatesreview.md",
+      "aliases": [
+        "Lake Brin",
+        "Lake of Bryn",
+        "lake-brin",
+        "lake-of-bryn"
+      ],
+      "summary": "Possible duplicate of: Lake of Bryn, Lake Brin -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -22408,24 +22106,6 @@
       "keyLinks": []
     },
     {
-      "id": "location-laria-trading-house",
-      "title": "LaRia trading house",
-      "path": "wiki/pages/laria-trading-house.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-87-repercussions",
-        "event-episode-87-repercussions"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Lauraya Trading House, Riot trading house, La Riah Trading House -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "npc-lariah",
       "title": "Lariah",
       "path": "wiki/pages/lariah.md",
@@ -22512,9 +22192,26 @@
         "event-episode-63-on-the-road-again",
         "event-episode-64-dungeons-and-dorian-s-house",
         "event-episode-78-rehearsal-dinner",
-        "event-episode-94-rock-hard"
+        "event-episode-94-rock-hard",
+        "event-episode-77-rao-and-prisons-and-rituals-oh-m",
+        "event-episode-77-rao-and-prisons-and-rituals-oh-m",
+        "event-episode-75-best-pal",
+        "event-episode-75-best-pal",
+        "event-episode-87-repercussions",
+        "event-episode-87-repercussions",
+        "event-episode-72-just-the-way-you-look-tonight",
+        "event-episode-72-just-the-way-you-look-tonight"
       ],
-      "aliases": [],
+      "aliases": [
+        "La Raya Trade House",
+        "La Riah Trading House",
+        "la-raya-trade-house",
+        "la-riah-trading-house",
+        "LaRia trading house",
+        "laria-trading-house",
+        "Riot trading house",
+        "riot-trading-house"
+      ],
       "summary": "Possible duplicate of: La Riah Trading House, La Raya Trade House, LaRia trading house -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -23315,44 +23012,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-lord-dorian-van-der-soral",
-      "title": "Lord Dorian van der Soral",
-      "path": "wiki/pages/lord-dorian-van-der-soral.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-115-live-at-gateway-2022-daddy-d",
-        "event-episode-115-live-at-gateway-2022-daddy-d"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-lord-dorian-vessandiral",
-      "title": "Lord Dorian Vessandiral",
-      "path": "wiki/pages/lord-dorian-vessandiral.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-115-live-at-gateway-2022-daddy-d",
-        "event-episode-115-live-at-gateway-2022-daddy-d"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "location-lorne-threeping-house",
       "title": "Lorne Threeping House",
       "path": "wiki/pages/lorne-threeping-house.md",
@@ -23627,9 +23286,18 @@
         "event-episode-134-dangerous-secrets",
         "event-episode-135-pirate-for-a-day",
         "event-episode-138-fire",
-        "event-side-quest-the-order-part-1"
+        "event-side-quest-the-order-part-1",
+        "event-episode-61-reverse-order",
+        "event-episode-61-reverse-order",
+        "event-episode-130-party-time",
+        "event-episode-137-aim",
+        "event-episode-55-words",
+        "event-episode-55-words"
       ],
-      "aliases": [],
+      "aliases": [
+        "Mave",
+        "Maven"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -24505,27 +24173,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-mave",
-      "title": "Mave",
-      "path": "wiki/pages/mave.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-61-reverse-order",
-        "event-episode-61-reverse-order",
-        "event-episode-130-party-time",
-        "event-episode-137-aim"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "npc-maven-moonbeam",
       "title": "Maven Moonbeam",
       "path": "wiki/pages/maven-moonbeam.md",
@@ -24537,25 +24184,6 @@
       "links": [
         "event-episode-126-explosive-finale",
         "event-episode-126-explosive-finale"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-maven",
-      "title": "Maven",
-      "path": "wiki/pages/maven.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-55-words",
-        "event-episode-55-words"
       ],
       "aliases": [],
       "summary": "Type unclear from transcript",
@@ -27040,27 +26668,6 @@
       "keyLinks": []
     },
     {
-      "id": "location-passat",
-      "title": "Passat",
-      "path": "wiki/pages/passat.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-3-hunter-s-mark",
-        "event-episode-3-hunter-s-mark",
-        "event-episode-7-there-was-something-in-the-air-tha",
-        "event-episode-19-bureaucracy-at-its-finest",
-        "event-episode-106-live-get-to-the-tower"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Passet -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "location-passet",
       "title": "Passet",
       "path": "wiki/pages/passet.md",
@@ -27070,28 +26677,20 @@
       ],
       "links": [
         "event-episode-13-a-tower-defense-game",
-        "event-episode-13-a-tower-defense-game"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Passat, Passette -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-passette",
-      "title": "Passette",
-      "path": "wiki/pages/passette.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
+        "event-episode-13-a-tower-defense-game",
+        "event-episode-3-hunter-s-mark",
+        "event-episode-3-hunter-s-mark",
+        "event-episode-7-there-was-something-in-the-air-tha",
+        "event-episode-19-bureaucracy-at-its-finest",
+        "event-episode-106-live-get-to-the-tower",
         "event-episode-2-rumors-are-flying",
         "event-episode-2-rumors-are-flying"
       ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Passet -- unresolved, see possibleduplicatesreview.md",
+      "aliases": [
+        "Passat",
+        "Passette"
+      ],
+      "summary": "Possible duplicate of: Passat, Passette -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -27288,65 +26887,13 @@
         "event-episode-95-travelling-today",
         "event-episode-95-travelling-today",
         "event-episode-22-grief",
-        "event-episode-22-grief"
-      ],
-      "aliases": [
-        "pelornor",
-        "pelrnor"
-      ],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-pelrinoar",
-      "title": "Pelrinoar",
-      "path": "wiki/pages/pelrinoar.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
+        "event-episode-22-grief",
+        "event-episode-38-decoding",
+        "event-episode-38-decoding",
         "event-episode-8-the-path-south",
-        "event-episode-8-the-path-south"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-pelrionor",
-      "title": "Pelrionor",
-      "path": "wiki/pages/pelrionor.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
+        "event-episode-8-the-path-south",
         "event-episode-55-words",
-        "event-episode-55-words"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-pelvernor",
-      "title": "Pelvernor",
-      "path": "wiki/pages/pelvernor.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
+        "event-episode-55-words",
         "event-episode-8-the-path-south",
         "event-episode-8-the-path-south",
         "event-episode-12-it-was-a-quiet-morning",
@@ -27356,7 +26903,14 @@
         "event-episode-51-meetings-and-secrets",
         "event-episode-54-tapestry"
       ],
-      "aliases": [],
+      "aliases": [
+        "Helrenor",
+        "pelornor",
+        "Pelrinoar",
+        "Pelrionor",
+        "pelrnor",
+        "Pelvernor"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -30278,24 +29832,6 @@
       "keyLinks": []
     },
     {
-      "id": "location-riot-trading-house",
-      "title": "Riot trading house",
-      "path": "wiki/pages/riot-trading-house.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-72-just-the-way-you-look-tonight",
-        "event-episode-72-just-the-way-you-look-tonight"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: La Riah Trading House, LaRia trading house -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "item-ritual-artifacts",
       "title": "Ritual Artifacts",
       "path": "wiki/pages/ritual-artifacts.md",
@@ -30957,31 +30493,16 @@
       ],
       "links": [
         "event-episode-51-meetings-and-secrets",
-        "event-episode-51-meetings-and-secrets"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-ruark",
-      "title": "Ruark",
-      "path": "wiki/pages/ruark.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
+        "event-episode-51-meetings-and-secrets",
         "event-episode-51-meetings-and-secrets",
         "event-episode-51-meetings-and-secrets",
         "event-episode-54-tapestry",
         "event-episode-106-live-get-to-the-tower",
         "event-episode-109-where-do-we-go-from-here"
       ],
-      "aliases": [],
+      "aliases": [
+        "Ruark"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -32109,24 +31630,6 @@
       "keyLinks": []
     },
     {
-      "id": "location-season-slade",
-      "title": "Season Slade",
-      "path": "wiki/pages/season-slade.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-2-rumors-are-flying",
-        "event-episode-2-rumors-are-flying"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Seasons Glade, Season's Glade, Seasons Lake, Seasons Blade -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "location-seasonal-tower",
       "title": "Seasonal Tower",
       "path": "wiki/pages/seasonal-tower.md",
@@ -32140,24 +31643,6 @@
       ],
       "aliases": [],
       "summary": "A tower that combines all four seasons. The heroes reconvene outside it.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-seasons-blade",
-      "title": "Seasons Blade",
-      "path": "wiki/pages/seasons-blade.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-63-on-the-road-again",
-        "event-episode-63-on-the-road-again"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Seasons Glade, Season's Glade, Seasons Lake, Season Slade -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -32232,11 +31717,23 @@
         "event-episode-17-tub-time",
         "event-episode-61-reverse-order",
         "event-episode-93-maeve-s-day",
-        "event-episode-106-live-get-to-the-tower"
+        "event-episode-106-live-get-to-the-tower",
+        "event-episode-2-rumors-are-flying",
+        "event-episode-2-rumors-are-flying",
+        "event-episode-63-on-the-road-again",
+        "event-episode-63-on-the-road-again",
+        "event-episode-2-rumors-are-flying",
+        "event-episode-2-rumors-are-flying"
       ],
       "aliases": [
+        "Season Slade",
         "season-s-glade",
-        "Season's Glade"
+        "season-slade",
+        "Season's Glade",
+        "Seasons Blade",
+        "Seasons Lake",
+        "seasons-blade",
+        "seasons-lake"
       ],
       "summary": "Possible duplicate of: Season's Glade, Seasons Lake, Season Slade, Seasons Blade -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
@@ -32257,24 +31754,6 @@
       ],
       "aliases": [],
       "summary": "A pole axe weapon, likely named after the seasons.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-seasons-lake",
-      "title": "Seasons Lake",
-      "path": "wiki/pages/seasons-lake.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-2-rumors-are-flying",
-        "event-episode-2-rumors-are-flying"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Seasons Glade, Season's Glade, Season Slade, Seasons Blade -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -32968,28 +32447,15 @@
       "links": [
         "event-episode-15-valok-s-vision",
         "event-episode-15-valok-s-vision",
-        "event-episode-87-repercussions"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Shrine of Row -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-shrine-of-row",
-      "title": "Shrine of Row",
-      "path": "wiki/pages/shrine-of-row.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
+        "event-episode-87-repercussions",
         "event-episode-75-best-pal",
         "event-episode-75-best-pal"
       ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Shrine of Raoul -- unresolved, see possibleduplicatesreview.md",
+      "aliases": [
+        "Shrine of Row",
+        "shrine-of-row"
+      ],
+      "summary": "Possible duplicate of: Shrine of Row -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -33710,24 +33176,6 @@
       "keyLinks": []
     },
     {
-      "id": "location-simisma",
-      "title": "Simisma",
-      "path": "wiki/pages/simisma.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-side-quest-home-of-the-venerable-wa-2",
-        "event-side-quest-home-of-the-venerable-wa-2"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Sinisma -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "item-simple-silver-band",
       "title": "Simple Silver Band",
       "path": "wiki/pages/simple-silver-band.md",
@@ -33764,25 +33212,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-sinata",
-      "title": "Sinata",
-      "path": "wiki/pages/sinata.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-side-quest-golden-circle-part-2",
-        "event-side-quest-golden-circle-part-2"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "location-sinisma",
       "title": "Sinisma",
       "path": "wiki/pages/sinisma.md",
@@ -33792,82 +33221,27 @@
       ],
       "links": [
         "event-episode-134-dangerous-secrets",
-        "event-episode-134-dangerous-secrets"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Sinismaa, Sinismar, Sinusma, Simisma -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-sinismaa",
-      "title": "Sinismaa",
-      "path": "wiki/pages/sinismaa.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
+        "event-episode-134-dangerous-secrets",
+        "event-side-quest-home-of-the-venerable-wa-2",
+        "event-side-quest-home-of-the-venerable-wa-2",
         "event-episode-124-i-ve-come-to-barter-not-battle",
-        "event-episode-124-i-ve-come-to-barter-not-battle"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Sinismar, Sinisma -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-sinismar",
-      "title": "Sinismar",
-      "path": "wiki/pages/sinismar.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
         "event-episode-124-i-ve-come-to-barter-not-battle",
-        "event-episode-124-i-ve-come-to-barter-not-battle"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Sinismaa, Sinisma -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-sinus-ma",
-      "title": "Sinus Ma",
-      "path": "wiki/pages/sinus-ma.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
+        "event-episode-124-i-ve-come-to-barter-not-battle",
+        "event-episode-124-i-ve-come-to-barter-not-battle",
         "event-episode-132-tickle-torture",
-        "event-episode-132-tickle-torture"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Sinusma -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-sinusma",
-      "title": "Sinusma",
-      "path": "wiki/pages/sinusma.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
+        "event-episode-132-tickle-torture",
         "event-episode-61-reverse-order",
         "event-episode-61-reverse-order"
       ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Sinus Ma, Sinisma -- unresolved, see possibleduplicatesreview.md",
+      "aliases": [
+        "Simisma",
+        "Sinismaa",
+        "Sinismar",
+        "Sinus Ma",
+        "sinus-ma",
+        "Sinusma"
+      ],
+      "summary": "Possible duplicate of: Sinismaa, Sinismar, Sinusma, Simisma -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -34402,9 +33776,13 @@
       ],
       "links": [
         "event-side-quest-golden-circle-part-1",
-        "event-side-quest-golden-circle-part-1"
+        "event-side-quest-golden-circle-part-1",
+        "event-side-quest-golden-circle-part-2",
+        "event-side-quest-golden-circle-part-2"
       ],
-      "aliases": [],
+      "aliases": [
+        "Sinata"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -34955,25 +34333,6 @@
       "keyLinks": []
     },
     {
-      "id": "location-spring-councilor-s-estate",
-      "title": "Spring Councilor's Estate",
-      "path": "wiki/pages/spring-councilor-s-estate.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-74-stake-outs",
-        "event-episode-74-stake-outs",
-        "event-episode-86-let-s-make-a-deal"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Spring Counselor's Estate, Spring Court's Estate -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "location-spring-counselor-s-estate",
       "title": "Spring Counselor's Estate",
       "path": "wiki/pages/spring-counselor-s-estate.md",
@@ -34983,9 +34342,19 @@
       ],
       "links": [
         "event-episode-75-best-pal",
-        "event-episode-75-best-pal"
+        "event-episode-75-best-pal",
+        "event-episode-74-stake-outs",
+        "event-episode-74-stake-outs",
+        "event-episode-86-let-s-make-a-deal",
+        "event-episode-83-i-swear-there-is-a-plan",
+        "event-episode-83-i-swear-there-is-a-plan"
       ],
-      "aliases": [],
+      "aliases": [
+        "Spring Councilor's Estate",
+        "Spring Court's Estate",
+        "spring-councilor-s-estate",
+        "spring-court-s-estate"
+      ],
       "summary": "Possible duplicate of: Spring Councilor's Estate, Spring Court's Estate -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -35025,9 +34394,14 @@
       ],
       "links": [
         "event-episode-75-best-pal",
-        "event-episode-75-best-pal"
+        "event-episode-75-best-pal",
+        "event-episode-83-i-swear-there-is-a-plan",
+        "event-episode-83-i-swear-there-is-a-plan"
       ],
-      "aliases": [],
+      "aliases": [
+        "Spring Court's Administrative Building",
+        "spring-court-s-administrative-building"
+      ],
       "summary": "Possible duplicate of: Spring Court's Administrative Building -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -35048,42 +34422,6 @@
       ],
       "aliases": [],
       "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-spring-court-s-administrative-building",
-      "title": "Spring Court's Administrative Building",
-      "path": "wiki/pages/spring-court-s-administrative-building.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-83-i-swear-there-is-a-plan",
-        "event-episode-83-i-swear-there-is-a-plan"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Spring Court Administration Building -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-spring-court-s-estate",
-      "title": "Spring Court's Estate",
-      "path": "wiki/pages/spring-court-s-estate.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-83-i-swear-there-is-a-plan",
-        "event-episode-83-i-swear-there-is-a-plan"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Spring Councilor's Estate, Spring Counselor's Estate -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -38146,24 +37484,6 @@
       "keyLinks": []
     },
     {
-      "id": "location-tree-ants-territory",
-      "title": "Tree Ants' Territory",
-      "path": "wiki/pages/tree-ants-territory.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-41-free-tree-travel",
-        "event-episode-41-free-tree-travel"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Ents' Territory -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "item-tree-trunk-staff",
       "title": "Tree-trunk staff",
       "path": "wiki/pages/tree-trunk-staff.md",
@@ -38383,24 +37703,6 @@
       "keyLinks": []
     },
     {
-      "id": "location-turtle-castle",
-      "title": "Turtle Castle",
-      "path": "wiki/pages/turtle-castle.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-side-quest-samurai-sunset-part-3",
-        "event-side-quest-samurai-sunset-part-3"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Turtle Clan Castle -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "location-turtle-clan-castle",
       "title": "Turtle Clan Castle",
       "path": "wiki/pages/turtle-clan-castle.md",
@@ -38410,9 +37712,14 @@
       ],
       "links": [
         "event-side-quest-samurai-sunset-part-5",
-        "event-side-quest-samurai-sunset-part-5"
+        "event-side-quest-samurai-sunset-part-5",
+        "event-side-quest-samurai-sunset-part-3",
+        "event-side-quest-samurai-sunset-part-3"
       ],
-      "aliases": [],
+      "aliases": [
+        "Turtle Castle",
+        "turtle-castle"
+      ],
       "summary": "Possible duplicate of: Turtle Castle -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -38454,28 +37761,15 @@
         "event-episode-134-dangerous-secrets",
         "event-episode-134-dangerous-secrets",
         "event-episode-135-pirate-for-a-day",
-        "event-side-quest-tabaxi-tales-part-2"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Turtle dragon isle -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-turtle-dragon-isle",
-      "title": "Turtle dragon isle",
-      "path": "wiki/pages/turtle-dragon-isle.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
+        "event-side-quest-tabaxi-tales-part-2",
         "event-episode-123-prepare-to-jump",
         "event-episode-123-prepare-to-jump"
       ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Turtle Dragon Island -- unresolved, see possibleduplicatesreview.md",
+      "aliases": [
+        "Turtle dragon isle",
+        "turtle-dragon-isle"
+      ],
+      "summary": "Possible duplicate of: Turtle dragon isle -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -39066,9 +38360,13 @@
         "event-episode-129-facts-of-the-universe",
         "event-episode-132-tickle-torture",
         "event-episode-134-dangerous-secrets",
-        "event-episode-135-pirate-for-a-day"
+        "event-episode-135-pirate-for-a-day",
+        "event-episode-12-it-was-a-quiet-morning",
+        "event-episode-12-it-was-a-quiet-morning"
       ],
-      "aliases": [],
+      "aliases": [
+        "Valark"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -39088,25 +38386,6 @@
       ],
       "aliases": [],
       "summary": "Home village of Valak, recreated in a vision",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-valark",
-      "title": "Valark",
-      "path": "wiki/pages/valark.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-12-it-was-a-quiet-morning",
-        "event-episode-12-it-was-a-quiet-morning"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -39225,25 +38504,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-vasral-zagor",
-      "title": "Vasral Zagor",
-      "path": "wiki/pages/vasral-zagor.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-56-q-and-a",
-        "event-episode-56-q-and-a"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "npc-vasso",
       "title": "Vasso",
       "path": "wiki/pages/vasso.md",
@@ -39300,63 +38560,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-vaz-rule",
-      "title": "Vaz'rule",
-      "path": "wiki/pages/vaz-rule.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-50-hymns-of-rao",
-        "event-episode-50-hymns-of-rao"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-vazrol-zagor",
-      "title": "Vazrol Zagor",
-      "path": "wiki/pages/vazrol-zagor.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-103-dark-day",
-        "event-episode-103-dark-day"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-vazroozer-gore",
-      "title": "Vazroozer Gore",
-      "path": "wiki/pages/vazroozer-gore.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-33-second-floor",
-        "event-episode-33-second-floor"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "location-vazrul-s-tent",
       "title": "Vazrul's Tent",
       "path": "wiki/pages/vazrul-s-tent.md",
@@ -39370,46 +38573,6 @@
       ],
       "aliases": [],
       "summary": "Charred and later on fire. Vazrul retreats into it during combat, and it is the site of necromantic energy effects.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-vazrul-zagar",
-      "title": "Vazrul Zagar",
-      "path": "wiki/pages/vazrul-zagar.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-40-his-story",
-        "event-episode-40-his-story"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-vazrul-zegor",
-      "title": "Vazrul Zegor",
-      "path": "wiki/pages/vazrul-zegor.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-38-decoding",
-        "event-episode-38-decoding",
-        "event-episode-41-free-tree-travel",
-        "event-episode-104-darkness-falls"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -39430,9 +38593,36 @@
         "event-episode-53-save-the-puppies",
         "event-episode-54-tapestry",
         "event-episode-102-dark-tidings",
-        "event-episode-103-dark-day"
+        "event-episode-103-dark-day",
+        "event-episode-50-hymns-of-rao",
+        "event-episode-50-hymns-of-rao",
+        "event-episode-56-q-and-a",
+        "event-episode-56-q-and-a",
+        "event-episode-103-dark-day",
+        "event-episode-103-dark-day",
+        "event-episode-40-his-story",
+        "event-episode-40-his-story",
+        "event-episode-38-decoding",
+        "event-episode-38-decoding",
+        "event-episode-41-free-tree-travel",
+        "event-episode-104-darkness-falls",
+        "event-episode-33-second-floor",
+        "event-episode-33-second-floor"
       ],
-      "aliases": [],
+      "aliases": [
+        "Vasral Zagor",
+        "vasral-zagor",
+        "vaz-rule",
+        "Vaz'rule",
+        "Vazrol Zagor",
+        "vazrol-zagor",
+        "Vazroozer Gore",
+        "vazroozer-gore",
+        "Vazrul Zagar",
+        "Vazrul Zegor",
+        "vazrul-zagar",
+        "vazrul-zegor"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -39451,28 +38641,13 @@
         "event-episode-98-dark-dreamers",
         "event-episode-98-dark-dreamers",
         "event-episode-107-live-dark-blades",
-        "event-episode-112-life-s-dawning"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-velika",
-      "title": "Velika",
-      "path": "wiki/pages/velika.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
+        "event-episode-112-life-s-dawning",
         "event-episode-89-rewards",
         "event-episode-89-rewards"
       ],
-      "aliases": [],
+      "aliases": [
+        "Velika"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -40013,9 +39188,14 @@
       ],
       "links": [
         "event-episode-102-dark-tidings",
+        "event-episode-102-dark-tidings",
+        "event-episode-102-dark-tidings",
         "event-episode-102-dark-tidings"
       ],
-      "aliases": [],
+      "aliases": [
+        "Warpen Village",
+        "warpen-village"
+      ],
       "summary": "Possible duplicate of: Warpen Village -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -40040,24 +39220,6 @@
         "war-hammer"
       ],
       "summary": "Possible duplicate of: War Hammer -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-warpen-village",
-      "title": "Warpen Village",
-      "path": "wiki/pages/warpen-village.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
-        "event-episode-102-dark-tidings",
-        "event-episode-102-dark-tidings"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Warg Village -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
@@ -40510,25 +39672,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-winter-council",
-      "title": "Winter Council",
-      "path": "wiki/pages/winter-council.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
-        "event-episode-22-grief",
-        "event-episode-22-grief"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "npc-winter-counselor",
       "title": "Winter Counselor",
       "path": "wiki/pages/winter-counselor.md",
@@ -40539,28 +39682,18 @@
       ],
       "links": [
         "event-episode-83-i-swear-there-is-a-plan",
-        "event-episode-83-i-swear-there-is-a-plan"
-      ],
-      "aliases": [],
-      "summary": "Type unclear from transcript",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-winter-court-head",
-      "title": "Winter Court Head",
-      "path": "wiki/pages/winter-court-head.md",
-      "type": "npc",
-      "tags": [
-        "generated",
-        "character"
-      ],
-      "links": [
+        "event-episode-83-i-swear-there-is-a-plan",
+        "event-episode-22-grief",
+        "event-episode-22-grief",
         "event-episode-78-rehearsal-dinner",
         "event-episode-78-rehearsal-dinner"
       ],
-      "aliases": [],
+      "aliases": [
+        "Winter Council",
+        "Winter Court Head",
+        "winter-council",
+        "winter-court-head"
+      ],
       "summary": "Type unclear from transcript",
       "visibility": "players",
       "approvalStatus": "approved",
@@ -41416,28 +40549,14 @@
         "event-episode-89-rewards",
         "event-episode-91-fathers-and-sons",
         "event-episode-115-live-at-gateway-2022-daddy-d",
-        "event-episode-124-i-ve-come-to-barter-not-battle"
-      ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Zixar -- unresolved, see possibleduplicatesreview.md",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-zixar",
-      "title": "Zixar",
-      "path": "wiki/pages/zixar.md",
-      "type": "location",
-      "tags": [
-        "generated"
-      ],
-      "links": [
+        "event-episode-124-i-ve-come-to-barter-not-battle",
         "event-episode-41-free-tree-travel",
         "event-episode-41-free-tree-travel"
       ],
-      "aliases": [],
-      "summary": "Possible duplicate of: Zixa -- unresolved, see possibleduplicatesreview.md",
+      "aliases": [
+        "Zixar"
+      ],
+      "summary": "Possible duplicate of: Zixar -- unresolved, see possibleduplicatesreview.md",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []

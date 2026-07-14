@@ -9,7 +9,8 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
+aliases:
+  - "Zixar"
 importedFrom: Attackers of Opportunity wiki pipeline
 ---
 
@@ -33,3 +34,25 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-91-fathers-and-sons|Episode 91: Fathers and Sons]]
 - [[episode-115-live-at-gateway-2022-daddy-d|Episode 115: LIVE AT GATEWAY 2022! Daddy D]]
 - [[episode-124-i-ve-come-to-barter-not-battle|Episode 124: I've Come to Barter, not Battle.]]
+
+## Also Called
+
+This page may also be called **Zixar**.
+
+## Merged Duplicate Notes
+
+### Notes from Zixar
+
+_Source page: `zixar.md`_
+
+> **Possible duplicate of:** Zixa -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Capital city founded by Joso after defeating the Necromancer Lord
+
+## Appearances
+
+**First appearance:** [[episode-41-free-tree-travel|Episode 41: Free Tree Travel]]
+
+- [[episode-41-free-tree-travel|Episode 41: Free Tree Travel]]

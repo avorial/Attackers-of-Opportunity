@@ -10,10 +10,12 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-importedFrom: Attackers of Opportunity wiki pipeline
 aliases:
   - "Lake Brin"
+  - "Lake of Bryn"
   - "lake-brin"
+  - "lake-of-bryn"
+importedFrom: Attackers of Opportunity wiki pipeline
 ---
 
 > **Possible duplicate of:** Lake of Bryn, Lake Brin -- unresolved, see possible_duplicates_review.md
@@ -35,6 +37,7 @@ aliases:
 ## Also Called
 
 This page may also be called **Lake Brin**.
+This page may also be called **Lake of Bryn**.
 
 ## Merged Duplicate Notes
 
@@ -55,3 +58,21 @@ _Source page: `lake-brin.md`_
 
 - [[episode-19-bureaucracy-at-its-finest|Episode 19: Bureaucracy at its Finest]]
 - [[episode-89-rewards|Episode 89: Rewards]]
+
+## Merged Duplicate Notes
+
+### Notes from Lake of Bryn
+
+_Source page: `lake-of-bryn.md`_
+
+> **Possible duplicate of:** Lake Bryn -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Location where the spectral woman was sighted; the witness was walking near the western shore.
+
+## Appearances
+
+**First appearance:** [[episode-19-bureaucracy-at-its-finest|Episode 19: Bureaucracy at its Finest]]
+
+- [[episode-19-bureaucracy-at-its-finest|Episode 19: Bureaucracy at its Finest]]

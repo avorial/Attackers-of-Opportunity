@@ -10,10 +10,16 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-importedFrom: Attackers of Opportunity wiki pipeline
 aliases:
+  - "Season Slade"
   - "season-s-glade"
+  - "season-slade"
   - "Season's Glade"
+  - "Seasons Blade"
+  - "Seasons Lake"
+  - "seasons-blade"
+  - "seasons-lake"
+importedFrom: Attackers of Opportunity wiki pipeline
 ---
 
 > **Possible duplicate of:** Season's Glade, Seasons Lake, Season Slade, Seasons Blade -- unresolved, see possible_duplicates_review.md
@@ -71,6 +77,7 @@ aliases:
 ## Also Called
 
 This page may also be called **Season's Glade**.
+This page may also be called **Season Slade**, **Seasons Blade**, **Seasons Lake**.
 
 ## Merged Duplicate Notes
 
@@ -95,3 +102,53 @@ _Source page: `season-s-glade.md`_
 - [[episode-61-reverse-order|Episode 61: Reverse Order]]
 - [[episode-93-maeve-s-day|Episode 93: Maeve's Day]]
 - [[episode-106-live-get-to-the-tower|Episode 106: LIVE! Get to the Tower!!]]
+
+## Merged Duplicate Notes
+
+### Notes from Season Slade
+
+_Source page: `season-slade.md`_
+
+> **Possible duplicate of:** Seasons Glade, Season's Glade, Seasons Lake, Seasons Blade -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A location mentioned in a petition.
+
+## Appearances
+
+**First appearance:** [[episode-2-rumors-are-flying|Episode 2: Rumors are flying]]
+
+- [[episode-2-rumors-are-flying|Episode 2: Rumors are flying]]
+
+### Notes from Seasons Blade
+
+_Source page: `seasons-blade.md`_
+
+> **Possible duplicate of:** Seasons Glade, Season's Glade, Seasons Lake, Season Slade -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A town under the control of the Spring Court, with 300 patrollers and signs of a covert takeover.
+
+## Appearances
+
+**First appearance:** [[episode-63-on-the-road-again|Episode 63: On the Road Again]]
+
+- [[episode-63-on-the-road-again|Episode 63: On the Road Again]]
+
+### Notes from Seasons Lake
+
+_Source page: `seasons-lake.md`_
+
+> **Possible duplicate of:** Seasons Glade, Season's Glade, Season Slade, Seasons Blade -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A body of water connected to the river from Passette.
+
+## Appearances
+
+**First appearance:** [[episode-2-rumors-are-flying|Episode 2: Rumors are flying]]
+
+- [[episode-2-rumors-are-flying|Episode 2: Rumors are flying]]

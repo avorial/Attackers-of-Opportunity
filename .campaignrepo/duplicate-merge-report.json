@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T00:26:36.242Z",
+  "generatedAt": "2026-07-14T00:31:03.556Z",
   "groups": [
     {
       "keep": "golden-circle-2",
@@ -648,6 +648,247 @@
       "keep": "valyx",
       "removed": [
         "valix"
+      ]
+    },
+    {
+      "keep": "adiana",
+      "removed": [
+        "adiara"
+      ]
+    },
+    {
+      "keep": "fulco",
+      "removed": [
+        "full-co"
+      ]
+    },
+    {
+      "keep": "isoyama",
+      "removed": [
+        "isuyama"
+      ]
+    },
+    {
+      "keep": "karavi",
+      "removed": [
+        "kuravi"
+      ]
+    },
+    {
+      "keep": "lady-veronestra",
+      "removed": [
+        "lady-berenestra",
+        "lady-venetra"
+      ]
+    },
+    {
+      "keep": "lake-bryn",
+      "removed": [
+        "lake-of-bryn"
+      ]
+    },
+    {
+      "keep": "maeve",
+      "removed": [
+        "mave",
+        "maven"
+      ]
+    },
+    {
+      "keep": "passet",
+      "removed": [
+        "passat",
+        "passette"
+      ]
+    },
+    {
+      "keep": "pelrenor",
+      "removed": [
+        "helrenor",
+        "pelrinoar",
+        "pelrionor",
+        "pelvernor"
+      ]
+    },
+    {
+      "keep": "ruak",
+      "removed": [
+        "ruark"
+      ]
+    },
+    {
+      "keep": "sinisma",
+      "removed": [
+        "simisma",
+        "sinismaa",
+        "sinismar",
+        "sinus-ma",
+        "sinusma"
+      ]
+    },
+    {
+      "keep": "spring-counselor-s-estate",
+      "removed": [
+        "spring-councilor-s-estate",
+        "spring-court-s-estate"
+      ]
+    },
+    {
+      "keep": "spring-court-administration-building",
+      "removed": [
+        "spring-court-s-administrative-building"
+      ]
+    },
+    {
+      "keep": "turtle-dragon-island",
+      "removed": [
+        "turtle-dragon-isle"
+      ]
+    },
+    {
+      "keep": "valak",
+      "removed": [
+        "valark"
+      ]
+    },
+    {
+      "keep": "vazrul",
+      "removed": [
+        "vaz-rule",
+        "vasral-zagor",
+        "vazrol-zagor",
+        "vazrul-zagar",
+        "vazrul-zegor",
+        "vazroozer-gore"
+      ]
+    },
+    {
+      "keep": "winter-counselor",
+      "removed": [
+        "winter-council",
+        "winter-court-head"
+      ]
+    },
+    {
+      "keep": "warg-village",
+      "removed": [
+        "warpen-village"
+      ]
+    },
+    {
+      "keep": "zixa",
+      "removed": [
+        "zixar"
+      ]
+    },
+    {
+      "keep": "dorian-vessandiral",
+      "removed": [
+        "dorian-vessandara",
+        "lord-dorian-vessandiral"
+      ]
+    },
+    {
+      "keep": "dorian-van-de-sorral",
+      "removed": [
+        "dorian-van-de-sorau",
+        "lord-dorian-van-der-soral",
+        "gadrian-van-der-soral"
+      ]
+    },
+    {
+      "keep": "barrios",
+      "removed": [
+        "barris"
+      ]
+    },
+    {
+      "keep": "berios-silverthrust",
+      "removed": [
+        "barrios-silverthrust"
+      ]
+    },
+    {
+      "keep": "black-fang-s-ship-2",
+      "removed": [
+        "black-fang-s-fist"
+      ]
+    },
+    {
+      "keep": "council-chambers",
+      "removed": [
+        "councilor-s-chambers"
+      ]
+    },
+    {
+      "keep": "ents-territory",
+      "removed": [
+        "tree-ants-territory"
+      ]
+    },
+    {
+      "keep": "fires-of-the-vrung",
+      "removed": [
+        "files-of-the-vrong"
+      ]
+    },
+    {
+      "keep": "keisha",
+      "removed": [
+        "geisha"
+      ]
+    },
+    {
+      "keep": "goblin-encampment",
+      "removed": [
+        "goblin-army-encampment"
+      ]
+    },
+    {
+      "keep": "goblin-territories",
+      "removed": [
+        "goblin-territory"
+      ]
+    },
+    {
+      "keep": "lauraya-trading-house",
+      "removed": [
+        "la-raya-trade-house",
+        "la-riah-trading-house",
+        "laria-trading-house",
+        "riot-trading-house"
+      ]
+    },
+    {
+      "keep": "seasons-glade",
+      "removed": [
+        "season-slade",
+        "seasons-blade",
+        "seasons-lake"
+      ]
+    },
+    {
+      "keep": "shrine-of-raoul",
+      "removed": [
+        "shrine-of-row"
+      ]
+    },
+    {
+      "keep": "sonata",
+      "removed": [
+        "sinata"
+      ]
+    },
+    {
+      "keep": "turtle-clan-castle",
+      "removed": [
+        "turtle-castle"
+      ]
+    },
+    {
+      "keep": "velik",
+      "removed": [
+        "velika"
       ]
     }
   ]

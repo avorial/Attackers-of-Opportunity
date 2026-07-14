@@ -10,7 +10,9 @@ keyLinks: []
 tags:
   - generated
   - player-character
-aliases: []
+aliases:
+  - "Mave"
+  - "Maven"
 importedFrom: Attackers of Opportunity wiki pipeline
 ---
 
@@ -177,3 +179,72 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-135-pirate-for-a-day|Episode 135: Pirate for a Day!]]
 - [[episode-138-fire|Episode 138: Fire!!!]]
 - [[side-quest-the-order-part-1|Side Quest_ The Order - Part 1]]
+
+## Also Called
+
+This page may also be called **Mave**, **Maven**.
+
+## Merged Duplicate Notes
+
+### Notes from Mave
+
+_Source page: `mave.md`_
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Maeve, Maven -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A character who intervenes to slow Dorian's drinking. Her actions are supported by Ellie, who is absent.
+- Referred to as a princess who cast aside her life of luxury to live among monks. Her tail is described as 'fat,' and she expresses frustration about traveling.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-61-reverse-order|Episode 61: Reverse Order]]
+
+- [[episode-61-reverse-order|Episode 61: Reverse Order]]
+- [[episode-130-party-time|Episode 130: Party Time]]
+- [[episode-137-aim|Episode 137: Aim...]]
+
+### Notes from Maven
+
+_Source page: `maven.md`_
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Mave -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Character involved in a distraction during a meeting with goblin priests.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-55-words|Episode 55: Words]]
+
+- [[episode-55-words|Episode 55: Words]]

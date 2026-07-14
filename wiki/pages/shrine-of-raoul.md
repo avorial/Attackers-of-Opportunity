@@ -10,7 +10,9 @@ knownToPlayers: true
 keyLinks: []
 tags:
   - generated
-aliases: []
+aliases:
+  - "Shrine of Row"
+  - "shrine-of-row"
 importedFrom: Attackers of Opportunity wiki pipeline
 ---
 
@@ -27,3 +29,25 @@ importedFrom: Attackers of Opportunity wiki pipeline
 
 - [[episode-15-valok-s-vision|Episode 15: Valok's Vision]]
 - [[episode-87-repercussions|Episode 87: Repercussions]]
+
+## Also Called
+
+This page may also be called **Shrine of Row**.
+
+## Merged Duplicate Notes
+
+### Notes from Shrine of Row
+
+_Source page: `shrine-of-row.md`_
+
+> **Possible duplicate of:** Shrine of Raoul -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- Part of the Festival of Rao celebrations. Valak tells a story here.
+
+## Appearances
+
+**First appearance:** [[episode-75-best-pal|Episode 75: Best Pal]]
+
+- [[episode-75-best-pal|Episode 75: Best Pal]]

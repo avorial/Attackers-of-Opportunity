@@ -10,7 +10,8 @@ keyLinks: []
 tags:
   - generated
   - character
-aliases: []
+aliases:
+  - "Isuyama"
 importedFrom: Attackers of Opportunity wiki pipeline
 ---
 
@@ -41,3 +42,41 @@ importedFrom: Attackers of Opportunity wiki pipeline
 **First appearance:** [[side-quest-bloody-hand-part-1|Side Quest - Bloody Hand Part 1]]
 
 - [[side-quest-bloody-hand-part-1|Side Quest - Bloody Hand Part 1]]
+
+## Also Called
+
+This page may also be called **Isuyama**.
+
+## Merged Duplicate Notes
+
+### Notes from Isuyama
+
+_Source page: `isuyama.md`_
+
+*Type unclear from transcript*
+
+*Also known as: Isayama*
+
+> **Possible duplicate of:** Isoyama -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A player character who uses perception checks and survival skills.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[side-quest-bloody-hand-part-2|Side Quest - Bloody Hand Part 2]]
+
+- [[side-quest-bloody-hand-part-2|Side Quest - Bloody Hand Part 2]]

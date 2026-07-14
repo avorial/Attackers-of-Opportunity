@@ -10,7 +10,8 @@ keyLinks: []
 tags:
   - generated
   - character
-aliases: []
+aliases:
+  - "Velika"
 importedFrom: Attackers of Opportunity wiki pipeline
 ---
 
@@ -42,3 +43,39 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-98-dark-dreamers|Episode 98: Dark Dreamers]]
 - [[episode-107-live-dark-blades|Episode 107: LIVE! Dark Blades]]
 - [[episode-112-life-s-dawning|Episode 112: Life's Dawning]]
+
+## Also Called
+
+This page may also be called **Velika**.
+
+## Merged Duplicate Notes
+
+### Notes from Velika
+
+_Source page: `velika.md`_
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Velik -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+- A character who used Disguised Self to wear Zixxin noble finery.
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-89-rewards|Episode 89: Rewards]]
+
+- [[episode-89-rewards|Episode 89: Rewards]]

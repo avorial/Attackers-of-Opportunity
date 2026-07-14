@@ -10,7 +10,8 @@ keyLinks: []
 tags:
   - generated
   - player-character
-aliases: []
+aliases:
+  - "Valark"
 importedFrom: Attackers of Opportunity wiki pipeline
 ---
 
@@ -192,3 +193,39 @@ importedFrom: Attackers of Opportunity wiki pipeline
 - [[episode-132-tickle-torture|Episode 132: Tickle Torture]]
 - [[episode-134-dangerous-secrets|Episode 134: Dangerous Secrets]]
 - [[episode-135-pirate-for-a-day|Episode 135: Pirate for a Day!]]
+
+## Also Called
+
+This page may also be called **Valark**.
+
+## Merged Duplicate Notes
+
+### Notes from Valark
+
+_Source page: `valark.md`_
+
+*Type unclear from transcript*
+
+> **Possible duplicate of:** Valak -- unresolved, see possible_duplicates_review.md
+
+## Description
+
+*(none extracted)*
+
+## Actions
+
+*(none extracted)*
+
+## Relationships
+
+*(none extracted)*
+
+## Status History
+
+*(none extracted)*
+
+## Appearances
+
+**First appearance:** [[episode-12-it-was-a-quiet-morning|Episode 12: It was a quiet morning...]]
+
+- [[episode-12-it-was-a-quiet-morning|Episode 12: It was a quiet morning...]]
