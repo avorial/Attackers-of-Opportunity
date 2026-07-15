@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T13:17:11.085Z",
+  "generatedAt": "2026-07-15T13:27:10.826Z",
   "pages": [
     {
       "id": "item-1-armor",
@@ -40594,6 +40594,24 @@
       "aliases": [],
       "summary": "A city-state within Olympia where the Bloody Hand is summoned by King Eero.",
       "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "lore-Campaign",
+      "title": "Campaign",
+      "path": "wiki/pages/Campaign.md",
+      "type": "lore",
+      "tags": [
+        "lore"
+      ],
+      "links": [
+        "unresolved:Character",
+        "unresolved:NPC"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": []
     }
