@@ -25,6 +25,13 @@ categories:
     label: "Lore"
   - id: game
     label: "Games"
+# The 1,106 "item" pages are loot line-items from the import pipeline
+# ("113 gold", "2000 Gold Chest"). They stay in the repo, keep their links, and
+# open by direct URL — they are only hidden from the sidebar and search so the
+# hand-written episodes, NPCs, and locations are findable. The sidebar footer
+# toggles them back on; delete this key to unmute permanently.
+mutedTags:
+  - category:item
 visibility:
   default: players
 approvals:
